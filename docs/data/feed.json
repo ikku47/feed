@@ -1,5 +1,170 @@
 [
   {
+    "id": "twitter_1980278797074382861",
+    "source": "twitter",
+    "author": "CodeWithOllie",
+    "content": "@nicolasembleton @hqmank @FactoryAI Thanks.",
+    "url": "https://x.com/CodeWithOllie/status/1980278797074382861",
+    "timestamp": "2025-10-20T14:23:51.000Z",
+    "metadata": {
+      "conversation_id": "1980278797074382861",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980278499920302140",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@yitzycohan @aeitroc @AnthropicAI @FactoryAI i just like that it follows instructions really well.",
+    "url": "https://x.com/bentossell/status/1980278499920302140",
+    "timestamp": "2025-10-20T14:22:40.000Z",
+    "metadata": {
+      "conversation_id": "1980278499920302140",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980277966828421192",
+    "source": "twitter",
+    "author": "dalu_hey",
+    "content": "@bentossell @FactoryAI At $20 1M tokens cost $1.\nPast that it's 2.7x the price. More expensive than directly paying a ChatGPT Plus sub.\nA Plus sub gets me ~25M tokens/month, but with 5h and weekly limits.\nThat's why droid is preferred.\nBut that changes post the $20 mark.",
+    "url": "https://x.com/dalu_hey/status/1980277966828421192",
+    "timestamp": "2025-10-20T14:20:33.000Z",
+    "metadata": {
+      "conversation_id": "1980277966828421192",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980277959094370572",
+    "source": "twitter",
+    "author": "nicolasembleton",
+    "content": "@CodeWithOllie @hqmank @FactoryAI OpenCode is a great piece of software, very configurable, where you can create and add tools, agents, plugins, providers, all very easily. It is a very competent system. Now GLM 4.6 is a very strong coding model, that gives you a setup that can sustain most coding needs for cheap",
+    "url": "https://x.com/nicolasembleton/status/1980277959094370572",
+    "timestamp": "2025-10-20T14:20:31.000Z",
+    "metadata": {
+      "conversation_id": "1980277959094370572",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980276681886540141",
+    "source": "twitter",
+    "author": "dalu_hey",
+    "content": "@bentossell @FactoryAI too expensive :)",
+    "url": "https://x.com/dalu_hey/status/1980276681886540141",
+    "timestamp": "2025-10-20T14:15:27.000Z",
+    "metadata": {
+      "conversation_id": "1980276681886540141",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980276502748176789",
+    "source": "twitter",
+    "author": "yitzycohan",
+    "content": "@bentossell @aeitroc @AnthropicAI @FactoryAI Exactly!     btw in what areas do you see codex better that you use it? I found it to be inefficient",
+    "url": "https://x.com/yitzycohan/status/1980276502748176789",
+    "timestamp": "2025-10-20T14:14:44.000Z",
+    "metadata": {
+      "conversation_id": "1980276502748176789",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980274354253406579",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@xor0110 @FactoryAI in https://t.co/GFz5JwyGUn you should see your referral code",
+    "url": "https://x.com/bentossell/status/1980274354253406579",
+    "timestamp": "2025-10-20T14:06:12.000Z",
+    "metadata": {
+      "conversation_id": "1980274354253406579",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980274248414331097",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@yitzycohan @aeitroc @AnthropicAI @FactoryAI eng team uses sonnet 4.5 mostly! i use codex :)",
+    "url": "https://x.com/bentossell/status/1980274248414331097",
+    "timestamp": "2025-10-20T14:05:47.000Z",
+    "metadata": {
+      "conversation_id": "1980274248414331097",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980274183717158948",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@caherrerapa @lllIIIIlIlIaa @aeitroc @AnthropicAI @FactoryAI haha i can guarantee you they're not",
+    "url": "https://x.com/bentossell/status/1980274183717158948",
+    "timestamp": "2025-10-20T14:05:31.000Z",
+    "metadata": {
+      "conversation_id": "1980274183717158948",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980273201780273191",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@bentossell @FactoryAI 🫡",
+    "url": "https://x.com/erd0xbc/status/1980273201780273191",
+    "timestamp": "2025-10-20T14:01:37.000Z",
+    "metadata": {
+      "conversation_id": "1980273201780273191",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980272701551043058",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@ak_kim0 @FactoryAI @opencode It was slightly hyperbolic but tbf, those are not SOTA.",
+    "url": "https://x.com/contxtkng/status/1980272701551043058",
+    "timestamp": "2025-10-20T13:59:38.000Z",
+    "metadata": {
+      "conversation_id": "1980272701551043058",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980271577947160951",
     "source": "twitter",
     "author": "zachwills",
@@ -40,7 +205,7 @@
       "conversation_id": "1980267594570408023",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -85,7 +250,7 @@
       "conversation_id": "1980266864514068810",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -115,7 +280,7 @@
       "conversation_id": "1980258945873666401",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -135,171 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980258099500904521",
-    "source": "twitter",
-    "author": "2mawi2W",
-    "content": "@aeitroc Looks a bit like our open sourced orchestrator concept of schaltwerk https://t.co/bNtVdvvYRe. The difference: We start each  @FactoryAI droid agent on it's own worktree. @aeitroc are you using ACP for communication? https://t.co/J8NvWgvC0a",
-    "url": "https://x.com/2mawi2W/status/1980258099500904521",
-    "timestamp": "2025-10-20T13:01:36.000Z",
-    "metadata": {
-      "conversation_id": "1980258099500904521",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980257821271699655",
-    "source": "twitter",
-    "author": "yitzycohan",
-    "content": "@aeitroc @AnthropicAI @FactoryAI Just for curiosity wich models does factoryai rely on? 🤔",
-    "url": "https://x.com/yitzycohan/status/1980257821271699655",
-    "timestamp": "2025-10-20T13:00:30.000Z",
-    "metadata": {
-      "conversation_id": "1980257821271699655",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980257424771842218",
-    "source": "twitter",
-    "author": "caherrerapa",
-    "content": "@lllIIIIlIlIaa @aeitroc @AnthropicAI @FactoryAI They are paid posts for sure",
-    "url": "https://x.com/caherrerapa/status/1980257424771842218",
-    "timestamp": "2025-10-20T12:58:56.000Z",
-    "metadata": {
-      "conversation_id": "1980257424771842218",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980256063526961352",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@aeitroc should I use the \"Spec Mode\" in @FactoryAI Droid with the orchestrator? Or just use the default mode? \nAlso I created the tasks folders but it doesn't put any tasks in it. Am I doing something wrong here?",
-    "url": "https://x.com/pascallammers_/status/1980256063526961352",
-    "timestamp": "2025-10-20T12:53:31.000Z",
-    "metadata": {
-      "conversation_id": "1980256063526961352",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980254348262207819",
-    "source": "twitter",
-    "author": "nmw_dev",
-    "content": "@aeitroc @AnthropicAI @FactoryAI Maybe you need to learn how to use it.. I don’t know",
-    "url": "https://x.com/nmw_dev/status/1980254348262207819",
-    "timestamp": "2025-10-20T12:46:42.000Z",
-    "metadata": {
-      "conversation_id": "1980254348262207819",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980253534785331220",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "Testing this rn\nLooks good so far \n@FactoryAI will also have a look into it and maybe implement it straight away (which would be super nice I think) \n\nthanks @aeitroc for that repo :)",
-    "url": "https://x.com/pascallammers_/status/1980253534785331220",
-    "timestamp": "2025-10-20T12:43:28.000Z",
-    "metadata": {
-      "conversation_id": "1980253534785331220",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980252495432523895",
-    "source": "twitter",
-    "author": "d3layd",
-    "content": "@aeitroc @AnthropicAI @FactoryAI What are you talking about lmfao",
-    "url": "https://x.com/d3layd/status/1980252495432523895",
-    "timestamp": "2025-10-20T12:39:20.000Z",
-    "metadata": {
-      "conversation_id": "1980252495432523895",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980249693599752433",
-    "source": "twitter",
-    "author": "MI_Patriotic",
-    "content": "@lllIIIIlIlIaa @aeitroc @AnthropicAI @FactoryAI A guy ~450 followers is gonna be paid and his post is going to get the CEO of @AnthropicAI who is obsessed with “safety” to buy a company for something like $2B?\n\nMaybe it’s just facts being spoken by the market place and actual users!",
-    "url": "https://x.com/MI_Patriotic/status/1980249693599752433",
-    "timestamp": "2025-10-20T12:28:12.000Z",
-    "metadata": {
-      "conversation_id": "1980249693599752433",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980243256043860062",
-    "source": "twitter",
-    "author": "BigForestFarms",
-    "content": "Ok, setup @FactoryAI Droids to work on my first big claude 3.5 megaslop monolith -- lets see how far its gotten in the morning. https://t.co/CLFht1oBTh",
-    "url": "https://x.com/BigForestFarms/status/1980243256043860062",
-    "timestamp": "2025-10-20T12:02:38.000Z",
-    "metadata": {
-      "conversation_id": "1980243256043860062",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980240460334747907",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@damien_r_h @WisprFlow @FactoryAI 🧠",
-    "url": "https://x.com/bentossell/status/1980240460334747907",
-    "timestamp": "2025-10-20T11:51:31.000Z",
-    "metadata": {
-      "conversation_id": "1980240460334747907",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980240437643272475",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@5aikat @FactoryAI @EnoReyes i do both :)",
-    "url": "https://x.com/bentossell/status/1980240437643272475",
-    "timestamp": "2025-10-20T11:51:26.000Z",
-    "metadata": {
-      "conversation_id": "1980240437643272475",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -310,19 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 217
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -339,45 +326,6 @@
     }
   },
   {
-    "id": "reddit_1ob2dsx",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
-    "timestamp": "2025-10-19T21:56:23.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 0,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oazqru",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
-    "timestamp": "2025-10-19T20:10:35.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -388,32 +336,6 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
-    }
-  },
-  {
-    "id": "reddit_1oayeuk",
-    "source": "reddit",
-    "author": "Malek262",
-    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
-    "timestamp": "2025-10-19T19:18:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oapxet",
-    "source": "reddit",
-    "author": "Chemical_Bid_2195",
-    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
-    "timestamp": "2025-10-19T13:40:51.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -495,32 +417,6 @@
     }
   },
   {
-    "id": "github_issue_207",
-    "source": "github",
-    "author": "boshaffer1",
-    "content": "[Issue] factory bridge doesnt download\n\ni try to download factory bridge for mac and doesnt work. can you give me the direct zip please \n",
-    "url": "https://github.com/Factory-AI/factory/issues/207",
-    "timestamp": "2025-10-17T18:48:36Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 207
-    }
-  },
-  {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -534,71 +430,6 @@
     }
   },
   {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o89mzk",
-    "source": "reddit",
-    "author": "x86rip",
-    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
-    "timestamp": "2025-10-16T15:43:59.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "github_issue_201",
-    "source": "github",
-    "author": "jakob1379",
-    "content": "[Issue] add notion on project/folder\n\n```bash\n╭─────────────────────────────────────────────\n│ Select a session\n│\n│   Modified    Created     Messages  Summary\n```\n\nIt would be so nice to see where each session belongs so I accidentally do not start a previous session in a wrong project. Depending on the implementation this could add some guardrail to not act outside the root of the project, but that is besides the point.",
-    "url": "https://github.com/Factory-AI/factory/issues/201",
-    "timestamp": "2025-10-16T15:18:37Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 201
-    }
-  },
-  {
-    "id": "reddit_1o86tci",
-    "source": "reddit",
-    "author": "mr_dudo",
-    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
-    "timestamp": "2025-10-16T13:55:41.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_200",
     "source": "github",
     "author": "JohnDotOwl",
@@ -609,19 +440,6 @@
       "type": "issue",
       "labels": [],
       "number": 200
-    }
-  },
-  {
-    "id": "github_issue_199",
-    "source": "github",
-    "author": "britannio",
-    "content": "[Issue] Emit session-id in droid exec json-stream output format\n\nA few https://github.com/BloopAI/vibe-kanban users are keen to use Droid within Vibe Kanban however the `droid exec` headless mode doesn't emit a session id in the `debug` or `stream-json` output formats. As a result, it's not possible to resume/fork a session initiated in this way.\n\nCould the --output-format stream-json mode include a system message containing the session id? Some CLI coding agents have opted to match the same output format used with Claude Code such that existing scripts can e",
-    "url": "https://github.com/Factory-AI/factory/issues/199",
-    "timestamp": "2025-10-16T09:17:31Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 199
     }
   },
   {
@@ -713,6 +531,45 @@
       "type": "issue",
       "labels": [],
       "number": 185
+    }
+  },
+  {
+    "id": "github_issue_184",
+    "source": "github",
+    "author": "zhengxilong",
+    "content": "[Issue] Any plan to support MacOS 11 Big Sur?\n\nI'm running an MacOS 11 on an old macbook Pro A1708, looks like droid only work with MacOS 13 and above, while I could run claude code, codex on my MacOS 11. If the team could provide droid for Mac OS I will appreciate you effort. Thanks!\n\ndroid\ndyld: Symbol not found: _ubrk_clone\n  Referenced from: /Users/zheng/.local/bin/droid (which was built for Mac OS X 13.0)\n  Expected in: /usr/lib/libicucore.A.dylib\n\nzsh: abort      droid",
+    "url": "https://github.com/Factory-AI/factory/issues/184",
+    "timestamp": "2025-10-14T08:43:12Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 184
+    }
+  },
+  {
+    "id": "github_issue_183",
+    "source": "github",
+    "author": "IIRoan",
+    "content": "[Issue] Devcontainer login not working\n\nHey, when trying to login inside a devcontainer the CLI immeadiatly exits after this message\n\n<img width=\"1116\" height=\"582\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/26f62e89-8c2b-425e-8b44-f3eac9a275fb\" />\n\nThis is inside VSCode default bash terminal but also happens in zsh.\n",
+    "url": "https://github.com/Factory-AI/factory/issues/183",
+    "timestamp": "2025-10-13T11:15:11Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 183
+    }
+  },
+  {
+    "id": "github_issue_181",
+    "source": "github",
+    "author": "QDaed",
+    "content": "[Issue] Droid Glitching While Runnning\n\n\nhttps://github.com/user-attachments/assets/992f997b-2a79-4555-b423-ca8e72a57e50",
+    "url": "https://github.com/Factory-AI/factory/issues/181",
+    "timestamp": "2025-10-13T08:45:54Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 181
     }
   },
   {
