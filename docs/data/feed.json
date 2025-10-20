@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980299177382076927",
+    "source": "twitter",
+    "author": "ak_kim0",
+    "content": "@contxtkng @FactoryAI @opencode Pretty sure opencode, roo, crush yada are sota. But ok appreciate spicing up the interwebs 😄",
+    "url": "https://x.com/ak_kim0/status/1980299177382076927",
+    "timestamp": "2025-10-20T15:44:50.000Z",
+    "metadata": {
+      "conversation_id": "1980299177382076927",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_218",
     "source": "github",
     "author": "donywan",
@@ -188,7 +203,7 @@
       "conversation_id": "1980272701551043058",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -294,21 +309,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980258945873666401",
-    "source": "twitter",
-    "author": "ak_kim0",
-    "content": "@contxtkng @FactoryAI who TF thought you need billions to build a harness! Checkout @opencode aider and many others",
-    "url": "https://x.com/ak_kim0/status/1980258945873666401",
-    "timestamp": "2025-10-20T13:04:58.000Z",
-    "metadata": {
-      "conversation_id": "1980258945873666401",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
