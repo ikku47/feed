@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1980410816777376182",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@KalGrinberg @falanfantana @matanSF @FactoryAI What a combo.",
+    "url": "https://x.com/curiouslychase/status/1980410816777376182",
+    "timestamp": "2025-10-20T23:08:27.000Z",
+    "metadata": {
+      "conversation_id": "1980410816777376182",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980408341257195719",
+    "source": "twitter",
+    "author": "0xmatti",
+    "content": "@laup30 @FactoryAI @OpenAI @AnthropicAI what do you mean as IDE?",
+    "url": "https://x.com/0xmatti/status/1980408341257195719",
+    "timestamp": "2025-10-20T22:58:37.000Z",
+    "metadata": {
+      "conversation_id": "1980408341257195719",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980407298867753413",
     "source": "twitter",
     "author": "0xmatti",
@@ -154,9 +184,9 @@
     "timestamp": "2025-10-20T21:16:59.000Z",
     "metadata": {
       "conversation_id": "1980382764227870928",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -169,7 +199,7 @@
     "timestamp": "2025-10-20T21:11:00.000Z",
     "metadata": {
       "conversation_id": "1980381260389454153",
-      "likes": 10,
+      "likes": 11,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -296,36 +326,6 @@
     }
   },
   {
-    "id": "twitter_1980358748435783753",
-    "source": "twitter",
-    "author": "DannyAziz97",
-    "content": "@nateliason @every @AnthropicAI @danshipper @kieranklaassen @FactoryAI yep, I'm a big factory fan. We've got a vibecheck of droid coming out soon",
-    "url": "https://x.com/DannyAziz97/status/1980358748435783753",
-    "timestamp": "2025-10-20T19:41:33.000Z",
-    "metadata": {
-      "conversation_id": "1980358748435783753",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980354838065213863",
-    "source": "twitter",
-    "author": "0xAgentKitchen",
-    "content": "Cool kids are moving from Claude Code and Codex to Droid (from @FactoryAI)? \n\nOr it's just the flavour of the month and they'll go back to Claude Code / Codex?",
-    "url": "https://x.com/0xAgentKitchen/status/1980354838065213863",
-    "timestamp": "2025-10-20T19:26:01.000Z",
-    "metadata": {
-      "conversation_id": "1980354838065213863",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -347,7 +347,7 @@
     "timestamp": "2025-10-20T06:53:47.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -547,15 +547,15 @@
     }
   },
   {
-    "id": "reddit_1o8t9pq",
+    "id": "reddit_1o86tci",
     "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
+    "author": "mr_dudo",
+    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
+    "timestamp": "2025-10-16T13:55:41.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
