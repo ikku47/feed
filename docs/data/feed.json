@@ -1,18 +1,5 @@
 [
   {
-    "id": "github_issue_218",
-    "source": "github",
-    "author": "donywan",
-    "content": "[Issue] Personal override: ~/.factory/AGENTS.md not work\n\nWhen `AGENTS.md` is exist in project,`~/.factory/AGENTS.md` is not work.",
-    "url": "https://github.com/Factory-AI/factory/issues/218",
-    "timestamp": "2025-10-20T15:14:03Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 218
-    }
-  },
-  {
     "id": "github_issue_217",
     "source": "github",
     "author": "dvcrn",
@@ -75,19 +62,6 @@
       "type": "issue",
       "labels": [],
       "number": 212
-    }
-  },
-  {
-    "id": "github_issue_211",
-    "source": "github",
-    "author": "shaunie2fly",
-    "content": "[Issue] Specialist Droid hangs on requests.\n\n# Issue Report: Specialist Droid Tasks Hang Without Completion\n\n## Issue Summary\n\nSpecialist droid agents (invoked via `Task` tool) acknowledge task requests but fail to complete execution, causing workflow to hang indefinitely without returning results.\n\n---\n\n## Priority\n\n**HIGH** - Blocks workflow execution and forces users to manually perform tasks that should be automated by specialist droids.\n\n---\n\n## Affected Components\n\n- **Tool**: `Task` (task-cli)\n- **Affected Droids**: \n  - `flutter-ar",
-    "url": "https://github.com/Factory-AI/factory/issues/211",
-    "timestamp": "2025-10-18T12:28:05Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 211
     }
   },
   {
@@ -270,6 +244,32 @@
       "type": "issue",
       "labels": [],
       "number": 183
+    }
+  },
+  {
+    "id": "github_issue_181",
+    "source": "github",
+    "author": "QDaed",
+    "content": "[Issue] Droid Glitching While Runnning\n\n\nhttps://github.com/user-attachments/assets/992f997b-2a79-4555-b423-ca8e72a57e50",
+    "url": "https://github.com/Factory-AI/factory/issues/181",
+    "timestamp": "2025-10-13T08:45:54Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 181
+    }
+  },
+  {
+    "id": "github_issue_179",
+    "source": "github",
+    "author": "kurroo10",
+    "content": "[Issue] Error when using GLM 4.6 only\n\nHi, im getting an error only when i choose GLM 4.6 as the model. its working when i choose sonnet,gpt or gemini. but fail when using GLM\n\nLogs: \n```\n\n[2025-10-13T04:55:26.262Z] INFO: [Session] Session title updated locally | Context: {\"sessionId\":\"40e4cfbe-81ca-4924-b3b3-95525bc5eeee\",\"title\":\"hi\"}\n[2025-10-13T04:55:26.262Z] INFO: [Session] Provider locked | Context: {\"sessionId\":\"40e4cfbe-81ca-4924-b3b3-95525bc5eeee\"}\n[2025-10-13T04:55:26.262Z] INFO: [Session] API Provider locked | Context: {\"s",
+    "url": "https://github.com/Factory-AI/factory/issues/179",
+    "timestamp": "2025-10-13T04:58:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 179
     }
   },
   {
