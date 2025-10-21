@@ -1,5 +1,78 @@
 [
   {
+    "id": "twitter_1980748574301561045",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@bentossell @github @FactoryAI on it",
+    "url": "https://x.com/CloudTrader4/status/1980748574301561045",
+    "timestamp": "2025-10-21T21:30:35.000Z",
+    "metadata": {
+      "conversation_id": "1980748574301561045",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980746824513175658",
+    "source": "twitter",
+    "author": "surim0n",
+    "content": "@FactoryAI failed QA\n\ntimer still running",
+    "url": "https://x.com/surim0n/status/1980746824513175658",
+    "timestamp": "2025-10-21T21:23:38.000Z",
+    "metadata": {
+      "conversation_id": "1980746824513175658",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980745817108672984",
+    "source": "twitter",
+    "author": "surim0n",
+    "content": "@FactoryAI just 5 min. https://t.co/scvcyqJZHu",
+    "url": "https://x.com/surim0n/status/1980745817108672984",
+    "timestamp": "2025-10-21T21:19:37.000Z",
+    "metadata": {
+      "conversation_id": "1980745817108672984",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980745730492101089",
+    "source": "twitter",
+    "author": "surim0n",
+    "content": "the @FactoryAI team really cooked here\nestimated time: 2-3 dev days. but really.... https://t.co/YAAFWHGI7E",
+    "url": "https://x.com/surim0n/status/1980745730492101089",
+    "timestamp": "2025-10-21T21:19:17.000Z",
+    "metadata": {
+      "conversation_id": "1980745730492101089",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1980741846922936498",
     "source": "twitter",
     "author": "bentossell",
@@ -8,9 +81,9 @@
     "timestamp": "2025-10-21T21:03:51.000Z",
     "metadata": {
       "conversation_id": "1980741846922936498",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,7 +96,7 @@
     "timestamp": "2025-10-21T20:56:47.000Z",
     "metadata": {
       "conversation_id": "1980740067342561307",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -240,66 +313,6 @@
     }
   },
   {
-    "id": "twitter_1980720241241124866",
-    "source": "twitter",
-    "author": "ramnanimanan",
-    "content": "@pascallammers_ @FactoryAI 1. 💯 % agree\n2. Mcp setup has to be better\n3. Planning mode should have questions and choices like cc . \n4. Ccstatusline / context limit usages as well\n5. Window resizing breaks the ui (@opencode haa it much better) \n6. kimi k2(groq) and gpt 5 pro (in max plan)\n@FactoryAI",
-    "url": "https://x.com/ramnanimanan/status/1980720241241124866",
-    "timestamp": "2025-10-21T19:38:00.000Z",
-    "metadata": {
-      "conversation_id": "1980720241241124866",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980713853697831291",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@Some1UKnow25 @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar https://t.co/v5wRnM3RNj",
-    "url": "https://x.com/CyberBoyAyush/status/1980713853697831291",
-    "timestamp": "2025-10-21T19:12:37.000Z",
-    "metadata": {
-      "conversation_id": "1980713853697831291",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980713721535369617",
-    "source": "twitter",
-    "author": "Some1UKnow25",
-    "content": "@CyberBoyAyush @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar Bro is a cooker",
-    "url": "https://x.com/Some1UKnow25/status/1980713721535369617",
-    "timestamp": "2025-10-21T19:12:05.000Z",
-    "metadata": {
-      "conversation_id": "1980713721535369617",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980713277077483852",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@dawid_jordaan @pascallammers_ @FactoryAI dope!",
-    "url": "https://x.com/bentossell/status/1980713277077483852",
-    "timestamp": "2025-10-21T19:10:19.000Z",
-    "metadata": {
-      "conversation_id": "1980713277077483852",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_230",
     "source": "github",
     "author": "CodingOX",
@@ -489,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -612,19 +625,6 @@
     }
   },
   {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -635,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 203
-    }
-  },
-  {
-    "id": "reddit_1o8t9pq",
-    "source": "reddit",
-    "author": "raghav0610",
-    "content": "Remote MCP not working\n\nInam trying to connect remote MCP's and it says sever not started. Same MCP work in claude",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8t9pq/remote_mcp_not_working/",
-    "timestamp": "2025-10-17T05:47:17.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -713,6 +700,19 @@
       "type": "issue",
       "labels": [],
       "number": 194
+    }
+  },
+  {
+    "id": "reddit_1o768ha",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "FactoryAI Pricing Plans\n\nI'm a Claude subscriber currently on the Max 5x plan, and I'm very interested in FactoryAI. However, I have some questions about the subscription tiers. For example, regarding the $20/month subscription plan, I'd like to understand the specific usage limits. If I only need to use Codex or Droid, how do these limits compare to the usage allowance for Codex CLI with ChatGPT Plus?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o768ha/factoryai_pricing_plans/",
+    "timestamp": "2025-10-15T09:21:38.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 8,
+      "subreddit": "FactoryAi"
     }
   },
   {
