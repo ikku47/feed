@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1980763084127138167",
+    "source": "twitter",
+    "author": "faerazo",
+    "content": "@adriaandotcom Codex is good! But Droid (@FactoryAI) + GPT-5 Codex is great! The only drawback is they're slightly slower than Claude Code.",
+    "url": "https://x.com/faerazo/status/1980763084127138167",
+    "timestamp": "2025-10-21T22:28:14.000Z",
+    "metadata": {
+      "conversation_id": "1980763084127138167",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980762508601299247",
+    "source": "twitter",
+    "author": "pharo7700",
+    "content": "@aeitroc @immoinulmoin @FactoryAI any tutorials on how to plan and execute with it , iam the only one who feels it's not that good\nspecially the codex model really bad for my tasks\ntried your orchestrator but seems not working well for me",
+    "url": "https://x.com/pharo7700/status/1980762508601299247",
+    "timestamp": "2025-10-21T22:25:57.000Z",
+    "metadata": {
+      "conversation_id": "1980762508601299247",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980758021811892331",
     "source": "twitter",
     "author": "aeitroc",
@@ -10,7 +40,7 @@
       "conversation_id": "1980758021811892331",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -278,36 +308,6 @@
       "conversation_id": "1980724992494256396",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980724926857507298",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@dawid_jordaan @bentossell @FactoryAI Badass!",
-    "url": "https://x.com/pascallammers_/status/1980724926857507298",
-    "timestamp": "2025-10-21T19:56:37.000Z",
-    "metadata": {
-      "conversation_id": "1980724926857507298",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980724820221317313",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@SadeqSardari @FactoryAI @bentossell can you help?",
-    "url": "https://x.com/pascallammers_/status/1980724820221317313",
-    "timestamp": "2025-10-21T19:56:11.000Z",
-    "metadata": {
-      "conversation_id": "1980724820221317313",
-      "likes": 0,
-      "retweets": 0,
       "replies": 1,
       "quotes": 0
     }
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -648,19 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 203
-    }
-  },
-  {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
     }
   },
   {
