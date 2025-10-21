@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1980580046252437548",
+    "source": "twitter",
+    "author": "uratmangun2",
+    "content": "@rekram11 @josephschmitt dont lose @FactoryAI",
+    "url": "https://x.com/uratmangun2/status/1980580046252437548",
+    "timestamp": "2025-10-21T10:20:55.000Z",
+    "metadata": {
+      "conversation_id": "1980580046252437548",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980579271627403668",
+    "source": "twitter",
+    "author": "JannikJung",
+    "content": "@damien_r_h @WisprFlow @FactoryAI Would love for you to checkout https://t.co/Bw01Xd01qc\n\nBasically the Mac-native, 100% local variant of WhisprFlow!",
+    "url": "https://x.com/JannikJung/status/1980579271627403668",
+    "timestamp": "2025-10-21T10:17:50.000Z",
+    "metadata": {
+      "conversation_id": "1980579271627403668",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980578473371660460",
+    "source": "twitter",
+    "author": "brew_and_ai",
+    "content": "@damien_r_h @WisprFlow @FactoryAI That combo really feels like distributed cognition\nWispr handles context\nFactory AI Droid executes it\nYou’re basically running multi-threaded thought in real life",
+    "url": "https://x.com/brew_and_ai/status/1980578473371660460",
+    "timestamp": "2025-10-21T10:14:40.000Z",
+    "metadata": {
+      "conversation_id": "1980578473371660460",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980574855784198251",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Highly recommend to test Haiku 4.5 in @FactoryAI \n\nI just had some issues when working with google ADK, found the issue in github, just provided the github link and it is solved.\n\nFast, accurate, no slop. But you should explicitly tell that\n\"Don't use emojis and do not document everything.\"\n\nFor simple task specific cases, Haiku 4.5 is great in my opinion. Also pretty cheap and quick. \n\nI am using it on \"Spec mode\" then manually reviewing and executing.",
+    "url": "https://x.com/CloudTrader4/status/1980574855784198251",
+    "timestamp": "2025-10-21T10:00:17.000Z",
+    "metadata": {
+      "conversation_id": "1980574855784198251",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980573986942775485",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "2.5 hours for the tasks to implement \nLet's see how long it really take - will be back in a few minutes I think @FactoryAI 😅 https://t.co/zyZGH0wKLR",
+    "url": "https://x.com/pascallammers_/status/1980573986942775485",
+    "timestamp": "2025-10-21T09:56:50.000Z",
+    "metadata": {
+      "conversation_id": "1980573986942775485",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_discussion_225",
     "source": "github",
     "author": "JohnDotOwl",
@@ -186,7 +261,7 @@
     "timestamp": "2025-10-21T08:16:16.000Z",
     "metadata": {
       "conversation_id": "1980548678558339132",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -238,78 +313,16 @@
     }
   },
   {
-    "id": "twitter_1980547052770656535",
-    "source": "twitter",
-    "author": "MrJeberulz",
-    "content": "@NoBanksNearby @FactoryAI Yup yup looking forward to it 😊",
-    "url": "https://x.com/MrJeberulz/status/1980547052770656535",
-    "timestamp": "2025-10-21T08:09:48.000Z",
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
     "metadata": {
-      "conversation_id": "1980547052770656535",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980537515066159558",
-    "source": "twitter",
-    "author": "MrJeberulz",
-    "content": "@ByteOWildeSandH @FactoryAI Never one shot for a start 😅",
-    "url": "https://x.com/MrJeberulz/status/1980537515066159558",
-    "timestamp": "2025-10-21T07:31:54.000Z",
-    "metadata": {
-      "conversation_id": "1980537515066159558",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980537116800237582",
-    "source": "twitter",
-    "author": "MrJeberulz",
-    "content": "@ByteOWildeSandH @FactoryAI So I mostly start with the design - I gather as many inspirations and then prompt to establish a base, once I'm clear and happy with the direction. \n\nThe models are now smart enough to stay consistent with the visual direction I started off with.",
-    "url": "https://x.com/MrJeberulz/status/1980537116800237582",
-    "timestamp": "2025-10-21T07:30:19.000Z",
-    "metadata": {
-      "conversation_id": "1980537116800237582",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980534332105322776",
-    "source": "twitter",
-    "author": "zhangjintao9020",
-    "content": "@bentossell @matanSF @FactoryAI Thanks for the response! I'm having trouble with my subscription - I emailed account.factory as instructed by the system but haven't heard back. Could you help me follow up on this? Much appreciated! tao@moelove.info",
-    "url": "https://x.com/zhangjintao9020/status/1980534332105322776",
-    "timestamp": "2025-10-21T07:19:15.000Z",
-    "metadata": {
-      "conversation_id": "1980534332105322776",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980533452031291738",
-    "source": "twitter",
-    "author": "SaidAitmbarek",
-    "content": "@damien_r_h @WisprFlow @FactoryAI best combo!",
-    "url": "https://x.com/SaidAitmbarek/status/1980533452031291738",
-    "timestamp": "2025-10-21T07:15:46.000Z",
-    "metadata": {
-      "conversation_id": "1980533452031291738",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -339,16 +352,16 @@
     }
   },
   {
-    "id": "github_issue_219",
-    "source": "github",
-    "author": "tgerighty",
-    "content": "[Issue] Bug: TypeError: undefined is not an object (evaluating 'A.match')\n\n Bug Report Information\n\n   Error Type: TypeError: undefined is not an object (evaluating 'A.match')\n\n   System Information:\n   •  OS: Darwin 25.0.0 (macOS Sequoia)\n   •  Architecture: ARM64 (Apple Silicon)\n   •  Droid Version: 0.21.4\n   •  Python Version: 3.9.6\n\n   Error Frequency and Pattern:\n   The error occurs multiple times across different dates (Oct 2, Oct 8, Oct 9, Oct 10, Oct\n   20), indicating it's a recurring issue.\n\n   Common Stack Trace Pattern:\n\n     TypeError: undefined is not an ",
-    "url": "https://github.com/Factory-AI/factory/issues/219",
-    "timestamp": "2025-10-20T22:40:18Z",
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
     "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 219
+      "score": 2,
+      "num_comments": 10,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -365,6 +378,19 @@
     }
   },
   {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_215",
     "source": "github",
     "author": "iota9star",
@@ -378,6 +404,45 @@
     }
   },
   {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -388,6 +453,32 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1oayeuk",
+    "source": "reddit",
+    "author": "Malek262",
+    "content": "\"Is Factory AI Real ?\" We heard there's a free trial of 20 million tokens , But i get Nothing\n\nI heard about Factory AI and Droid CLI from a friend. I downloaded Droid CLI and tried to create an account, expecting a 20 million token free trial to test things out. However, the signup process was a nightmare. It involved two-factor authentication, email verification, and repeatedly entering my phone number. I'd enter my number, they'd send a code, then it would ask for two-factor authentication. After setting that up, it would loop back to verifying my phone number again, requesting another",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oayeuk/is_factory_ai_real_we_heard_theres_a_free_trial/",
+    "timestamp": "2025-10-19T19:18:47.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -456,6 +547,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -466,6 +570,19 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o8tf0s",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
+    "timestamp": "2025-10-17T05:56:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -596,6 +713,19 @@
       "type": "issue",
       "labels": [],
       "number": 183
+    }
+  },
+  {
+    "id": "github_issue_181",
+    "source": "github",
+    "author": "QDaed",
+    "content": "[Issue] Droid Glitching While Runnning\n\n\nhttps://github.com/user-attachments/assets/992f997b-2a79-4555-b423-ca8e72a57e50",
+    "url": "https://github.com/Factory-AI/factory/issues/181",
+    "timestamp": "2025-10-13T08:45:54Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 181
     }
   },
   {
