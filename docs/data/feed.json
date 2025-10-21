@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1980684900220248142",
+    "source": "twitter",
+    "author": "LovedayChey",
+    "content": "absolutely blown away by droid cli from @FactoryAI - definitely a convert to a paying customer as soon as those 40M tokens are done!",
+    "url": "https://x.com/LovedayChey/status/1980684900220248142",
+    "timestamp": "2025-10-21T17:17:34.000Z",
+    "metadata": {
+      "conversation_id": "1980684900220248142",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980682208173298099",
+    "source": "twitter",
+    "author": "tangmian",
+    "content": "之前在推上看到有人推广factory AI出品的droid cli，有一个月的试用额度，我就无脑入了。这是使用几天下来的报告，供大家参考。\n\nhttps://t.co/GsTi469rBB\n\n@FactoryAI",
+    "url": "https://x.com/tangmian/status/1980682208173298099",
+    "timestamp": "2025-10-21T17:06:52.000Z",
+    "metadata": {
+      "conversation_id": "1980682208173298099",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980679883471876320",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@pascallammers_ @FactoryAI +1 on this one",
+    "url": "https://x.com/ben_vargas/status/1980679883471876320",
+    "timestamp": "2025-10-21T16:57:38.000Z",
+    "metadata": {
+      "conversation_id": "1980679883471876320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980678042914812011",
     "source": "twitter",
     "author": "mikez93",
@@ -8,7 +53,7 @@
     "timestamp": "2025-10-21T16:50:19.000Z",
     "metadata": {
       "conversation_id": "1980678042914812011",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -128,7 +173,7 @@
     "timestamp": "2025-10-21T16:35:16.000Z",
     "metadata": {
       "conversation_id": "1980674257395843117",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980663224287793386",
-    "source": "twitter",
-    "author": "Tmeister",
-    "content": "I'm still thinking @FactoryAI burns more tokens than CC Yesterday, I ran a 3-hour session using GTP-5-Codex (price 0.5x) and burned almost 6 million tokens.\n\nThe max plan is 200M, so at that pace and working full day, I'll run out of tokens in 2 weeks",
-    "url": "https://x.com/Tmeister/status/1980663224287793386",
-    "timestamp": "2025-10-21T15:51:26.000Z",
-    "metadata": {
-      "conversation_id": "1980663224287793386",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980662961405587764",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@furqanahmadrao @OpenRouterAI @ExaAILabs @mannupaaji @kirat_tw @Hiteshdotcom @piyushgarg_dev @FactoryAI @matanSF @itsbyrobin @ankushdharkar @aicodeking Bro summoning the legend himself.",
-    "url": "https://x.com/CyberBoyAyush/status/1980662961405587764",
-    "timestamp": "2025-10-21T15:50:23.000Z",
-    "metadata": {
-      "conversation_id": "1980662961405587764",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980662636841938986",
-    "source": "twitter",
-    "author": "davidapr07",
-    "content": "Everyone is talking about @FactoryAI , have you tried already? no? use this to get extra tokens https://t.co/39DfY29RWh",
-    "url": "https://x.com/davidapr07/status/1980662636841938986",
-    "timestamp": "2025-10-21T15:49:06.000Z",
-    "metadata": {
-      "conversation_id": "1980662636841938986",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_230",
     "source": "github",
     "author": "CodingOX",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
     "timestamp": "2025-10-21T04:52:45.000Z",
     "metadata": {
-      "score": 2,
+      "score": 3,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
