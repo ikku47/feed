@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1980488089026834488",
+    "source": "twitter",
+    "author": "Ajst974",
+    "content": "But I don’t like Claude that for the Coding part, I like him very much, especially for his prosody, his generation of documents, his integration in the applications and even on the site the connectors and all these things. The only thing is that if we have a pro subscription we are extremely limited. It’s boring when you see that you have GPT5 for the same price offers you 3000 messages a week with the most powerful mode, and 140 messages/3h is still pretty crazy even if we are so limited.",
+    "url": "https://x.com/Ajst974/status/1980488089026834488",
+    "timestamp": "2025-10-21T04:15:30.000Z",
+    "metadata": {
+      "conversation_id": "1980488089026834488",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980487240502657118",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@Ajst974 It’s super cheap and solid in @FactoryAI droid. Can use @claudeai to clean up or targeted reviews or spec building.",
+    "url": "https://x.com/erd0xbc/status/1980487240502657118",
+    "timestamp": "2025-10-21T04:12:08.000Z",
+    "metadata": {
+      "conversation_id": "1980487240502657118",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980479076809994284",
     "source": "twitter",
     "author": "aerowindwalker",
@@ -38,7 +68,7 @@
     "timestamp": "2025-10-21T03:07:45.000Z",
     "metadata": {
       "conversation_id": "1980471037776318874",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -309,36 +339,6 @@
     }
   },
   {
-    "id": "twitter_1980396579975807003",
-    "source": "twitter",
-    "author": "_archienorman",
-    "content": "@anthonyronning_ @FactoryAI @elevenlabsio Love the orbs- are they custom or elevenlabs components?",
-    "url": "https://x.com/_archienorman/status/1980396579975807003",
-    "timestamp": "2025-10-20T22:11:53.000Z",
-    "metadata": {
-      "conversation_id": "1980396579975807003",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980395377254887657",
-    "source": "twitter",
-    "author": "AdvicebyAimar",
-    "content": "@damien_r_h @WisprFlow @FactoryAI exactly how i'm building, feels insane",
-    "url": "https://x.com/AdvicebyAimar/status/1980395377254887657",
-    "timestamp": "2025-10-20T22:07:06.000Z",
-    "metadata": {
-      "conversation_id": "1980395377254887657",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1obv6pd",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -560,19 +560,6 @@
     }
   },
   {
-    "id": "reddit_1o8tf0s",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "grep is not working\n\nOther tools work perfectly; however, when Droid uses the `grep` tool, all tasks stop and wait forever, showing “executing...” and never finishing. Has anyone experienced the same issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o8tf0s/grep_is_not_working/",
-    "timestamp": "2025-10-17T05:56:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1o8t9pq",
     "source": "reddit",
     "author": "raghav0610",
@@ -582,6 +569,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1o89mzk",
+    "source": "reddit",
+    "author": "x86rip",
+    "content": "Can we have Haiku 4.5 model ?\n\nIt would save a lot cost to use claude model perhaps charge at 0.5x per token. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o89mzk/can_we_have_haiku_45_model/",
+    "timestamp": "2025-10-16T15:43:59.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 12,
       "subreddit": "FactoryAi"
     }
   },
