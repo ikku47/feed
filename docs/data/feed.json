@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980720241241124866",
+    "source": "twitter",
+    "author": "ramnanimanan",
+    "content": "@pascallammers_ @FactoryAI 1. 💯 % agree\n2. Mcp setup has to be better\n3. Planning mode should have questions and choices like cc . \n4. Ccstatusline / context limit usages as well\n5. Window resizing breaks the ui (@opencode haa it much better) \n6. kimi k2(groq) and gpt 5 pro (in max plan)\n@FactoryAI",
+    "url": "https://x.com/ramnanimanan/status/1980720241241124866",
+    "timestamp": "2025-10-21T19:38:00.000Z",
+    "metadata": {
+      "conversation_id": "1980720241241124866",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980713853697831291",
     "source": "twitter",
     "author": "CyberBoyAyush",
@@ -98,7 +113,7 @@
     "timestamp": "2025-10-21T18:50:51.000Z",
     "metadata": {
       "conversation_id": "1980708377693954118",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -278,21 +293,6 @@
     "timestamp": "2025-10-21T17:17:34.000Z",
     "metadata": {
       "conversation_id": "1980684900220248142",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980682208173298099",
-    "source": "twitter",
-    "author": "tangmian",
-    "content": "之前在推上看到有人推广factory AI出品的droid cli，有一个月的试用额度，我就无脑入了。这是使用几天下来的报告，供大家参考。\n\nhttps://t.co/GsTi469rBB\n\n@FactoryAI",
-    "url": "https://x.com/tangmian/status/1980682208173298099",
-    "timestamp": "2025-10-21T17:06:52.000Z",
-    "metadata": {
-      "conversation_id": "1980682208173298099",
       "likes": 2,
       "retweets": 0,
       "replies": 1,
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -502,7 +502,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -612,6 +612,19 @@
     }
   },
   {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_203",
     "source": "github",
     "author": "a112121788",
@@ -622,6 +635,19 @@
       "type": "issue",
       "labels": [],
       "number": 203
+    }
+  },
+  {
+    "id": "reddit_1o86tci",
+    "source": "reddit",
+    "author": "mr_dudo",
+    "content": "TTY problem\n\nI’m not sure if it happened to someone else but the moment I installed droid cli I’m unable to use Claude code and opencode because it’s saying I don’t have TTY on my terminal, I’m not accusing you guys at factory but it just seemed strange to me, I’m able to run droid cli normally without colors.\n\nI have tried resetting the terminal settings and didn’t work but guess what fixed it? Uninstalling droid cli, I like droid and I’m still going to use it but I still want to use my z.ai sub of $3 when ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o86tci/tty_problem/",
+    "timestamp": "2025-10-16T13:55:41.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -687,32 +713,6 @@
       "type": "issue",
       "labels": [],
       "number": 194
-    }
-  },
-  {
-    "id": "reddit_1o768ha",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "FactoryAI Pricing Plans\n\nI'm a Claude subscriber currently on the Max 5x plan, and I'm very interested in FactoryAI. However, I have some questions about the subscription tiers. For example, regarding the $20/month subscription plan, I'd like to understand the specific usage limits. If I only need to use Codex or Droid, how do these limits compare to the usage allowance for Codex CLI with ChatGPT Plus?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o768ha/factoryai_pricing_plans/",
-    "timestamp": "2025-10-15T09:21:38.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 8,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1o748h7",
-    "source": "reddit",
-    "author": "Gullible_Rip_2750",
-    "content": "Jetbrains plugin for Droid\n\nHey. Documentation suggests there is jetbrains plugin. Anyone managed to integrate it or is it just \"promise\"? I sent e-mail but i got no response. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o748h7/jetbrains_plugin_for_droid/",
-    "timestamp": "2025-10-15T07:08:27.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
