@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1980966494264496304",
+    "source": "twitter",
+    "author": "thedanifrim",
+    "content": "@bentossell @FactoryAI Having a middle plan. \n\nLike 50M for $40 or 100M for $100.",
+    "url": "https://x.com/thedanifrim/status/1980966494264496304",
+    "timestamp": "2025-10-22T11:56:31.000Z",
+    "metadata": {
+      "conversation_id": "1980966494264496304",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980965806264537298",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@quantumaidev @FactoryAI 🔥",
+    "url": "https://x.com/bentossell/status/1980965806264537298",
+    "timestamp": "2025-10-22T11:53:47.000Z",
+    "metadata": {
+      "conversation_id": "1980965806264537298",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980965783241884004",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MullerNavas @FactoryAI ❤️",
+    "url": "https://x.com/bentossell/status/1980965783241884004",
+    "timestamp": "2025-10-22T11:53:41.000Z",
+    "metadata": {
+      "conversation_id": "1980965783241884004",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980965630003036631",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@abhagsain @FactoryAI can you dm your email and if you can run /bug in this session itd be super helpful :) also which model are you using?",
+    "url": "https://x.com/bentossell/status/1980965630003036631",
+    "timestamp": "2025-10-22T11:53:05.000Z",
+    "metadata": {
+      "conversation_id": "1980965630003036631",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980965296799465819",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@cupcake_trader @CloudTrader4 @github @FactoryAI this may help :) https://t.co/ZUc4ladKm8",
+    "url": "https://x.com/bentossell/status/1980965296799465819",
+    "timestamp": "2025-10-22T11:51:45.000Z",
+    "metadata": {
+      "conversation_id": "1980965296799465819",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980965088149623215",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Tekhenra @matanSF @FactoryAI dm your email - will flag to eng, sorry about this!",
+    "url": "https://x.com/bentossell/status/1980965088149623215",
+    "timestamp": "2025-10-22T11:50:56.000Z",
+    "metadata": {
+      "conversation_id": "1980965088149623215",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980964955370279113",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@thedanifrim @FactoryAI this could be the beginning of a beautiful thing! \n\nwhat would make upgrading a no-brainer for you?",
+    "url": "https://x.com/bentossell/status/1980964955370279113",
+    "timestamp": "2025-10-22T11:50:24.000Z",
+    "metadata": {
+      "conversation_id": "1980964955370279113",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980960999080599678",
     "source": "twitter",
     "author": "thedanifrim",
@@ -10,7 +115,7 @@
       "conversation_id": "1980960999080599678",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -25,7 +130,7 @@
       "conversation_id": "1980960068435649018",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -100,7 +205,7 @@
       "conversation_id": "1980912782985105467",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -130,7 +235,7 @@
       "conversation_id": "1980906312088293873",
       "likes": 4,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -188,112 +293,7 @@
     "timestamp": "2025-10-22T05:01:33.000Z",
     "metadata": {
       "conversation_id": "1980862062612881774",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980846556640342481",
-    "source": "twitter",
-    "author": "jatob0y",
-    "content": "@osupernerd Algumas como o @FactoryAI tem explorados justamente esses agentes para pontuar + em benchmarks, algo semelhante ao que o @grok fez. Pode até ter atingido um plato em inteligência, mas não acha que alguns produtos realmente fazem sentido como edição de imagem? Explorar produtos",
-    "url": "https://x.com/jatob0y/status/1980846556640342481",
-    "timestamp": "2025-10-22T03:59:56.000Z",
-    "metadata": {
-      "conversation_id": "1980846556640342481",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980837003685163043",
-    "source": "twitter",
-    "author": "quantumaidev",
-    "content": "Haiku 4.5 on @FactoryAI  is 🔥!",
-    "url": "https://x.com/quantumaidev/status/1980837003685163043",
-    "timestamp": "2025-10-22T03:21:58.000Z",
-    "metadata": {
-      "conversation_id": "1980837003685163043",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980832374146666538",
-    "source": "twitter",
-    "author": "jennie_mi6363",
-    "content": "@laurenmhreeder @Xbow @FactoryAI @getenter_ai @CuffeJamie @isafulf AI agent will be the hot industry in the next ten years🤔",
-    "url": "https://x.com/jennie_mi6363/status/1980832374146666538",
-    "timestamp": "2025-10-22T03:03:34.000Z",
-    "metadata": {
-      "conversation_id": "1980832374146666538",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980816548840488985",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@jonathan_mir12 @FactoryAI @compyle_ai whats that?",
-    "url": "https://x.com/immoinulmoin/status/1980816548840488985",
-    "timestamp": "2025-10-22T02:00:41.000Z",
-    "metadata": {
-      "conversation_id": "1980816548840488985",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980815996165534180",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@AVGVSTVS96 @GeraldOfNivea @FactoryAI here bro\n\nhttps://t.co/BaNQNIU9ym",
-    "url": "https://x.com/immoinulmoin/status/1980815996165534180",
-    "timestamp": "2025-10-22T01:58:29.000Z",
-    "metadata": {
-      "conversation_id": "1980815996165534180",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980815556510117948",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@ben_vargas @FactoryAI yes yes, no other way,",
-    "url": "https://x.com/immoinulmoin/status/1980815556510117948",
-    "timestamp": "2025-10-22T01:56:45.000Z",
-    "metadata": {
-      "conversation_id": "1980815556510117948",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980814207273812266",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@immoinulmoin @FactoryAI Are you going the CLIProxyAPI route?",
-    "url": "https://x.com/ben_vargas/status/1980814207273812266",
-    "timestamp": "2025-10-22T01:51:23.000Z",
-    "metadata": {
-      "conversation_id": "1980814207273812266",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 2,
+      "score": 3,
       "num_comments": 12,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
