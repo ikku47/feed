@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1980894774531092825",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@pharo7700 @aeitroc @FactoryAI simply dont use codex, only gpt-5-mid and high",
+    "url": "https://x.com/immoinulmoin/status/1980894774531092825",
+    "timestamp": "2025-10-22T07:11:32.000Z",
+    "metadata": {
+      "conversation_id": "1980894774531092825",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980888149556621621",
     "source": "twitter",
     "author": "KirkMarple",
@@ -23,7 +38,7 @@
     "timestamp": "2025-10-22T06:12:57.000Z",
     "metadata": {
       "conversation_id": "1980880031489400921",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -273,12 +288,12 @@
     "id": "reddit_1ocv9jx",
     "source": "reddit",
     "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions are complete labotomies with zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing. \n\nThis makes zero f!@#$%g sense!!! This app is verifiably the most promising and the most frustrating AI coding environm",
+    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 3,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
@@ -294,21 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980801576047444055",
-    "source": "twitter",
-    "author": "JohnBaker48836",
-    "content": "@immoinulmoin @FactoryAI @grok im a plus chstgpt user. Can i link it to @FactoryAI and use droid power straight from my codex?",
-    "url": "https://x.com/JohnBaker48836/status/1980801576047444055",
-    "timestamp": "2025-10-22T01:01:11.000Z",
-    "metadata": {
-      "conversation_id": "1980801576047444055",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
