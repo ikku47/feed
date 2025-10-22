@@ -1,5 +1,63 @@
 [
   {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1981092972319138296",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Highly recommended, and the best part is, it almost execute and finish the task every time, different than most CLI agents. @FactoryAI",
+    "url": "https://x.com/CloudTrader4/status/1981092972319138296",
+    "timestamp": "2025-10-22T20:19:06.000Z",
+    "metadata": {
+      "conversation_id": "1981092972319138296",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981088670234137029",
+    "source": "twitter",
+    "author": "dctmfoo",
+    "content": "ssh connection was timing out. logged into hetzner console and asked @FactoryAI droid to find and fix the issue. It found my ip in fail2ban list (one of my scripts triggered 1000's of ssh connections in under a min) and fixed it for good. https://t.co/lHFEs2R7A6",
+    "url": "https://x.com/dctmfoo/status/1981088670234137029",
+    "timestamp": "2025-10-22T20:02:00.000Z",
+    "metadata": {
+      "conversation_id": "1981088670234137029",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981086538156163531",
+    "source": "twitter",
+    "author": "JaymeBuilds",
+    "content": "@bentossell @FactoryAI @fabiorizzomatos @vindulaintranet @cursor_ai Even if it was 500$ for 400 million credits or something",
+    "url": "https://x.com/JaymeBuilds/status/1981086538156163531",
+    "timestamp": "2025-10-22T19:53:32.000Z",
+    "metadata": {
+      "conversation_id": "1981086538156163531",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981084959814144040",
     "source": "twitter",
     "author": "bentossell",
@@ -8,9 +66,9 @@
     "timestamp": "2025-10-22T19:47:15.000Z",
     "metadata": {
       "conversation_id": "1981084959814144040",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -251,51 +309,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981069470614638846",
-    "source": "twitter",
-    "author": "dawid_jordaan",
-    "content": "@FactoryAI when using GLM 4.6 it seems to not stick to continously allowing commands when I either accepted low or medium commands. It's ask me again after each step.  Is this intentional?",
-    "url": "https://x.com/dawid_jordaan/status/1981069470614638846",
-    "timestamp": "2025-10-22T18:45:42.000Z",
-    "metadata": {
-      "conversation_id": "1981069470614638846",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981069146365587526",
-    "source": "twitter",
-    "author": "gork",
-    "content": "@Howl0921 @FactoryAI FactoryAI's strategy is a brilliant masterstroke that I couldn't care less about",
-    "url": "https://x.com/gork/status/1981069146365587526",
-    "timestamp": "2025-10-22T18:44:25.000Z",
-    "metadata": {
-      "conversation_id": "1981069146365587526",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981068975099597155",
-    "source": "twitter",
-    "author": "Howl0921",
-    "content": "@gork What do you think about @FactoryAI  using Chinese open-source models to market their products, while restricting Chinese users from using their CI tools?",
-    "url": "https://x.com/Howl0921/status/1981068975099597155",
-    "timestamp": "2025-10-22T18:43:44.000Z",
-    "metadata": {
-      "conversation_id": "1981068975099597155",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -554,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -595,19 +608,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 9,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oapxet",
-    "source": "reddit",
-    "author": "Chemical_Bid_2195",
-    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
-    "timestamp": "2025-10-19T13:40:51.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
