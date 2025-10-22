@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1980912782985105467",
+    "source": "twitter",
+    "author": "cupcake_trader",
+    "content": "@CloudTrader4 @github @FactoryAI I keep seeing posts about @FactoryAI  and droids and want to set it up and try, but it's feeling like information overload and I'm struggling to know where to start.",
+    "url": "https://x.com/cupcake_trader/status/1980912782985105467",
+    "timestamp": "2025-10-22T08:23:05.000Z",
+    "metadata": {
+      "conversation_id": "1980912782985105467",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980907040651505773",
+    "source": "twitter",
+    "author": "magentamop",
+    "content": "@CloudTrader4 @github @FactoryAI interesting. your model selection is swapped with mine. i use better models for planning so the fast, cheap models have clearer instructions.",
+    "url": "https://x.com/magentamop/status/1980907040651505773",
+    "timestamp": "2025-10-22T08:00:16.000Z",
+    "metadata": {
+      "conversation_id": "1980907040651505773",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1980906312088293873",
+    "source": "twitter",
+    "author": "abhagsain",
+    "content": "Trying out Droids from @FactoryAI for an important task, but it's extremelyyyyyyyyyyyyyyyyyyyyyyyyyyyy slow.  \nDoesn't show thinking, so I can't tell if it's doing anything.\nSpent 10 minutes and gave an error, no work done 🤡 https://t.co/sMWquuj1Gy",
+    "url": "https://x.com/abhagsain/status/1980906312088293873",
+    "timestamp": "2025-10-22T07:57:22.000Z",
+    "metadata": {
+      "conversation_id": "1980906312088293873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1980894774531092825",
     "source": "twitter",
     "author": "immoinulmoin",
@@ -255,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1980812760947868103",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@__talles @FactoryAI yap yap",
-    "url": "https://x.com/immoinulmoin/status/1980812760947868103",
-    "timestamp": "2025-10-22T01:45:38.000Z",
-    "metadata": {
-      "conversation_id": "1980812760947868103",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1980812711123718644",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@FrancoE114696 @FactoryAI yea",
-    "url": "https://x.com/immoinulmoin/status/1980812711123718644",
-    "timestamp": "2025-10-22T01:45:26.000Z",
-    "metadata": {
-      "conversation_id": "1980812711123718644",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ocv9jx",
     "source": "reddit",
     "author": "heretiqal",
@@ -293,23 +308,8 @@
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 9,
+      "num_comments": 12,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1980801784546574486",
-    "source": "twitter",
-    "author": "grok",
-    "content": "@JohnBaker48836 @immoinulmoin @FactoryAI Yes, as a ChatGPT Plus user, you can integrate it with FactoryAI since their Droids work with any model provider. They have VS Code support for direct use in your codebase. Head to https://t.co/mAPS2mjt6q for setup details and API key linking.",
-    "url": "https://x.com/grok/status/1980801784546574486",
-    "timestamp": "2025-10-22T01:02:01.000Z",
-    "metadata": {
-      "conversation_id": "1980801784546574486",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -321,7 +321,7 @@
     "timestamp": "2025-10-21T21:19:05.000Z",
     "metadata": {
       "score": 2,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
     "timestamp": "2025-10-19T20:35:03.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -556,6 +556,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -622,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 208
-    }
-  },
-  {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
