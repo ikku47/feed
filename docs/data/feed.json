@@ -7,7 +7,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 1,
+      "score": 2,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -21,7 +21,7 @@
     "timestamp": "2025-10-22T20:19:06.000Z",
     "metadata": {
       "conversation_id": "1981092972319138296",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -96,7 +96,7 @@
     "timestamp": "2025-10-22T19:36:04.000Z",
     "metadata": {
       "conversation_id": "1981082141879411126",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -608,6 +608,19 @@
     "metadata": {
       "score": 1,
       "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oapxet",
+    "source": "reddit",
+    "author": "Chemical_Bid_2195",
+    "content": "What is an authenticator app?\n\nWhen I try to sign in to app.factory.ai with my Google account, I'm blocked by the auth.factory.ai/ page asking for me to check my \"authenticator app\". However, I have never set up an authenticator app for Factory AI, so I have no way of logging in and authenticating for it. For the past couple of weeks that I've used Factory AI I never had to use an authenticator app. I have also not found references to this \"authenticator app\" in their documentation. Therefore, Droid CLI has become unusable as",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oapxet/what_is_an_authenticator_app/",
+    "timestamp": "2025-10-19T13:40:51.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
