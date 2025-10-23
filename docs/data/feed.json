@@ -342,7 +342,7 @@
     "id": "github_issue_238",
     "source": "github",
     "author": "ivoneijr-lumiahealth",
-    "content": "[Issue] impossible to verify phone and log in\n\n<img width=\"1248\" height=\"646\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bd39a1ae-37cb-49db-bf45-2397e321cc90\" />",
+    "content": "[Issue] impossible to verify phone and log in\n\nI live in Brazil, country code +55. But when I type my number the way I usually do in most phone inputs, it goes to the code page but I never actually receive it…\n\n<img width=\"1248\" height=\"646\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bd39a1ae-37cb-49db-bf45-2397e321cc90\" />\n\n<img width=\"877\" height=\"513\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/643a939c-ca17-4781-8e4c-d1c68ec2d9c4\" />",
     "url": "https://github.com/Factory-AI/factory/issues/238",
     "timestamp": "2025-10-22T23:01:51Z",
     "metadata": {
@@ -621,6 +621,19 @@
     "metadata": {
       "score": 9,
       "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oazqru",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 6,
       "subreddit": "FactoryAi"
     }
   },
