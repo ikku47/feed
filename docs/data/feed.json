@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1981764017124426067",
+    "source": "twitter",
+    "author": "_4dinata",
+    "content": "@CloudTrader4 @FactoryAI @firecrawl_dev Firecrawl mcp?",
+    "url": "https://x.com/_4dinata/status/1981764017124426067",
+    "timestamp": "2025-10-24T16:45:35.000Z",
+    "metadata": {
+      "conversation_id": "1981764017124426067",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1of1zjv",
     "source": "reddit",
     "author": "hrdn",
@@ -81,9 +96,9 @@
     "timestamp": "2025-10-24T15:07:36.000Z",
     "metadata": {
       "conversation_id": "1981739358131560726",
-      "likes": 5,
+      "likes": 7,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -261,7 +276,7 @@
     "timestamp": "2025-10-24T13:37:30.000Z",
     "metadata": {
       "conversation_id": "1981716682256134384",
-      "likes": 8,
+      "likes": 9,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -305,21 +320,6 @@
     "metadata": {
       "conversation_id": "1981713930926932024",
       "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981712131583246664",
-    "source": "twitter",
-    "author": "verioussmith",
-    "content": "@matanSF @TheGregYang I know everyone is moving forward but can we get an Intel based Mac universal binary version of Droid by @FactoryAI?? I really want to try the product but my mac is incompatible.",
-    "url": "https://x.com/verioussmith/status/1981712131583246664",
-    "timestamp": "2025-10-24T13:19:25.000Z",
-    "metadata": {
-      "conversation_id": "1981712131583246664",
-      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -703,14 +703,14 @@
     }
   },
   {
-    "id": "reddit_1ob0d6z",
+    "id": "reddit_1oazqru",
     "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
+    "author": "Conscious-Fee7844",
+    "content": "Droid Author/Owner.. please provide release updates\n\nHey there,\n\nI see one person that responds that I assume is from FactoryAI from time to time asking about bugs, etc. Can that person or someone from the FactorAI/Droid team when they put out NEW droid updates, share a post here on this forum for the few of us here to read. It would be very helpful to see what changes/additions/features were made each time there is an update. \n\nThank you.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
+    "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 10,
+      "score": 3,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
