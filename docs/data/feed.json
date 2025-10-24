@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1981727506014081416",
+    "source": "twitter",
+    "author": "djasnive",
+    "content": "@kargarisaac @Zai_org I use it on Droid CLI of @FactoryAI",
+    "url": "https://x.com/djasnive/status/1981727506014081416",
+    "timestamp": "2025-10-24T14:20:30.000Z",
+    "metadata": {
+      "conversation_id": "1981727506014081416",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1981726693547999414",
+    "source": "twitter",
+    "author": "malikatifsaleem",
+    "content": "@iannuttall Do you still use Gemini CLI? I've had bad experiences with it lately. I'm using Droid, Codex, CC, and Cline (+Opencode/qwen-code).\n\nI tried @FactoryAI yesterday with Haiku 4.5, and it was fast, in providing analysis of the landing page and its e2e integrations, compared to others",
+    "url": "https://x.com/malikatifsaleem/status/1981726693547999414",
+    "timestamp": "2025-10-24T14:17:17.000Z",
+    "metadata": {
+      "conversation_id": "1981726693547999414",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981718993238167794",
     "source": "twitter",
     "author": "_Sagiquarius_",
@@ -23,7 +53,7 @@
     "timestamp": "2025-10-24T13:37:30.000Z",
     "metadata": {
       "conversation_id": "1981716682256134384",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -290,36 +320,6 @@
     "metadata": {
       "conversation_id": "1981651766178369796",
       "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981651641830097246",
-    "source": "twitter",
-    "author": "NathanLands",
-    "content": "@francesca_lab @FactoryAI Great opportunity",
-    "url": "https://x.com/NathanLands/status/1981651641830097246",
-    "timestamp": "2025-10-24T09:19:03.000Z",
-    "metadata": {
-      "conversation_id": "1981651641830097246",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981646078198857802",
-    "source": "twitter",
-    "author": "AI_dude_eu",
-    "content": "@RayFernando1337 GLM is just bad with @FactoryAI, if one uses GLM custom model (https://t.co/sOOP9rW5Xq sub) it constantly fails with proper tool calls and just stops in the middle of the task. So there is some issue i think. Also Sonnet+GLM only works in non-thinking mode",
-    "url": "https://x.com/AI_dude_eu/status/1981646078198857802",
-    "timestamp": "2025-10-24T08:56:56.000Z",
-    "metadata": {
-      "conversation_id": "1981646078198857802",
-      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "reddit_1ob0d6z",
-    "source": "reddit",
-    "author": "Daed0802",
-    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
-    "timestamp": "2025-10-19T20:35:03.000Z",
-    "metadata": {
-      "score": 10,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1oazqru",
     "source": "reddit",
     "author": "Conscious-Fee7844",
@@ -710,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oazqru/droid_authorowner_please_provide_release_updates/",
     "timestamp": "2025-10-19T20:10:35.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 6,
       "subreddit": "FactoryAi"
     }
@@ -765,19 +752,6 @@
       "type": "issue",
       "labels": [],
       "number": 212
-    }
-  },
-  {
-    "id": "reddit_1o98xc1",
-    "source": "reddit",
-    "author": "Unlucky_Draft_3468",
-    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
-    "timestamp": "2025-10-17T18:18:56.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
