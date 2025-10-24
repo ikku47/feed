@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1981559716636713414",
+    "source": "twitter",
+    "author": "berthojoris",
+    "content": "@FactoryAI Hi Team, I found bug when using GPT-5-Codex model. Error 400 https://t.co/ZSYG6R9sqE",
+    "url": "https://x.com/berthojoris/status/1981559716636713414",
+    "timestamp": "2025-10-24T03:13:46.000Z",
+    "metadata": {
+      "conversation_id": "1981559716636713414",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_250",
+    "source": "github",
+    "author": "byJim",
+    "content": "[Issue] Droid CLI crashes on CPUs without AVX2\n\n##  Droid CLI crashes on CPUs without AVX2\n\n### Problem\nDroid CLI v0.22.x crashes with `SIGILL` (Illegal Instruction) on CPUs that don't support AVX2. Older versions worked fine on the same hardware.\n\n### Environment\n- **OS:** Arch Linux\n- **CPU:** Intel(R) Core(TM) i5-2400 CPU @ 3.10GHz\n- **CPU Features:** AVX but **NO AVX2**\n- **Droid Version:** 0.22.2\n\n### Error\n```\npanic(main thread): Illegal instruction at address 0x3E8000018C1\nFeatures: ... no_avx2 ...\noh no: Bun has crashed.\n```\n\n### Root",
+    "url": "https://github.com/Factory-AI/factory/issues/250",
+    "timestamp": "2025-10-24T02:57:11Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 250
+    }
+  },
+  {
+    "id": "twitter_1981553460500975928",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@kylezantos @FactoryAI Support@factory.ai !",
+    "url": "https://x.com/francesca_lab/status/1981553460500975928",
+    "timestamp": "2025-10-24T02:48:55.000Z",
+    "metadata": {
+      "conversation_id": "1981553460500975928",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1981550503483101298",
     "source": "twitter",
     "author": "kylezantos",
@@ -10,7 +53,7 @@
       "conversation_id": "1981550503483101298",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +81,7 @@
     "timestamp": "2025-10-24T00:35:29.000Z",
     "metadata": {
       "conversation_id": "1981519883180638450",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -264,36 +307,6 @@
     "metadata": {
       "conversation_id": "1981464157494108661",
       "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981463390263431581",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@fire @FactoryAI can fwd to me ben @ :)",
-    "url": "https://x.com/bentossell/status/1981463390263431581",
-    "timestamp": "2025-10-23T20:51:00.000Z",
-    "metadata": {
-      "conversation_id": "1981463390263431581",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1981460835596980725",
-    "source": "twitter",
-    "author": "fire",
-    "content": "@bentossell @FactoryAI sick! aside: two days ago I sent feedback as a reply to that automatic feedback request email sent from Matan's address. Will there be any kind of followup or confirmation of receipt, or should I send that feedback somewhere else as well?",
-    "url": "https://x.com/fire/status/1981460835596980725",
-    "timestamp": "2025-10-23T20:40:51.000Z",
-    "metadata": {
-      "conversation_id": "1981460835596980725",
-      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -596,19 +609,6 @@
       "type": "issue",
       "labels": [],
       "number": 203
-    }
-  },
-  {
-    "id": "github_issue_200",
-    "source": "github",
-    "author": "JohnDotOwl",
-    "content": "[Issue] [BUG] Number Pad enter key returns the text 4u\n\n<img width=\"422\" height=\"113\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/c0433d0b-7767-48ae-9f82-5be0aa72674b\" />\n\nI don't have this issue on claude code\n\nCan someone else help test this ?",
-    "url": "https://github.com/Factory-AI/factory/issues/200",
-    "timestamp": "2025-10-16T13:11:02Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 200
     }
   },
   {
