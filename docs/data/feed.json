@@ -1,5 +1,198 @@
 [
   {
+    "id": "twitter_1982261054538158143",
+    "source": "twitter",
+    "author": "chasebrignac",
+    "content": "@etashio @FactoryAI In my opinion it’s the company culture of regulatory capture/“safety” rather than advancing coming out in the product.",
+    "url": "https://x.com/chasebrignac/status/1982261054538158143",
+    "timestamp": "2025-10-26T01:40:38.000Z",
+    "metadata": {
+      "conversation_id": "1982261054538158143",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982260652249960595",
+    "source": "twitter",
+    "author": "chasebrignac",
+    "content": "@etashio @FactoryAI Honestly when I switch from Claude code to codex every single time I get 10x further than cc can. Not to mention pressing enter over and over and over to approve cc commands is the worst user experience over.",
+    "url": "https://x.com/chasebrignac/status/1982260652249960595",
+    "timestamp": "2025-10-26T01:39:02.000Z",
+    "metadata": {
+      "conversation_id": "1982260652249960595",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982251589810241873",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@CloudTrader4 @bitdoze @OpenRouterAI @FactoryAI @Zai_org @OpenAI I just happen to come acroos the option to select model-provider combinations on @ArtificialAnlys \nI can at least confirm that @DeepInfra was better and @novita_labs was the worst - 100% match with the chart.\nhttps://t.co/veJWCGXP8d",
+    "url": "https://x.com/SvenMeyer/status/1982251589810241873",
+    "timestamp": "2025-10-26T01:03:02.000Z",
+    "metadata": {
+      "conversation_id": "1982251589810241873",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982244871713763380",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@SvenMeyer @bitdoze @OpenRouterAI @FactoryAI @Zai_org @OpenAI I just used the GLM-4.6 exacto, didn’t try other exacto endpoints",
+    "url": "https://x.com/CloudTrader4/status/1982244871713763380",
+    "timestamp": "2025-10-26T00:36:20.000Z",
+    "metadata": {
+      "conversation_id": "1982244871713763380",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982244622345867310",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "I just used it fully today\n\n1- I think it is slightly better at design\n2- Original endpoint is better at planning phase(more detailed and structured)\n3- I almost spent $10 to setup a frontend, so price/performance wise definitely the coding plan (but it is a fully functional and complex UI so still relatively cheap)",
+    "url": "https://x.com/CloudTrader4/status/1982244622345867310",
+    "timestamp": "2025-10-26T00:35:20.000Z",
+    "metadata": {
+      "conversation_id": "1982244622345867310",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982244387758223844",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@CloudTrader4 @bitdoze @OpenRouterAI @FactoryAI @Zai_org @OpenAI I am happy using GLM-4.6 inside DROID with my @Zai_org plan, but \"just for fun\" I tried to get @OpenRouterAI exacto inference to work for GPT-OSS-120B and it simply doesn't work. At best it stops after a few responses, it's just bad at tool calling, just good at static benchmarks",
+    "url": "https://x.com/SvenMeyer/status/1982244387758223844",
+    "timestamp": "2025-10-26T00:34:25.000Z",
+    "metadata": {
+      "conversation_id": "1982244387758223844",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982244387267441147",
+    "source": "twitter",
+    "author": "etashio",
+    "content": "@chasebrignac @FactoryAI I need to! how would you compare it to cc?",
+    "url": "https://x.com/etashio/status/1982244387267441147",
+    "timestamp": "2025-10-26T00:34:24.000Z",
+    "metadata": {
+      "conversation_id": "1982244387267441147",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982243424733413678",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@CloudTrader4 @bitdoze @OpenRouterAI @FactoryAI @Zai_org @OpenAI ok, thanks for clarifying. Did you notice any difference is speed or quality ? (although that is hard to find out as it changes dependig on current load, time of day, ...)",
+    "url": "https://x.com/SvenMeyer/status/1982243424733413678",
+    "timestamp": "2025-10-26T00:30:35.000Z",
+    "metadata": {
+      "conversation_id": "1982243424733413678",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982241887911055459",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "The setup I provided for @OpenRouterAI inside @FactoryAI is based on this finding. My goal is to try out this (exacto) endpoint specifically.\n\nYou can use @Zai_org coding plan anywhere you want(it is completely independent), they have a clear setup guide(which I have been using for a month and it is has a great price/performance).",
+    "url": "https://x.com/CloudTrader4/status/1982241887911055459",
+    "timestamp": "2025-10-26T00:24:29.000Z",
+    "metadata": {
+      "conversation_id": "1982241887911055459",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982241174883549652",
+    "source": "twitter",
+    "author": "chasebrignac",
+    "content": "@etashio @FactoryAI Try codex",
+    "url": "https://x.com/chasebrignac/status/1982241174883549652",
+    "timestamp": "2025-10-26T00:21:39.000Z",
+    "metadata": {
+      "conversation_id": "1982241174883549652",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982240849774731583",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "I thought it is clear from my statement, but let me iterate\n\nI have been using @Zai_org for almost a month with their quarterly plan almost a month now\n\nIt works every and their setup is clear and it is also a great model\n\n@OpenRouterAI provided a different endpoint which they call (exacto) so I am testing specifically that endpoint with @FactoryAI droid\n\n@FactoryAI has built in GLM 4.6 and you can also set @Zai_org coding plan as a custom model, and I have been using both\n\nPoint is here to try out the @OpenRouterAI specific “exacto” endpoint",
+    "url": "https://x.com/CloudTrader4/status/1982240849774731583",
+    "timestamp": "2025-10-26T00:20:21.000Z",
+    "metadata": {
+      "conversation_id": "1982240849774731583",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982238412867617010",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@CloudTrader4 @bitdoze @OpenRouterAI @FactoryAI @Zai_org The @Zai_org coding plan works great within any IDE/CLI as you just have to provide their URL and API-key ... and it works great ! No 'exacto' needed from @OpenRouterAI (which totally failed to provide working inference providers for @OpenAI GPT-OSS-120B)\nhttps://t.co/qH8r1jygVI",
+    "url": "https://x.com/SvenMeyer/status/1982238412867617010",
+    "timestamp": "2025-10-26T00:10:40.000Z",
+    "metadata": {
+      "conversation_id": "1982238412867617010",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_262",
+    "source": "github",
+    "author": "tofunori",
+    "content": "[Issue] [Bug] Droid CLI duplicates infinitely when opening new tab in PowerShell (Windows)\n\n## Description\nWhen opening a new tab in PowerShell on Windows, the droid CLI process starts duplicating infinitely, creating multiple \"Thinking...\" processes that cannot be stopped.\n\n## Steps to Reproduce\n1. Open PowerShell on Windows\n2. Run the droid CLI\n3. Open a new PowerShell tab\n4. Observe the infinite duplication\n\n## Expected Behavior\nOpening a new tab should not trigger any duplication or unexpected behavior in the droid CLI.\n\n## Actual Behavior\nThe droid CLI starts creating infinite \"Th",
+    "url": "https://github.com/Factory-AI/factory/issues/262",
+    "timestamp": "2025-10-26T00:00:41Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 262
+    }
+  },
+  {
     "id": "twitter_1982225331407724875",
     "source": "twitter",
     "author": "ruan_exclusive",
@@ -23,9 +216,9 @@
     "timestamp": "2025-10-25T22:03:24.000Z",
     "metadata": {
       "conversation_id": "1982206385405231255",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
+      "likes": 2,
+      "retweets": 1,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -120,186 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982172039210217473",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "@erd0xbc @AmpCode @FactoryAI Both @FactoryAI and @AmpCode are doing a really good job building an alternative to claude code and codex. I honestly use them both every day, each have pros &amp; cons on the other.",
-    "url": "https://x.com/ben_vargas/status/1982172039210217473",
-    "timestamp": "2025-10-25T19:46:55.000Z",
-    "metadata": {
-      "conversation_id": "1982172039210217473",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982167793995854302",
-    "source": "twitter",
-    "author": "aculzzz",
-    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org any reason why max token is 32k?",
-    "url": "https://x.com/aculzzz/status/1982167793995854302",
-    "timestamp": "2025-10-25T19:30:03.000Z",
-    "metadata": {
-      "conversation_id": "1982167793995854302",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982129004338454583",
-    "source": "twitter",
-    "author": "cataluna84",
-    "content": "The illegal instruction error occurs when the droid binary tries to execute a CPU instruction that your AMD FX-8350 doesn't support. \n\nLet me find the exact instruction:\n$ gdb -batch -ex \"run\" -ex \"info registers\" -ex \"x/i \\$rip\" ~/.local/bin/droid 2>&1 | tail -20\n\nrsp            0x7fffffffd7a0      0x7fffffffd7a0\nr8             0x1                 1\nr9             0x0                 0\nr10            0x0                 0\nr11            0x202               514\nr12            0x0                 0\nr13            0x6c6f6f705f68652e  7813586406938797358\nr14            0x7fffffffd9d8      140737488345560\nr15            0x251e900           38922496\nrip            0x4127c50           0x4127c50\neflags         0x10246             [ PF ZF IF RF ]\ncs             0x33                51\nss             0x2b                43\nds             0x0                 0\nes             0x0                 0\nfs             0x0                 0\ngs             0x0                 0\nfs_base        0x7ffff7c35200      140737350160896\ngs_base        0x0                 0\n=> 0x4127c50:vinserti128 $0x1,%xmm1,%ymm0,%ymm0\n\nFound it! The illegal instruction is at address 0x4127c50:",
-    "url": "https://x.com/cataluna84/status/1982129004338454583",
-    "timestamp": "2025-10-25T16:55:55.000Z",
-    "metadata": {
-      "conversation_id": "1982129004338454583",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982128879998210135",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@gootecks @bitdoze @OpenRouterAI @FactoryAI @Zai_org You can check which provider used with openrouter activity page \n\nDon’t know if other providers gives this option",
-    "url": "https://x.com/CloudTrader4/status/1982128879998210135",
-    "timestamp": "2025-10-25T16:55:25.000Z",
-    "metadata": {
-      "conversation_id": "1982128879998210135",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982127491863969942",
-    "source": "twitter",
-    "author": "cataluna84",
-    "content": "Seems to me, the issue is that the droid binary was compiled with CPU instructions not supported by my AMD FX-8350 processor. \n\nMy CPU is from 2012 and lacks newer instruction sets like AVX2, AVX-512, etc\n\nI was trying out the Droid binary on Ubuntu 25.10, but it's not working on it either!!",
-    "url": "https://x.com/cataluna84/status/1982127491863969942",
-    "timestamp": "2025-10-25T16:49:54.000Z",
-    "metadata": {
-      "conversation_id": "1982127491863969942",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982127222443118733",
-    "source": "twitter",
-    "author": "gootecks",
-    "content": "After getting up to speed on the cline post, i could definitely see how the exacto endpoint could provide better results and how Zai would be incentivized to use lower quality inference providers for those of us on the coding plan. 😟\n\nUsing glm in droid was underwhelming and using it in opencode also leaves a lot to be desired. \n\nBut using it in roocode in debugger mode seemed to have noticeably better results. \n\nAnd until now I didn’t know about the inference prover issue. \n\nIs there a way to check what provider you’re using thru a tool call that’s independent of whatever API you happen to be using?",
-    "url": "https://x.com/gootecks/status/1982127222443118733",
-    "timestamp": "2025-10-25T16:48:50.000Z",
-    "metadata": {
-      "conversation_id": "1982127222443118733",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982125390563885480",
-    "source": "twitter",
-    "author": "mnair1",
-    "content": "“From the human side, at the same time that the capabilities of agents get better, the security that you can use …but if you don’t know what you’re doing, you’re going to get a lot more slop generated and in a much more insecure way.. behavior change reqd” - @matanSF @FactoryAI",
-    "url": "https://x.com/mnair1/status/1982125390563885480",
-    "timestamp": "2025-10-25T16:41:33.000Z",
-    "metadata": {
-      "conversation_id": "1982125390563885480",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982124516185620552",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@bitdoze @OpenRouterAI @FactoryAI @Zai_org I know, you can’t use (exacto) endpoint from openrouter, thats what I am testing",
-    "url": "https://x.com/CloudTrader4/status/1982124516185620552",
-    "timestamp": "2025-10-25T16:38:05.000Z",
-    "metadata": {
-      "conversation_id": "1982124516185620552",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982123855301734826",
-    "source": "twitter",
-    "author": "bitdoze",
-    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org You can use GLM coddling plan in factory without a problem. Just use the endpoint with coding for this.",
-    "url": "https://x.com/bitdoze/status/1982123855301734826",
-    "timestamp": "2025-10-25T16:35:27.000Z",
-    "metadata": {
-      "conversation_id": "1982123855301734826",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982120870475710637",
-    "source": "twitter",
-    "author": "thielaut",
-    "content": "@FactoryAI Hey team, I'm still experiencing this bug on PowerShell (Windows). Opening a new tab causes the droid CLI to duplicate infinitely. https://t.co/siANkeRPBq",
-    "url": "https://x.com/thielaut/status/1982120870475710637",
-    "timestamp": "2025-10-25T16:23:36.000Z",
-    "metadata": {
-      "conversation_id": "1982120870475710637",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982119526658384330",
-    "source": "twitter",
-    "author": "rodrigoehlers",
-    "content": "@FactoryAI I think you guys should focus much more on workspaces and git integration. I can't set a branch for the workspace, although it's shown on the overview. Also I can't set the default branch to put a PR up. It simply uses the git default branch. It's fair it does that now but with minor changes you guys could really improve the UX.",
-    "url": "https://x.com/rodrigoehlers/status/1982119526658384330",
-    "timestamp": "2025-10-25T16:18:15.000Z",
-    "metadata": {
-      "conversation_id": "1982119526658384330",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982115506879603159",
-    "source": "twitter",
-    "author": "osaki_io",
-    "content": "@CloudTrader4 @OpenRouterAI @FactoryAI @Zai_org or ask claude to set it up. it does decent job",
-    "url": "https://x.com/osaki_io/status/1982115506879603159",
-    "timestamp": "2025-10-25T16:02:17.000Z",
-    "metadata": {
-      "conversation_id": "1982115506879603159",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -307,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -713,45 +726,6 @@
       "type": "issue",
       "labels": [],
       "number": 222
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "github_issue_217",
-    "source": "github",
-    "author": "dvcrn",
-    "content": "[Issue] Sonnet through custom provider with same id conflicts with built-in model\n\nFor example using the Sonnet/Haiku models through Copilot:\n\n```\n    {\n      \"model_display_name\": \"claude-sonnet-4.5 (Copilot)\",\n      \"model\": \"claude-sonnet-4.5\",\n      \"base_url\": \"http://localhost:9871/v1\",\n      \"api_key\": \"xxx\",\n      \"provider\": \"generic-chat-completion-api\"\n    },\n    {\n      \"model_display_name\": \"claude-haiku-4.5 (Copilot)\",\n      \"model\": \"claude-haiku-4.5\",\n      \"base_url\": \"http://localhost:9871/v1\",\n      \"api_key\": \"xxx\",\n      \"provider\": \"generic-chat-completio",
-    "url": "https://github.com/Factory-AI/factory/issues/217",
-    "timestamp": "2025-10-20T11:29:17Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 217
-    }
-  },
-  {
-    "id": "reddit_1obd1tm",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
-    "timestamp": "2025-10-20T06:53:47.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
