@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982405895729635623",
+    "source": "twitter",
+    "author": "t0n4r",
+    "content": "@etashio @chasebrignac @FactoryAI droid with codex is waaaay better than just codex imo.",
+    "url": "https://x.com/t0n4r/status/1982405895729635623",
+    "timestamp": "2025-10-26T11:16:11.000Z",
+    "metadata": {
+      "conversation_id": "1982405895729635623",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982403641555484968",
+    "source": "twitter",
+    "author": "AxMTrader",
+    "content": "@mjs527 @FactoryAI Droid in Zed! 🔥",
+    "url": "https://x.com/AxMTrader/status/1982403641555484968",
+    "timestamp": "2025-10-26T11:07:14.000Z",
+    "metadata": {
+      "conversation_id": "1982403641555484968",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982399684468707547",
     "source": "twitter",
     "author": "arnaud_breton",
@@ -100,7 +130,7 @@
       "conversation_id": "1982384090990129627",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -265,36 +295,6 @@
       "conversation_id": "1982343910673522987",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982338714132189199",
-    "source": "twitter",
-    "author": "dalu_hey",
-    "content": "@etashio @FactoryAI feelings are subjective",
-    "url": "https://x.com/dalu_hey/status/1982338714132189199",
-    "timestamp": "2025-10-26T06:49:14.000Z",
-    "metadata": {
-      "conversation_id": "1982338714132189199",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982338068616294851",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@2mawi2W @steipete @iannuttall @perplexity_ai Updated Comprehensive Guide: Running Multiple AI Agents in Parallel with Git Worktrees\n\nFixed it. I did a new research run with @perplexity_ai and Schaltwerk came pretty much out #1, also due to built-in @FactoryAI DROID CLI support\n\nhttps://t.co/ZQiLiktN3l https://t.co/3Eq8KxLjlp",
-    "url": "https://x.com/SvenMeyer/status/1982338068616294851",
-    "timestamp": "2025-10-26T06:46:40.000Z",
-    "metadata": {
-      "conversation_id": "1982338068616294851",
-      "likes": 2,
-      "retweets": 2,
       "replies": 0,
       "quotes": 0
     }
@@ -703,19 +703,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -729,19 +716,6 @@
     }
   },
   {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_214",
     "source": "github",
     "author": "0xStuart",
@@ -752,6 +726,19 @@
       "type": "discussion",
       "category": "Questions",
       "number": 214
+    }
+  },
+  {
+    "id": "reddit_1o98xc1",
+    "source": "reddit",
+    "author": "Unlucky_Draft_3468",
+    "content": "How to Enable Deep Reasoning (High) When Using Custom ChatGPT Models?\n\nI’m a big fan of Factory’s Droid. Currently, I’m experimenting with using ChatGPT’s API through Factory Droid’s custom models, and I find it works much better than the Codex CLI. However, I have a question about the reasoning functionality.\nWhen calling the API this way, I’m not sure whether the model is actually engaging in deep thought. I can’t see any reasoning process in the responses, and they come back very quickly, which makes me suspect the reasoning mode isn’t being activated.\nHow can I",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1o98xc1/how_to_enable_deep_reasoning_high_when_using/",
+    "timestamp": "2025-10-17T18:18:56.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
