@@ -1,5 +1,123 @@
 [
   {
+    "id": "twitter_1982303356342477161",
+    "source": "twitter",
+    "author": "EarlDennisonTan",
+    "content": "@etashio @FactoryAI Its because they never claude. Ofe so much. Context window is always filled up.",
+    "url": "https://x.com/EarlDennisonTan/status/1982303356342477161",
+    "timestamp": "2025-10-26T04:28:44.000Z",
+    "metadata": {
+      "conversation_id": "1982303356342477161",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982302735362871572",
+    "source": "twitter",
+    "author": "geo_anima",
+    "content": "@etashio @FactoryAI I was using Claude Code since its release, then migrated most of my work to Codex when I tested it, but still used CC some of the time.\n\nI tested Droid the day they dropped the CLI, and it was immediately clear it was a far more coherent experience.",
+    "url": "https://x.com/geo_anima/status/1982302735362871572",
+    "timestamp": "2025-10-26T04:26:16.000Z",
+    "metadata": {
+      "conversation_id": "1982302735362871572",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982302451995726270",
+    "source": "twitter",
+    "author": "ruan_exclusive",
+    "content": "@fabiorizzomatos @ducaswtf @LukeberryPi @FactoryAI @cursor_ai 🎯🎯",
+    "url": "https://x.com/ruan_exclusive/status/1982302451995726270",
+    "timestamp": "2025-10-26T04:25:08.000Z",
+    "metadata": {
+      "conversation_id": "1982302451995726270",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982300930235142420",
+    "source": "twitter",
+    "author": "mjs527",
+    "content": "@TrygenticAI @FactoryAI very similar, same function. still learning how to activate/delegate them best but they feel more powerful when configured properly. https://t.co/McE0ZiexnF",
+    "url": "https://x.com/mjs527/status/1982300930235142420",
+    "timestamp": "2025-10-26T04:19:05.000Z",
+    "metadata": {
+      "conversation_id": "1982300930235142420",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982300865508618256",
+    "source": "twitter",
+    "author": "Zay878458749421",
+    "content": "@etashio @FactoryAI how so?",
+    "url": "https://x.com/Zay878458749421/status/1982300865508618256",
+    "timestamp": "2025-10-26T04:18:50.000Z",
+    "metadata": {
+      "conversation_id": "1982300865508618256",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_263",
+    "source": "github",
+    "author": "tgerighty",
+    "content": "[Issue] No todos being deployed again\n\nUgraded to Droid v.0.22.3 OSX Tahoe and no longer displaying the todos as it creates and works through them\n\n<img width=\"712\" height=\"241\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/4e0d6420-b1e6-41f7-b384-59eaef4f6d6e\" />",
+    "url": "https://github.com/Factory-AI/factory/issues/263",
+    "timestamp": "2025-10-26T04:10:42Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 263
+    }
+  },
+  {
+    "id": "twitter_1982296675248169201",
+    "source": "twitter",
+    "author": "TrygenticAI",
+    "content": "@mjs527 @FactoryAI How does it compare to subagents?",
+    "url": "https://x.com/TrygenticAI/status/1982296675248169201",
+    "timestamp": "2025-10-26T04:02:11.000Z",
+    "metadata": {
+      "conversation_id": "1982296675248169201",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982296137932615884",
+    "source": "twitter",
+    "author": "francesca_lab",
+    "content": "@chasebrignac @etashio @FactoryAI Glad you’re loving it! You can use gpt-5-codex in Droid as well",
+    "url": "https://x.com/francesca_lab/status/1982296137932615884",
+    "timestamp": "2025-10-26T04:00:03.000Z",
+    "metadata": {
+      "conversation_id": "1982296137932615884",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982295393850585205",
     "source": "twitter",
     "author": "matanSF",
@@ -8,7 +126,7 @@
     "timestamp": "2025-10-26T03:57:05.000Z",
     "metadata": {
       "conversation_id": "1982295393850585205",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -23,9 +141,9 @@
     "timestamp": "2025-10-26T03:42:57.000Z",
     "metadata": {
       "conversation_id": "1982291837294416222",
-      "likes": 2,
+      "likes": 5,
       "retweets": 1,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -195,66 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982241887911055459",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "The setup I provided for @OpenRouterAI inside @FactoryAI is based on this finding. My goal is to try out this (exacto) endpoint specifically.\n\nYou can use @Zai_org coding plan anywhere you want(it is completely independent), they have a clear setup guide(which I have been using for a month and it is has a great price/performance).",
-    "url": "https://x.com/CloudTrader4/status/1982241887911055459",
-    "timestamp": "2025-10-26T00:24:29.000Z",
-    "metadata": {
-      "conversation_id": "1982241887911055459",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982241174883549652",
-    "source": "twitter",
-    "author": "chasebrignac",
-    "content": "@etashio @FactoryAI Try codex",
-    "url": "https://x.com/chasebrignac/status/1982241174883549652",
-    "timestamp": "2025-10-26T00:21:39.000Z",
-    "metadata": {
-      "conversation_id": "1982241174883549652",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982240849774731583",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "I thought it is clear from my statement, but let me iterate\n\nI have been using @Zai_org for almost a month with their quarterly plan almost a month now\n\nIt works every and their setup is clear and it is also a great model\n\n@OpenRouterAI provided a different endpoint which they call (exacto) so I am testing specifically that endpoint with @FactoryAI droid\n\n@FactoryAI has built in GLM 4.6 and you can also set @Zai_org coding plan as a custom model, and I have been using both\n\nPoint is here to try out the @OpenRouterAI specific “exacto” endpoint",
-    "url": "https://x.com/CloudTrader4/status/1982240849774731583",
-    "timestamp": "2025-10-26T00:20:21.000Z",
-    "metadata": {
-      "conversation_id": "1982240849774731583",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982238412867617010",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@CloudTrader4 @bitdoze @OpenRouterAI @FactoryAI @Zai_org The @Zai_org coding plan works great within any IDE/CLI as you just have to provide their URL and API-key ... and it works great ! No 'exacto' needed from @OpenRouterAI (which totally failed to provide working inference providers for @OpenAI GPT-OSS-120B)\nhttps://t.co/qH8r1jygVI",
-    "url": "https://x.com/SvenMeyer/status/1982238412867617010",
-    "timestamp": "2025-10-26T00:10:40.000Z",
-    "metadata": {
-      "conversation_id": "1982238412867617010",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_262",
     "source": "github",
     "author": "tofunori",
@@ -268,51 +326,6 @@
     }
   },
   {
-    "id": "twitter_1982225331407724875",
-    "source": "twitter",
-    "author": "ruan_exclusive",
-    "content": "@fabiorizzomatos @ducaswtf @LukeberryPi @FactoryAI verificar mudanças, desfazer, alguns atalhos do cursor como mencionar o git diff, adicionar arquivos abertos etc fazem bastante falta\n\nmas interessante, ja tinha ouvido falar desse factoryAI porém nunca usei. vou dar uma olhada \n\nvlwww Fabio",
-    "url": "https://x.com/ruan_exclusive/status/1982225331407724875",
-    "timestamp": "2025-10-25T23:18:41.000Z",
-    "metadata": {
-      "conversation_id": "1982225331407724875",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982206385405231255",
-    "source": "twitter",
-    "author": "etashio",
-    "content": "I don't know what kind of wizardry they're pulling over at @FactoryAI, but droid feels a lot more capable than claude code https://t.co/MHHodOvjJN",
-    "url": "https://x.com/etashio/status/1982206385405231255",
-    "timestamp": "2025-10-25T22:03:24.000Z",
-    "metadata": {
-      "conversation_id": "1982206385405231255",
-      "likes": 9,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982185687777485079",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@thielaut @FactoryAI can you open an issue on https://t.co/T9JJV7uSsN and email me ben @ factory . ai with the /bug report pls",
-    "url": "https://x.com/bentossell/status/1982185687777485079",
-    "timestamp": "2025-10-25T20:41:09.000Z",
-    "metadata": {
-      "conversation_id": "1982185687777485079",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -320,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "github_issue_222",
-    "source": "github",
-    "author": "ImpureCrumpet",
-    "content": "[Issue] Factory is not recognizing existing Droid definition files as available Subagents for the Task tool. (Written by Droid)\n\nDroid is claiming it can't recognize the .md Custom Droid (Subagent) files (created in Droid) as agents to use with the subagent command, so I asked **Droid** to write and format this issue:\n\n# 🐛 Describe the bug\nFactory is not recognizing existing Droid definition files as available agents for the Task tool.  \nDespite proper structure and placement, the droids are not discovered or exposed as valid `subagent_type` targets.\n\n---\n\n## ⚙️ Environment\n- **Date:** 2025-10-18  \n- **Project path:** `[",
-    "url": "https://github.com/Factory-AI/factory/issues/222",
-    "timestamp": "2025-10-21T01:21:27Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 222
     }
   },
   {
