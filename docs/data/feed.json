@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982425129616539735",
+    "source": "twitter",
+    "author": "jonhillymakes",
+    "content": "@etashio @FactoryAI Thank you erik, you've just put @FactoryAI  on my radar, i'm currently giving it a go right now!",
+    "url": "https://x.com/jonhillymakes/status/1982425129616539735",
+    "timestamp": "2025-10-26T12:32:37.000Z",
+    "metadata": {
+      "conversation_id": "1982425129616539735",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982417509119938799",
+    "source": "twitter",
+    "author": "308Greenfield",
+    "content": "@etashio @FactoryAI Paid actors anyways",
+    "url": "https://x.com/308Greenfield/status/1982417509119938799",
+    "timestamp": "2025-10-26T12:02:20.000Z",
+    "metadata": {
+      "conversation_id": "1982417509119938799",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982415826365067418",
     "source": "twitter",
     "author": "_Suresh2",
@@ -160,7 +190,7 @@
       "conversation_id": "1982392457347342665",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -263,36 +293,6 @@
     "timestamp": "2025-10-26T08:16:02.000Z",
     "metadata": {
       "conversation_id": "1982360560475025723",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982358741954744452",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@rezaul_arif @FactoryAI working on this! it’s due to ink framework rendering components in the cli. apologies! if you resize it can help stop it",
-    "url": "https://x.com/bentossell/status/1982358741954744452",
-    "timestamp": "2025-10-26T08:08:49.000Z",
-    "metadata": {
-      "conversation_id": "1982358741954744452",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982357082000310472",
-    "source": "twitter",
-    "author": "ChrisVanDerKlau",
-    "content": "@etashio @FactoryAI context engineering\nsystem prompt engineering",
-    "url": "https://x.com/ChrisVanDerKlau/status/1982357082000310472",
-    "timestamp": "2025-10-26T08:02:13.000Z",
-    "metadata": {
-      "conversation_id": "1982357082000310472",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
