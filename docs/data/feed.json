@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982291837294416222",
+    "source": "twitter",
+    "author": "mjs527",
+    "content": "finally got @FactoryAI droid cooking again this evening. i am drinking the koolaid. it's on fire after getting all my MCP servers and custom droids configured. this update feels good",
+    "url": "https://x.com/mjs527/status/1982291837294416222",
+    "timestamp": "2025-10-26T03:42:57.000Z",
+    "metadata": {
+      "conversation_id": "1982291837294416222",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982288792703918227",
+    "source": "twitter",
+    "author": "cooosyku23",
+    "content": "I’ve been obsessed with creating custom droids for @FactoryAI, and I still haven’t figured out how good those droids work.",
+    "url": "https://x.com/cooosyku23/status/1982288792703918227",
+    "timestamp": "2025-10-26T03:30:51.000Z",
+    "metadata": {
+      "conversation_id": "1982288792703918227",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982276815571054823",
     "source": "twitter",
     "author": "rezaul_arif",
@@ -158,7 +188,7 @@
     "timestamp": "2025-10-26T00:24:29.000Z",
     "metadata": {
       "conversation_id": "1982241887911055459",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -246,7 +276,7 @@
     "timestamp": "2025-10-25T22:03:24.000Z",
     "metadata": {
       "conversation_id": "1982206385405231255",
-      "likes": 4,
+      "likes": 8,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -277,36 +307,6 @@
     "metadata": {
       "conversation_id": "1982185477374386442",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982185372235763762",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@NicholasZozaya @CloudTrader4 @OpenRouterAI @Zai_org @FactoryAI just a couple of bugs - we're fixing them quickly!",
-    "url": "https://x.com/bentossell/status/1982185372235763762",
-    "timestamp": "2025-10-25T20:39:54.000Z",
-    "metadata": {
-      "conversation_id": "1982185372235763762",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982185283417149875",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@abyssbugg @FactoryAI 👂",
-    "url": "https://x.com/bentossell/status/1982185283417149875",
-    "timestamp": "2025-10-25T20:39:33.000Z",
-    "metadata": {
-      "conversation_id": "1982185283417149875",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
