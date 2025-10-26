@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1982411507238633562",
+    "source": "twitter",
+    "author": "CyprianWetende",
+    "content": "@DatSciX @etashio @FactoryAI Saas idea",
+    "url": "https://x.com/CyprianWetende/status/1982411507238633562",
+    "timestamp": "2025-10-26T11:38:29.000Z",
+    "metadata": {
+      "conversation_id": "1982411507238633562",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982411248143945748",
+    "source": "twitter",
+    "author": "CyprianWetende",
+    "content": "@etashio @FactoryAI You can just do things with droid",
+    "url": "https://x.com/CyprianWetende/status/1982411248143945748",
+    "timestamp": "2025-10-26T11:37:27.000Z",
+    "metadata": {
+      "conversation_id": "1982411248143945748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982408016541675823",
     "source": "twitter",
     "author": "_Suresh2",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1982350112396321202",
-    "source": "twitter",
-    "author": "ivanfioravanti",
-    "content": "@etashio @chasebrignac @FactoryAI Codex is so much better! gpt-5-codex model behind is top!",
-    "url": "https://x.com/ivanfioravanti/status/1982350112396321202",
-    "timestamp": "2025-10-26T07:34:31.000Z",
-    "metadata": {
-      "conversation_id": "1982350112396321202",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982348573833363915",
-    "source": "twitter",
-    "author": "MinChonChiSF",
-    "content": "@etashio @FactoryAI The terminal-based UI looks interesting.",
-    "url": "https://x.com/MinChonChiSF/status/1982348573833363915",
-    "timestamp": "2025-10-26T07:28:24.000Z",
-    "metadata": {
-      "conversation_id": "1982348573833363915",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_263",
     "source": "github",
     "author": "tgerighty",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
