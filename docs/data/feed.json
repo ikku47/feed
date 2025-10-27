@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1982709396246532335",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@FactoryAI any idea why custom model responses' `tool_calls` array is always visible? Is this something the CLI is intended to filter from view? https://t.co/7ptULXvZmk",
+    "url": "https://x.com/fire/status/1982709396246532335",
+    "timestamp": "2025-10-27T07:22:11.000Z",
+    "metadata": {
+      "conversation_id": "1982709396246532335",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982704717391127026",
+    "source": "twitter",
+    "author": "igoor_org",
+    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai Which model(s) were you using?",
+    "url": "https://x.com/igoor_org/status/1982704717391127026",
+    "timestamp": "2025-10-27T07:03:36.000Z",
+    "metadata": {
+      "conversation_id": "1982704717391127026",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982704557282021661",
+    "source": "twitter",
+    "author": "mjs527",
+    "content": "agreed, it's still early but the real efficacy comes when they are auto-delegated by the meta droid. i've mentioned it once or twice, but I had this working with @aeitroc 's orchestrator temporarily and have yet to get back to that level of precision. however, asking the droid to run \"xyz-plan.xml using relevant custom droids in parallel\" works fairly well with the native @FactoryAI integrations right now",
+    "url": "https://x.com/mjs527/status/1982704557282021661",
+    "timestamp": "2025-10-27T07:02:57.000Z",
+    "metadata": {
+      "conversation_id": "1982704557282021661",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982697090477408264",
     "source": "twitter",
     "author": "ronaldmannak",
@@ -261,7 +306,7 @@
       "conversation_id": "1982655882128453858",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -275,51 +320,6 @@
     "metadata": {
       "conversation_id": "1982653979814469817",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982640896639418695",
-    "source": "twitter",
-    "author": "leodoan_",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai felt this, ai gets too sentient and dips, hope it didn't bork your workspace",
-    "url": "https://x.com/leodoan_/status/1982640896639418695",
-    "timestamp": "2025-10-27T02:50:00.000Z",
-    "metadata": {
-      "conversation_id": "1982640896639418695",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982635740396912869",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "@tsi_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai Love to see your AGENTS .md",
-    "url": "https://x.com/JoelDeTeves/status/1982635740396912869",
-    "timestamp": "2025-10-27T02:29:30.000Z",
-    "metadata": {
-      "conversation_id": "1982635740396912869",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982633929799770562",
-    "source": "twitter",
-    "author": "matanSF",
-    "content": "@AlexFinnX Have you tried @FactoryAI",
-    "url": "https://x.com/matanSF/status/1982633929799770562",
-    "timestamp": "2025-10-27T02:22:19.000Z",
-    "metadata": {
-      "conversation_id": "1982633929799770562",
-      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -703,19 +703,6 @@
     }
   },
   {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
