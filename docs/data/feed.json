@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1982904044986478877",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "The boys know that I love @FactoryAI’s droid https://t.co/lDYzagTX5s",
+    "url": "https://x.com/DannyAziz97/status/1982904044986478877",
+    "timestamp": "2025-10-27T20:15:39.000Z",
+    "metadata": {
+      "conversation_id": "1982904044986478877",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982904035134054403",
+    "source": "twitter",
+    "author": "agheieff_",
+    "content": "@FactoryAI @FactoryAI I couldn't make it, I created another account for the trial 40m tokens. Please don't ban me, I'll buy the pro sub next Monday",
+    "url": "https://x.com/agheieff_/status/1982904035134054403",
+    "timestamp": "2025-10-27T20:15:37.000Z",
+    "metadata": {
+      "conversation_id": "1982904035134054403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982901982353617392",
+    "source": "twitter",
+    "author": "conductor_build",
+    "content": "@AonSayyed @DatSciX @etashio @FactoryAI @cursor_ai working on it 🫡",
+    "url": "https://x.com/conductor_build/status/1982901982353617392",
+    "timestamp": "2025-10-27T20:07:27.000Z",
+    "metadata": {
+      "conversation_id": "1982901982353617392",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982900502204690809",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "Droid from @FactoryAI almost covers my whole workflow, barely need any other tool\n\nIt just need to be better at design and after that it will be the all-in-one tool",
+    "url": "https://x.com/CloudTrader4/status/1982900502204690809",
+    "timestamp": "2025-10-27T20:01:34.000Z",
+    "metadata": {
+      "conversation_id": "1982900502204690809",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982900345643905080",
+    "source": "twitter",
+    "author": "ifitsmanu",
+    "content": "@kanomalie But it’s written by @claudeai, @OpenAICodexCli , @kilocode , @FactoryAI , or a bunch of other CLI’s.\n\nDon’t you guys trust the code written by AI? Or even better, we can review it by @coderabbitai",
+    "url": "https://x.com/ifitsmanu/status/1982900345643905080",
+    "timestamp": "2025-10-27T20:00:57.000Z",
+    "metadata": {
+      "conversation_id": "1982900345643905080",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982900098301603891",
+    "source": "twitter",
+    "author": "arnaud_breton",
+    "content": "@bentossell @FactoryAI Also, I was surprised that droid seems connection dependant, not sure if because my session expired though, but I'd expect droid to launch immediately when offline, am I assuming wrong?",
+    "url": "https://x.com/arnaud_breton/status/1982900098301603891",
+    "timestamp": "2025-10-27T19:59:58.000Z",
+    "metadata": {
+      "conversation_id": "1982900098301603891",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982899583895437783",
+    "source": "twitter",
+    "author": "arnaud_breton",
+    "content": "@bentossell @FactoryAI Trying to vibe code on the plane now, it's so annoying 😢, hope the fix is at the corner https://t.co/V1NglNZb2b",
+    "url": "https://x.com/arnaud_breton/status/1982899583895437783",
+    "timestamp": "2025-10-27T19:57:55.000Z",
+    "metadata": {
+      "conversation_id": "1982899583895437783",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982891973527908632",
     "source": "twitter",
     "author": "ronaldmannak",
@@ -130,7 +235,7 @@
       "conversation_id": "1982879596933722355",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -191,111 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982868307901591937",
-    "source": "twitter",
-    "author": "orsaorin",
-    "content": "I’m using the VS code extension. @FactoryAI , is there a way to have something similar to github copilot where you can see the diff and suggest a different approach in the same view without losing the code change proposed by droid?",
-    "url": "https://x.com/orsaorin/status/1982868307901591937",
-    "timestamp": "2025-10-27T17:53:39.000Z",
-    "metadata": {
-      "conversation_id": "1982868307901591937",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982867589782216896",
-    "source": "twitter",
-    "author": "orsaorin",
-    "content": "I’m using @FactoryAI for some time and I like it how “smart” it is. However,  soemtimes I would like to add a suggestion/change in the proposed code change. I don’t find it user friendly. the diff is read only and if you cancel the proposal, you “lose” it and can’t reference",
-    "url": "https://x.com/orsaorin/status/1982867589782216896",
-    "timestamp": "2025-10-27T17:50:47.000Z",
-    "metadata": {
-      "conversation_id": "1982867589782216896",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982866384473481557",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@JoelDeTeves @FactoryAI @myaitutor @the_machine_ai @pixio_ai Yea it's long lol",
-    "url": "https://x.com/tsi_org/status/1982866384473481557",
-    "timestamp": "2025-10-27T17:46:00.000Z",
-    "metadata": {
-      "conversation_id": "1982866384473481557",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982866321420546238",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@TCGsealed @FactoryAI @myaitutor @the_machine_ai @pixio_ai @warpdotdev Will try",
-    "url": "https://x.com/tsi_org/status/1982866321420546238",
-    "timestamp": "2025-10-27T17:45:45.000Z",
-    "metadata": {
-      "conversation_id": "1982866321420546238",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982866281809473808",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@igoor_org @FactoryAI @myaitutor @the_machine_ai @pixio_ai GLM and gpt 5 high",
-    "url": "https://x.com/tsi_org/status/1982866281809473808",
-    "timestamp": "2025-10-27T17:45:36.000Z",
-    "metadata": {
-      "conversation_id": "1982866281809473808",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982866204596535752",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@marcgregory_ @FactoryAI @myaitutor @the_machine_ai @pixio_ai I'm using gpt 5 high and glm",
-    "url": "https://x.com/tsi_org/status/1982866204596535752",
-    "timestamp": "2025-10-27T17:45:17.000Z",
-    "metadata": {
-      "conversation_id": "1982866204596535752",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982866122228802002",
-    "source": "twitter",
-    "author": "tsi_org",
-    "content": "@MinChonChiSF @FactoryAI @myaitutor @the_machine_ai @pixio_ai Drood eats  Claudes lunch",
-    "url": "https://x.com/tsi_org/status/1982866122228802002",
-    "timestamp": "2025-10-27T17:44:58.000Z",
-    "metadata": {
-      "conversation_id": "1982866122228802002",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,6 +726,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
