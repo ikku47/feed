@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1983004587914314031",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@alvinsng @FactoryAI I knew you knew \n\nBut think of the humans!",
+    "url": "https://x.com/GitMaxd/status/1983004587914314031",
+    "timestamp": "2025-10-28T02:55:10.000Z",
+    "metadata": {
+      "conversation_id": "1983004587914314031",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983003540135260443",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@GitMaxd @FactoryAI Yup, I know, but didn't wanna blow people away too quickly",
+    "url": "https://x.com/alvinsng/status/1983003540135260443",
+    "timestamp": "2025-10-28T02:51:01.000Z",
+    "metadata": {
+      "conversation_id": "1983003540135260443",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982998893836283923",
+    "source": "twitter",
+    "author": "colesmcintosh",
+    "content": "@alvinsng @FactoryAI I’m gonna start saying “go figure” instead of “go fix”",
+    "url": "https://x.com/colesmcintosh/status/1982998893836283923",
+    "timestamp": "2025-10-28T02:32:33.000Z",
+    "metadata": {
+      "conversation_id": "1982998893836283923",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982994786257981754",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@alvinsng @FactoryAI Just give it a “PR N” - Droid knows",
+    "url": "https://x.com/GitMaxd/status/1982994786257981754",
+    "timestamp": "2025-10-28T02:16:13.000Z",
+    "metadata": {
+      "conversation_id": "1982994786257981754",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982994305745825841",
+    "source": "twitter",
+    "author": "GitMaxd",
+    "content": "@alvinsng @FactoryAI Secret sauce stuff - try adding “Resolve and respond to PR comments…” with Droid Code Review agent comments\n\nPure gold",
+    "url": "https://x.com/GitMaxd/status/1982994305745825841",
+    "timestamp": "2025-10-28T02:14:19.000Z",
+    "metadata": {
+      "conversation_id": "1982994305745825841",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982992111734833351",
+    "source": "twitter",
+    "author": "shaunmmaguire",
+    "content": "@FactoryAI @awscloud 🚀",
+    "url": "https://x.com/shaunmmaguire/status/1982992111734833351",
+    "timestamp": "2025-10-28T02:05:36.000Z",
+    "metadata": {
+      "conversation_id": "1982992111734833351",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1982991286333575601",
+    "source": "twitter",
+    "author": "0xS1msang",
+    "content": "@DennisonBertram @FactoryAI agreed",
+    "url": "https://x.com/0xS1msang/status/1982991286333575601",
+    "timestamp": "2025-10-28T02:02:19.000Z",
+    "metadata": {
+      "conversation_id": "1982991286333575601",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1982987735804600428",
     "source": "twitter",
     "author": "DennisonBertram",
@@ -8,9 +113,9 @@
     "timestamp": "2025-10-28T01:48:13.000Z",
     "metadata": {
       "conversation_id": "1982987735804600428",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -98,9 +203,9 @@
     "timestamp": "2025-10-28T00:52:38.000Z",
     "metadata": {
       "conversation_id": "1982973750464393713",
-      "likes": 8,
+      "likes": 12,
       "retweets": 1,
-      "replies": 1,
+      "replies": 3,
       "quotes": 0
     }
   },
@@ -128,7 +233,7 @@
     "timestamp": "2025-10-28T00:31:44.000Z",
     "metadata": {
       "conversation_id": "1982968492115509536",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,7 +248,7 @@
     "timestamp": "2025-10-28T00:10:32.000Z",
     "metadata": {
       "conversation_id": "1982963156063531075",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +278,7 @@
     "timestamp": "2025-10-27T23:14:21.000Z",
     "metadata": {
       "conversation_id": "1982949016532103383",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -188,112 +293,7 @@
     "timestamp": "2025-10-27T23:04:26.000Z",
     "metadata": {
       "conversation_id": "1982946518899536335",
-      "likes": 7,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982943023278518547",
-    "source": "twitter",
-    "author": "cmricksen",
-    "content": "@AsimPaudel4 @FactoryAI 🧙 glad you think so! let us know your thoughts",
-    "url": "https://x.com/cmricksen/status/1982943023278518547",
-    "timestamp": "2025-10-27T22:50:32.000Z",
-    "metadata": {
-      "conversation_id": "1982943023278518547",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982942614073815379",
-    "source": "twitter",
-    "author": "cmricksen",
-    "content": "@alexisgauba @benhylak @FactoryAI Can the Droids generate code via typewriter?",
-    "url": "https://x.com/cmricksen/status/1982942614073815379",
-    "timestamp": "2025-10-27T22:48:55.000Z",
-    "metadata": {
-      "conversation_id": "1982942614073815379",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982934834063519786",
-    "source": "twitter",
-    "author": "moderat10n",
-    "content": "Trying to work out if referring to Claude Code, OpenAI Codex, @FactoryAI Droid, @opencode, @AmpCode as \"harnesses\" is going to confuse a somewhat technical, but more senior exec audience. I think it'll confuse them &amp; am leaning towards \"coding agent\".\n\nPaging @simonw",
-    "url": "https://x.com/moderat10n/status/1982934834063519786",
-    "timestamp": "2025-10-27T22:18:00.000Z",
-    "metadata": {
-      "conversation_id": "1982934834063519786",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982931065242300589",
-    "source": "twitter",
-    "author": "0xTheWay",
-    "content": "@FactoryAI @awscloud 👏",
-    "url": "https://x.com/0xTheWay/status/1982931065242300589",
-    "timestamp": "2025-10-27T22:03:01.000Z",
-    "metadata": {
-      "conversation_id": "1982931065242300589",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982930632427876584",
-    "source": "twitter",
-    "author": "claudeusmaximus",
-    "content": "@FactoryAI @awscloud Oh shit this is huge you guys are gonna crush if you can make Factory faster than Claude code on bedrock. It is currently extremely slow compared to direct anthropic api.",
-    "url": "https://x.com/claudeusmaximus/status/1982930632427876584",
-    "timestamp": "2025-10-27T22:01:18.000Z",
-    "metadata": {
-      "conversation_id": "1982930632427876584",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982929153424060499",
-    "source": "twitter",
-    "author": "NathanLands",
-    "content": "@FactoryAI @awscloud 👏",
-    "url": "https://x.com/NathanLands/status/1982929153424060499",
-    "timestamp": "2025-10-27T21:55:25.000Z",
-    "metadata": {
-      "conversation_id": "1982929153424060499",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982927052165816790",
-    "source": "twitter",
-    "author": "DowClem",
-    "content": "@FactoryAI sent this email out a several hours ago, today was wfh day, been trying to build. Would appreciate if soemone could look into my account asap. https://t.co/PFMqhYIDTf",
-    "url": "https://x.com/DowClem/status/1982927052165816790",
-    "timestamp": "2025-10-27T21:47:04.000Z",
-    "metadata": {
-      "conversation_id": "1982927052165816790",
-      "likes": 0,
+      "likes": 9,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -726,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
-    }
-  },
-  {
-    "id": "reddit_1obv6pd",
-    "source": "reddit",
-    "author": "Conscious-Fee7844",
-    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
-    "timestamp": "2025-10-20T21:59:41.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 12,
-      "subreddit": "FactoryAi"
     }
   },
   {
