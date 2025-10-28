@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983017137779421343",
+    "source": "twitter",
+    "author": "M2Fauzaan",
+    "content": "@ronaldmannak @FactoryAI @GroqInc I'll keep this in my radar. I'm looking for a good render for @pluk_sh",
+    "url": "https://x.com/M2Fauzaan/status/1983017137779421343",
+    "timestamp": "2025-10-28T03:45:02.000Z",
+    "metadata": {
+      "conversation_id": "1983017137779421343",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983004587914314031",
     "source": "twitter",
     "author": "GitMaxd",
@@ -203,7 +218,7 @@
     "timestamp": "2025-10-28T00:52:38.000Z",
     "metadata": {
       "conversation_id": "1982973750464393713",
-      "likes": 12,
+      "likes": 13,
       "retweets": 1,
       "replies": 3,
       "quotes": 0
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1982949016532103383",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982946518899536335",
-    "source": "twitter",
-    "author": "simonw",
-    "content": "@moderat10n @FactoryAI @opencode @AmpCode I really like \"coding agent\" personally, I think it's a clear name for the category",
-    "url": "https://x.com/simonw/status/1982946518899536335",
-    "timestamp": "2025-10-27T23:04:26.000Z",
-    "metadata": {
-      "conversation_id": "1982946518899536335",
-      "likes": 9,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
