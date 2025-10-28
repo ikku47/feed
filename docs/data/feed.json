@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983165634755375318",
+    "source": "twitter",
+    "author": "karanjagtiani04",
+    "content": "@FactoryAI @awscloud This is definitely a big step forward. Curious to see how it impacts deployment efficiency.",
+    "url": "https://x.com/karanjagtiani04/status/1983165634755375318",
+    "timestamp": "2025-10-28T13:35:07.000Z",
+    "metadata": {
+      "conversation_id": "1983165634755375318",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983164126697587061",
+    "source": "twitter",
+    "author": "hqmank",
+    "content": "@MullerNavas @FactoryAI @Hailuo_AI Good news, Minimax M2 model can be used for free before its official release on November 7.\nhttps://t.co/HPExWeFI2X",
+    "url": "https://x.com/hqmank/status/1983164126697587061",
+    "timestamp": "2025-10-28T13:29:07.000Z",
+    "metadata": {
+      "conversation_id": "1983164126697587061",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983164078563700936",
+    "source": "twitter",
+    "author": "hqmank",
+    "content": "@MullerNavas @FactoryAI @Hailuo_AI Edit this file: ~/.factory/config.json and add the following:\n\n{\n  \"model\": \"minimaxi-m2\",\n  \"base_url\": \"https://t.co/betlhSY7bW\",\n  \"api_key\": \"x\",\n  \"provider\": \"anthropic\"\n}",
+    "url": "https://x.com/hqmank/status/1983164078563700936",
+    "timestamp": "2025-10-28T13:28:56.000Z",
+    "metadata": {
+      "conversation_id": "1983164078563700936",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983161844522164237",
     "source": "twitter",
     "author": "MullerNavas",
@@ -10,7 +55,7 @@
       "conversation_id": "1983161844522164237",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983145933266092504",
-    "source": "twitter",
-    "author": "arnaud_breton",
-    "content": "@bentossell @FactoryAI Sorry I didn’t mention, on the screenshot it was running GPT OSS 20b in LMStudio",
-    "url": "https://x.com/arnaud_breton/status/1983145933266092504",
-    "timestamp": "2025-10-28T12:16:50.000Z",
-    "metadata": {
-      "conversation_id": "1983145933266092504",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983143607373562340",
-    "source": "twitter",
-    "author": "oscarfogelstrm",
-    "content": "Factory Droid acting up in Cursor 😅😬\n\n @cursor_ai  @FactoryAI https://t.co/IRzr6fQ0zT",
-    "url": "https://x.com/oscarfogelstrm/status/1983143607373562340",
-    "timestamp": "2025-10-28T12:07:35.000Z",
-    "metadata": {
-      "conversation_id": "1983143607373562340",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983112248827531572",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "Data-Model prompt from @RayFernando1337 works so nice in @FactoryAI Droid\n\nHere it is\n\"I want you to create a Data Model for my app. I want to create an Entity relationship diagrams for my database schemas, service models, and UI data.\"\n\nSo simple and so powerful\n\nCredits to @RayFernando1337",
-    "url": "https://x.com/pascallammers_/status/1983112248827531572",
-    "timestamp": "2025-10-28T10:02:59.000Z",
-    "metadata": {
-      "conversation_id": "1983112248827531572",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_272",
     "source": "github",
     "author": "alphatheory-ccarneiro",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
