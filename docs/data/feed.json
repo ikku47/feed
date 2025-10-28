@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983227348687433788",
+    "source": "twitter",
+    "author": "mujahidsan",
+    "content": "@Euforbo @hqmank @FactoryAI @Hailuo_AI How to unset it?",
+    "url": "https://x.com/mujahidsan/status/1983227348687433788",
+    "timestamp": "2025-10-28T17:40:21.000Z",
+    "metadata": {
+      "conversation_id": "1983227348687433788",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983225225857691916",
+    "source": "twitter",
+    "author": "tsi_org",
+    "content": "This is going to be fun! @the_machine_ai @FactoryAI https://t.co/qOeU4RWYKv",
+    "url": "https://x.com/tsi_org/status/1983225225857691916",
+    "timestamp": "2025-10-28T17:31:55.000Z",
+    "metadata": {
+      "conversation_id": "1983225225857691916",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983224169836773651",
+    "source": "twitter",
+    "author": "aibuilderclub_",
+    "content": "@hqmank @FactoryAI @Hailuo_AI yesirrr!",
+    "url": "https://x.com/aibuilderclub_/status/1983224169836773651",
+    "timestamp": "2025-10-28T17:27:43.000Z",
+    "metadata": {
+      "conversation_id": "1983224169836773651",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983221710577893387",
     "source": "twitter",
     "author": "dalu_hey",
@@ -25,7 +70,7 @@
       "conversation_id": "1983221361284919374",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -113,7 +158,7 @@
     "timestamp": "2025-10-28T16:31:56.000Z",
     "metadata": {
       "conversation_id": "1983210134412111911",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -248,55 +293,10 @@
     "timestamp": "2025-10-28T16:05:13.000Z",
     "metadata": {
       "conversation_id": "1983203410254963028",
-      "likes": 15,
+      "likes": 18,
       "retweets": 1,
       "replies": 2,
       "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1983202332000329978",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@colesmcintosh @FactoryAI 🔥",
-    "url": "https://x.com/bentossell/status/1983202332000329978",
-    "timestamp": "2025-10-28T16:00:56.000Z",
-    "metadata": {
-      "conversation_id": "1983202332000329978",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983202243253064147",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@smarative @hqmank @FactoryAI @Hailuo_AI hear ya!",
-    "url": "https://x.com/bentossell/status/1983202243253064147",
-    "timestamp": "2025-10-28T16:00:35.000Z",
-    "metadata": {
-      "conversation_id": "1983202243253064147",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983202186952880510",
-    "source": "twitter",
-    "author": "matanSF",
-    "content": "@ben_rapaport @FactoryAI @AmpCode I know you’re an amp superfan, but lmk your thoughts on how it goes",
-    "url": "https://x.com/matanSF/status/1983202186952880510",
-    "timestamp": "2025-10-28T16:00:22.000Z",
-    "metadata": {
-      "conversation_id": "1983202186952880510",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
