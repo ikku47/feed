@@ -1,5 +1,108 @@
 [
   {
+    "id": "twitter_1983028229368885530",
+    "source": "twitter",
+    "author": "hqmank",
+    "content": "Hi Factory AI! We need Droid + MiniMax M2, let's make it happen together.\n@FactoryAI\n@Hailuo_AI https://t.co/XCwBYGZsH1",
+    "url": "https://x.com/hqmank/status/1983028229368885530",
+    "timestamp": "2025-10-28T04:29:07.000Z",
+    "metadata": {
+      "conversation_id": "1983028229368885530",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983025670688256439",
+    "source": "twitter",
+    "author": "alvinsng",
+    "content": "@colesmcintosh @FactoryAI Personally I prefer \"The unit tests are failing, be the change that you wish to see in the world\"",
+    "url": "https://x.com/alvinsng/status/1983025670688256439",
+    "timestamp": "2025-10-28T04:18:57.000Z",
+    "metadata": {
+      "conversation_id": "1983025670688256439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983024670736892226",
+    "source": "twitter",
+    "author": "LzyIndTky",
+    "content": "Factory  + Sonnet 4.5 = GOATed\nFactory + GPT-5-Codex = Value Efficient \n\n@FactoryAI @OpenAI @AnthropicAI",
+    "url": "https://x.com/LzyIndTky/status/1983024670736892226",
+    "timestamp": "2025-10-28T04:14:58.000Z",
+    "metadata": {
+      "conversation_id": "1983024670736892226",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983022507687821775",
+    "source": "twitter",
+    "author": "Vtrivedy10",
+    "content": "biased as i wrote blog on this topic but tldr:\n- Factory Droid/codex/CC/AMP are all coding agents, they’re products!\n- But they’re each products that take a very opinionated and careful design for what “stuff” to put around the model to make them good at coding.  Tool design, system prompts, multi-model choices, subagent design, etc.  All of that stuff is the “harness”, ie. the set of things you put around the model to get the best perf for your task\n- this is because models have spiky intelligence across tasks and are non-fungible in a harness, so you can optimize the stuff around them to elicit the best perf for your task\n- finally, there’s a world where Harness Design is open!  DeepAgents from @LangChainAI is one of example at the first steps towards that, where you start with an opinionated harness but users have freedom to edit all parts of it.  There will be a place for both design choices imo\n\nhttps://t.co/x0FFnkmVZQ",
+    "url": "https://x.com/Vtrivedy10/status/1983022507687821775",
+    "timestamp": "2025-10-28T04:06:23.000Z",
+    "metadata": {
+      "conversation_id": "1983022507687821775",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983022132700557753",
+    "source": "twitter",
+    "author": "AsimPaudel4",
+    "content": "@cmricksen @FactoryAI yeah sure. 😇",
+    "url": "https://x.com/AsimPaudel4/status/1983022132700557753",
+    "timestamp": "2025-10-28T04:04:53.000Z",
+    "metadata": {
+      "conversation_id": "1983022132700557753",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_272",
+    "source": "github",
+    "author": "alphatheory-ccarneiro",
+    "content": "[Issue] Custom models loading failed with BYOK LiteLLM Key\n\nI configured custom model to use LiteLLM hosted model but I get this message:\n\nCustom models loading failed: All custom models were filtered out due to placeholder API keys. Please replace YOUR_OPENAI_API_KEY or YOUR_API_KEY with valid values in your config.\n\n```\n{\n        \"custom_models\": [\n                {\"model_display_name\":\"litellm-sonnet-4\"},\n                {\"model\":\"bedrock/us.anthropic.claude-sonnet-4-20250514-v1:0\"},\n                {\"base_url\":\"https://litellm.xxx.net\"},\n            ",
+    "url": "https://github.com/Factory-AI/factory/issues/272",
+    "timestamp": "2025-10-28T04:01:23Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 272
+    }
+  },
+  {
+    "id": "twitter_1983021136872079748",
+    "source": "twitter",
+    "author": "WARobins",
+    "content": "@FactoryAI @awscloud Awesome news @FactoryAI @awscloud",
+    "url": "https://x.com/WARobins/status/1983021136872079748",
+    "timestamp": "2025-10-28T04:00:56.000Z",
+    "metadata": {
+      "conversation_id": "1983021136872079748",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983017137779421343",
     "source": "twitter",
     "author": "M2Fauzaan",
@@ -23,7 +126,7 @@
     "timestamp": "2025-10-28T02:55:10.000Z",
     "metadata": {
       "conversation_id": "1983004587914314031",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -53,9 +156,9 @@
     "timestamp": "2025-10-28T02:32:33.000Z",
     "metadata": {
       "conversation_id": "1982998893836283923",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -210,96 +313,6 @@
     }
   },
   {
-    "id": "twitter_1982973750464393713",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "Love it when I can drop a link to failing CI checks, and it will just \"go figure\".\n\nBuilding @FactoryAI with Factory 🔁 https://t.co/MxZv52CVh6",
-    "url": "https://x.com/alvinsng/status/1982973750464393713",
-    "timestamp": "2025-10-28T00:52:38.000Z",
-    "metadata": {
-      "conversation_id": "1982973750464393713",
-      "likes": 17,
-      "retweets": 1,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982972671685210123",
-    "source": "twitter",
-    "author": "zhangjintao9020",
-    "content": "@DannyAziz97 @every @bentossell @FactoryAI I'm curious which model you are using in Droid.",
-    "url": "https://x.com/zhangjintao9020/status/1982972671685210123",
-    "timestamp": "2025-10-28T00:48:21.000Z",
-    "metadata": {
-      "conversation_id": "1982972671685210123",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982968492115509536",
-    "source": "twitter",
-    "author": "Slyndc",
-    "content": "@FactoryAI @awscloud 👏🏽",
-    "url": "https://x.com/Slyndc/status/1982968492115509536",
-    "timestamp": "2025-10-28T00:31:44.000Z",
-    "metadata": {
-      "conversation_id": "1982968492115509536",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982963156063531075",
-    "source": "twitter",
-    "author": "adamarul09",
-    "content": "@FactoryAI @awscloud Wishing you the best. Really enjoy using it",
-    "url": "https://x.com/adamarul09/status/1982963156063531075",
-    "timestamp": "2025-10-28T00:10:32.000Z",
-    "metadata": {
-      "conversation_id": "1982963156063531075",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982958255048671405",
-    "source": "twitter",
-    "author": "DanielMiessler",
-    "content": "@moderat10n @FactoryAI @opencode @AmpCode @simonw Agent Platform",
-    "url": "https://x.com/DanielMiessler/status/1982958255048671405",
-    "timestamp": "2025-10-27T23:51:04.000Z",
-    "metadata": {
-      "conversation_id": "1982958255048671405",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1982949016532103383",
-    "source": "twitter",
-    "author": "BillCrosby",
-    "content": "@FactoryAI @awscloud big moves! combining the power of @FactoryAI and @awscloud will be a game-changer for enterprises.",
-    "url": "https://x.com/BillCrosby/status/1982949016532103383",
-    "timestamp": "2025-10-27T23:14:21.000Z",
-    "metadata": {
-      "conversation_id": "1982949016532103383",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_270",
     "source": "github",
     "author": "diegodev9",
@@ -385,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -674,19 +687,6 @@
       "type": "issue",
       "labels": [],
       "number": 229
-    }
-  },
-  {
-    "id": "github_issue_228",
-    "source": "github",
-    "author": "britannio",
-    "content": "[Issue] Add a reasoning effort to system message in droid exec stream-json mode\n\nHey, I'm adding droid to Vibe Kanban (https://github.com/BloopAI/vibe-kanban/pull/1057) and a minor improvement would be if the resolved reasoning effort were outputted in the system message as is done with the selected model. \nMy understanding is that the valid values to provide to the cli are `none, dynamic, off, low, medium, high`, but presumably some models will ignore it.\n\nThanks.",
-    "url": "https://github.com/Factory-AI/factory/issues/228",
-    "timestamp": "2025-10-21T10:52:42Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 228
     }
   },
   {
