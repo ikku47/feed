@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983632140404453468",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@JuiceSharp @FactoryAI this is awesome thank you! fixes coming ❤️",
+    "url": "https://x.com/bentossell/status/1983632140404453468",
+    "timestamp": "2025-10-29T20:28:51.000Z",
+    "metadata": {
+      "conversation_id": "1983632140404453468",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983630676424585602",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@JuiceSharp @FactoryAI Agreed on slash command position arguments. Some native commands do (e.g. mcp) but working on fixing this!",
+    "url": "https://x.com/EnoReyes/status/1983630676424585602",
+    "timestamp": "2025-10-29T20:23:01.000Z",
+    "metadata": {
+      "conversation_id": "1983630676424585602",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983629493114904794",
+    "source": "twitter",
+    "author": "JuiceSharp",
+    "content": "A few observations from using @FactoryAI for the last month.\n\nI'll start with the downsides:\n\n- Using Sonnet 4.5 in conjunction with spec-driven development is highly expensive (price per token).\n- Slash commands don't work with positional arguments or somehow ignore arguments (vs. CC). This is a bit annoying—I have commands that handle both empty and non-empty arguments, but habits developed in CC are very difficult to fight.\n\nOn the bright side:\n\n- The agent is enormously smart and capable. Same codebase, same tasks, same specs—I do believe droid is 10-15% above Claude Code with a high level of confidence (and I am a daily user and huge fan of CC).\n- I use GLM 4.6  model with droid as an ad-hoc assistant agent or for simple routine tasks.\n- I use Sonnet 4.5 high + droid as the last-mile agent.\n- I use droid to nail the most annoying or complex issues faster along the specs (thanks to the support of subagents and slash commands that can be migrated with almost no changes from Claude Code).\n- The agent is token-efficient (my best assumption: very good search heuristics and scaffolding under the hood).\n\nI found the agent too useful not to pay $20 just to have such a handy tool in daily possession.",
+    "url": "https://x.com/JuiceSharp/status/1983629493114904794",
+    "timestamp": "2025-10-29T20:18:19.000Z",
+    "metadata": {
+      "conversation_id": "1983629493114904794",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 1
+    }
+  },
+  {
     "id": "twitter_1983624251983974419",
     "source": "twitter",
     "author": "danshipper",
@@ -8,8 +53,8 @@
     "timestamp": "2025-10-29T19:57:30.000Z",
     "metadata": {
       "conversation_id": "1983624251983974419",
-      "likes": 1,
-      "retweets": 0,
+      "likes": 14,
+      "retweets": 2,
       "replies": 0,
       "quotes": 0
     }
@@ -23,9 +68,9 @@
     "timestamp": "2025-10-29T19:53:42.000Z",
     "metadata": {
       "conversation_id": "1983623296152404076",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,7 +173,7 @@
     "timestamp": "2025-10-29T17:35:38.000Z",
     "metadata": {
       "conversation_id": "1983588550093537332",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 2,
       "quotes": 1
@@ -275,51 +320,6 @@
     "metadata": {
       "conversation_id": "1983570560303948224",
       "likes": 4,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983570471745413603",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@AVGVSTVS96 @jkudish @FactoryAI No it was superpowers from Claude - https://t.co/koRRz2DMgm",
-    "url": "https://x.com/pascallammers_/status/1983570471745413603",
-    "timestamp": "2025-10-29T16:23:48.000Z",
-    "metadata": {
-      "conversation_id": "1983570471745413603",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983570449201029363",
-    "source": "twitter",
-    "author": "Tekhenra",
-    "content": "@bentossell @FactoryAI Overall quite good, but some important issues:\n- I feel that tokens burn sooo quick. My project is big and I think that context might be under-optimized.\n- Many “400 error empty body” errors when using GPT-5.\n- Could not index my repo using bridge (already tweeted some days ago)",
-    "url": "https://x.com/Tekhenra/status/1983570449201029363",
-    "timestamp": "2025-10-29T16:23:42.000Z",
-    "metadata": {
-      "conversation_id": "1983570449201029363",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983564353853935774",
-    "source": "twitter",
-    "author": "noelhatem",
-    "content": "@pascallammers_ @FactoryAI you have created those or they come by default?",
-    "url": "https://x.com/noelhatem/status/1983564353853935774",
-    "timestamp": "2025-10-29T15:59:29.000Z",
-    "metadata": {
-      "conversation_id": "1983564353853935774",
-      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
