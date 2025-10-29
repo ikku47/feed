@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983483573400404195",
+    "source": "twitter",
+    "author": "exxoooz",
+    "content": "@FactoryAI feature request: Please add desktop notifications for errors.",
+    "url": "https://x.com/exxoooz/status/1983483573400404195",
+    "timestamp": "2025-10-29T10:38:29.000Z",
+    "metadata": {
+      "conversation_id": "1983483573400404195",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983465419806855337",
     "source": "twitter",
     "author": "bentossell",
@@ -53,7 +68,7 @@
     "timestamp": "2025-10-29T09:10:00.000Z",
     "metadata": {
       "conversation_id": "1983461305542693156",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -291,21 +306,6 @@
     "timestamp": "2025-10-29T03:31:23.000Z",
     "metadata": {
       "conversation_id": "1983376090501657067",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983375815078559829",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "@MeTrevorLoucks @FactoryAI Work smarter not harder!",
-    "url": "https://x.com/alvinsng/status/1983375815078559829",
-    "timestamp": "2025-10-29T03:30:18.000Z",
-    "metadata": {
-      "conversation_id": "1983375815078559829",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
