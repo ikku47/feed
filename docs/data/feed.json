@@ -1,5 +1,78 @@
 [
   {
+    "id": "twitter_1983420102281437262",
+    "source": "twitter",
+    "author": "trkaplan",
+    "content": "@amritwt CC but tried Codex after a long time, It performed well. And why not anyone mentioned @FactoryAI Droid?",
+    "url": "https://x.com/trkaplan/status/1983420102281437262",
+    "timestamp": "2025-10-29T06:26:17.000Z",
+    "metadata": {
+      "conversation_id": "1983420102281437262",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_279",
+    "source": "github",
+    "author": "denysvitali",
+    "content": "[Issue] Can't run Droid on Alpine Linux\n\nWhen running Droid on Alpine Linux in x86_64 I get:\n\n```\nError relocating /usr/bin/droid: unsupported relocation type 37\n```\n\nPerplexity (with GPT-5 Thinking) says:\n\n> This fails because the droid binary uses the GNU IFUNC relocation R_X86_64_IRELATIVE (relocation type 37), which Alpine’s musl dynamic loader does not support, so the loader rejects it with “unsupported relocation type 37.” [1][2][3]\n> To run it, either use a glibc-based environment or a build compiled for musl (or rebuild without",
+    "url": "https://github.com/Factory-AI/factory/issues/279",
+    "timestamp": "2025-10-29T06:13:13Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 279
+    }
+  },
+  {
+    "id": "twitter_1983415522114089360",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@ryanalldridge @mikez93 @RayFernando1337 @FactoryAI I was using it with some of my existing projects and also new ones. Imo it works best if you already got a good foundation. But when the AI knows the data model structure of your app it’s a beast",
+    "url": "https://x.com/pascallammers_/status/1983415522114089360",
+    "timestamp": "2025-10-29T06:08:05.000Z",
+    "metadata": {
+      "conversation_id": "1983415522114089360",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983415015152693544",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@mikez93 @RayFernando1337 @FactoryAI Nice this is great 👍",
+    "url": "https://x.com/pascallammers_/status/1983415015152693544",
+    "timestamp": "2025-10-29T06:06:04.000Z",
+    "metadata": {
+      "conversation_id": "1983415015152693544",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983413180648014242",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@launchaddict @FactoryAI yeah shared",
+    "url": "https://x.com/bentossell/status/1983413180648014242",
+    "timestamp": "2025-10-29T05:58:46.000Z",
+    "metadata": {
+      "conversation_id": "1983413180648014242",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983406329416098284",
     "source": "twitter",
     "author": "adityagharawar8",
@@ -23,9 +96,9 @@
     "timestamp": "2025-10-29T05:05:41.000Z",
     "metadata": {
       "conversation_id": "1983399819642388656",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +111,7 @@
     "timestamp": "2025-10-29T04:23:33.000Z",
     "metadata": {
       "conversation_id": "1983389216768978992",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -240,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1983334409647599841",
-    "source": "twitter",
-    "author": "alvinsng",
-    "content": "A lint rule a day keeps the agents from going astray.\n\nAt @FactoryAI, we're continuously generating custom lint rules whenever we think of them. Don't waste time wrangling your agents when you can define the rules ahead of time.\n\nRead more about this on our blog: https://t.co/5rr3lCpgAj",
-    "url": "https://x.com/alvinsng/status/1983334409647599841",
-    "timestamp": "2025-10-29T00:45:46.000Z",
-    "metadata": {
-      "conversation_id": "1983334409647599841",
-      "likes": 42,
-      "retweets": 2,
-      "replies": 3,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983333731025953066",
-    "source": "twitter",
-    "author": "EddieBe",
-    "content": "tmr came early!!!!\n\nthank you @FactoryAI team for sorting me out so quick. insta sub based on customer service response and a great product. welcome to the id8labs tool belt. \n\nwe’re so back https://t.co/gEtVy9kg69",
-    "url": "https://x.com/EddieBe/status/1983333731025953066",
-    "timestamp": "2025-10-29T00:43:04.000Z",
-    "metadata": {
-      "conversation_id": "1983333731025953066",
-      "likes": 12,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983324597136306419",
-    "source": "twitter",
-    "author": "ClaytonFarr",
-    "content": "@ben_rapaport @FactoryAI @AmpCode I've worn a set of clothes for longer than the shelf-life of 'favorite' LLM clis/harnesses - hard to imagine an area to build in where users are less sticky right now. Been impressed by UX and performance of both Factory &amp; Amp - glad to see them both pushing hard on new ideas.",
-    "url": "https://x.com/ClaytonFarr/status/1983324597136306419",
-    "timestamp": "2025-10-29T00:06:47.000Z",
-    "metadata": {
-      "conversation_id": "1983324597136306419",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oipsqf",
     "source": "reddit",
     "author": "StrixGGUY",
@@ -293,23 +321,8 @@
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 6,
+      "num_comments": 7,
       "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1983322800124518875",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "It is so much easier to set MCP servers in @FactoryAI droid\n\nAll you had to do is this:\n\"\"\"\n/mcp add myserver https://api[.]example[.]com/mcp --type http -H \"Authorization: Bearer token123\"\n\"\"\"\n\nAccess everywhere, no issues whatsoever, works flawlessly",
-    "url": "https://x.com/CloudTrader4/status/1983322800124518875",
-    "timestamp": "2025-10-28T23:59:38.000Z",
-    "metadata": {
-      "conversation_id": "1983322800124518875",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -463,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -638,19 +651,6 @@
     }
   },
   {
-    "id": "github_issue_238",
-    "source": "github",
-    "author": "ivoneijr-lumiahealth",
-    "content": "[Issue] impossible to verify phone and log in\n\nI live in Brazil, country code +55. But when I type my number the way I usually do in most phone inputs, it goes to the code page but I never actually receive it…\n\n<img width=\"1248\" height=\"646\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bd39a1ae-37cb-49db-bf45-2397e321cc90\" />\n\n<img width=\"877\" height=\"513\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/643a939c-ca17-4781-8e4c-d1c68ec2d9c4\" />",
-    "url": "https://github.com/Factory-AI/factory/issues/238",
-    "timestamp": "2025-10-22T23:01:51Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 238
-    }
-  },
-  {
     "id": "reddit_1odjcfl",
     "source": "reddit",
     "author": "Hassan_A2H",
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
