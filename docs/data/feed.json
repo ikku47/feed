@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1983501143922651583",
+    "source": "twitter",
+    "author": "rezaul_arif",
+    "content": "@JoelDeTeves @the_ross_man @bentossell @KakeguruiGenki @supabase @FactoryAI @AntWilson Still having issue with manual auth, can you share the full json file?",
+    "url": "https://x.com/rezaul_arif/status/1983501143922651583",
+    "timestamp": "2025-10-29T11:48:19.000Z",
+    "metadata": {
+      "conversation_id": "1983501143922651583",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983500977782067522",
+    "source": "twitter",
+    "author": "Social_Quotient",
+    "content": "If you follow me you know I have hyper specific subagents/ droids. Working with the new next.js 16 I found this helpful to tell the team. @FactoryAI @AnthropicAI \n\nSame 4 layers, new controls:\n✓ Request memoization (auto)\n✓ Data cache (fetch + tags)\n✓ Full route cache (HTML/RSC)\n✓ Router cache (client-side)\n\nBig deal: cacheComponents + 'use cache' = PPR without flags\n\nUpdate your subagents definitions to help with their knowledge context . Attached is what I’m using. Enjoy!",
+    "url": "https://x.com/Social_Quotient/status/1983500977782067522",
+    "timestamp": "2025-10-29T11:47:39.000Z",
+    "metadata": {
+      "conversation_id": "1983500977782067522",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983500340449202345",
     "source": "twitter",
     "author": "metaforismoo",
@@ -113,7 +143,7 @@
     "timestamp": "2025-10-29T10:54:31.000Z",
     "metadata": {
       "conversation_id": "1983487607242949057",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -188,7 +218,7 @@
     "timestamp": "2025-10-29T09:10:00.000Z",
     "metadata": {
       "conversation_id": "1983461305542693156",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -248,7 +278,7 @@
     "timestamp": "2025-10-29T06:42:10.000Z",
     "metadata": {
       "conversation_id": "1983424099629355281",
-      "likes": 19,
+      "likes": 20,
       "retweets": 4,
       "replies": 2,
       "quotes": 0
@@ -280,36 +310,6 @@
       "type": "issue",
       "labels": [],
       "number": 279
-    }
-  },
-  {
-    "id": "twitter_1983415522114089360",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@ryanalldridge @mikez93 @RayFernando1337 @FactoryAI I was using it with some of my existing projects and also new ones. Imo it works best if you already got a good foundation. But when the AI knows the data model structure of your app it’s a beast",
-    "url": "https://x.com/pascallammers_/status/1983415522114089360",
-    "timestamp": "2025-10-29T06:08:05.000Z",
-    "metadata": {
-      "conversation_id": "1983415522114089360",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983415015152693544",
-    "source": "twitter",
-    "author": "pascallammers_",
-    "content": "@mikez93 @RayFernando1337 @FactoryAI Nice this is great 👍",
-    "url": "https://x.com/pascallammers_/status/1983415015152693544",
-    "timestamp": "2025-10-29T06:06:04.000Z",
-    "metadata": {
-      "conversation_id": "1983415015152693544",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
