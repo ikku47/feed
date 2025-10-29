@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983606273263489451",
+    "source": "twitter",
+    "author": "gootecks",
+    "content": "@pascallammers_ @FactoryAI But how do you get them to activate consistently?",
+    "url": "https://x.com/gootecks/status/1983606273263489451",
+    "timestamp": "2025-10-29T18:46:03.000Z",
+    "metadata": {
+      "conversation_id": "1983606273263489451",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983602766053568884",
     "source": "twitter",
     "author": "PatschSchneider",
@@ -68,9 +83,9 @@
     "timestamp": "2025-10-29T17:35:38.000Z",
     "metadata": {
       "conversation_id": "1983588550093537332",
-      "likes": 1,
+      "likes": 3,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 1
     }
   },
@@ -214,7 +229,7 @@
     "timestamp": "2025-10-29T16:24:09.000Z",
     "metadata": {
       "conversation_id": "1983570560303948224",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -307,21 +322,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983559698151620888",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Tekhenra @FactoryAI how was your experience :)",
-    "url": "https://x.com/bentossell/status/1983559698151620888",
-    "timestamp": "2025-10-29T15:40:59.000Z",
-    "metadata": {
-      "conversation_id": "1983559698151620888",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
