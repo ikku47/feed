@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1983986837644628137",
+    "source": "twitter",
+    "author": "tsi_org",
+    "content": "This got a lot of attention! Lets use that attention to teach. Do You guys want a @FactoryAI tutorial of how I use it?",
+    "url": "https://x.com/tsi_org/status/1983986837644628137",
+    "timestamp": "2025-10-30T19:58:17.000Z",
+    "metadata": {
+      "conversation_id": "1983986837644628137",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983982733379694969",
     "source": "twitter",
     "author": "alvinsng",
@@ -188,7 +203,7 @@
     "timestamp": "2025-10-30T18:38:02.000Z",
     "metadata": {
       "conversation_id": "1983966643350118665",
-      "likes": 22,
+      "likes": 25,
       "retweets": 0,
       "replies": 4,
       "quotes": 0
@@ -233,7 +248,7 @@
     "timestamp": "2025-10-30T17:16:51.000Z",
     "metadata": {
       "conversation_id": "1983946210261319863",
-      "likes": 58,
+      "likes": 61,
       "retweets": 11,
       "replies": 2,
       "quotes": 2
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1983938315444236426",
       "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983937157120024861",
-    "source": "twitter",
-    "author": "smithstephen",
-    "content": "@every @FactoryAI @bentossell @danshipper I now use Droid every day - it's just amazing.  About to launch a second product built with it for clients. Amazing job by @FactoryAI and @bentossell.  i'll be on the zoom tomorrow too!",
-    "url": "https://x.com/smithstephen/status/1983937157120024861",
-    "timestamp": "2025-10-30T16:40:52.000Z",
-    "metadata": {
-      "conversation_id": "1983937157120024861",
-      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
