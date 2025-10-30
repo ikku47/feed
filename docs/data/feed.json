@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1983939529690980767",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@alvinjamur @FactoryAI oh damn - dming",
+    "url": "https://x.com/bentossell/status/1983939529690980767",
+    "timestamp": "2025-10-30T16:50:18.000Z",
+    "metadata": {
+      "conversation_id": "1983939529690980767",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983938315444236426",
+    "source": "twitter",
+    "author": "alvinjamur",
+    "content": "@bentossell @FactoryAI have done that. no replies after 4-6 days. am a big fan/user of droid. also evangelist.",
+    "url": "https://x.com/alvinjamur/status/1983938315444236426",
+    "timestamp": "2025-10-30T16:45:28.000Z",
+    "metadata": {
+      "conversation_id": "1983938315444236426",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1983937157120024861",
+    "source": "twitter",
+    "author": "smithstephen",
+    "content": "@every @FactoryAI @bentossell @danshipper I now use Droid every day - it's just amazing.  About to launch a second product built with it for clients. Amazing job by @FactoryAI and @bentossell.  i'll be on the zoom tomorrow too!",
+    "url": "https://x.com/smithstephen/status/1983937157120024861",
+    "timestamp": "2025-10-30T16:40:52.000Z",
+    "metadata": {
+      "conversation_id": "1983937157120024861",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1983930690451206299",
     "source": "twitter",
     "author": "bentossell",
@@ -40,7 +85,7 @@
       "conversation_id": "1983929349020459429",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1983867734195933431",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@YourDesigncoza @FactoryAI ok i hear you. discussing internally plans :)",
-    "url": "https://x.com/bentossell/status/1983867734195933431",
-    "timestamp": "2025-10-30T12:05:00.000Z",
-    "metadata": {
-      "conversation_id": "1983867734195933431",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983866721883529564",
-    "source": "twitter",
-    "author": "YourDesigncoza",
-    "content": "@bentossell @FactoryAI @bentossell as for on-demand, it's simply not cost effective :::",
-    "url": "https://x.com/YourDesigncoza/status/1983866721883529564",
-    "timestamp": "2025-10-30T12:00:59.000Z",
-    "metadata": {
-      "conversation_id": "1983866721883529564",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983866578031800678",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@ayantolo_ @FactoryAI it has happened a couple times, investigating whether bug or model behaviour. if it happens again can you run /bug and email me the report pls ben @ factory . ai",
-    "url": "https://x.com/bentossell/status/1983866578031800678",
-    "timestamp": "2025-10-30T12:00:25.000Z",
-    "metadata": {
-      "conversation_id": "1983866578031800678",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,8 +359,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
-      "num_comments": 21,
+      "score": 6,
+      "num_comments": 22,
       "subreddit": "FactoryAi"
     }
   },
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 10,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -713,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
+    }
+  },
+  {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
