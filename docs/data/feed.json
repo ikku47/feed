@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1984046662495711302",
+    "source": "twitter",
+    "author": "jackhcable",
+    "content": "We’re thrilled to integrate with @FactoryAI! Read more on the integration:",
+    "url": "https://x.com/jackhcable/status/1984046662495711302",
+    "timestamp": "2025-10-30T23:56:00.000Z",
+    "metadata": {
+      "conversation_id": "1984046662495711302",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984046628563775966",
+    "source": "twitter",
+    "author": "metaforismoo",
+    "content": "@zeeg I just saw a video where @FactoryAI write code with factory, or at least that's what it looked like",
+    "url": "https://x.com/metaforismoo/status/1984046628563775966",
+    "timestamp": "2025-10-30T23:55:52.000Z",
+    "metadata": {
+      "conversation_id": "1984046628563775966",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984045937438908679",
+    "source": "twitter",
+    "author": "metaforismoo",
+    "content": "@alvinsng @FactoryAI Wow, more content like this, please!",
+    "url": "https://x.com/metaforismoo/status/1984045937438908679",
+    "timestamp": "2025-10-30T23:53:07.000Z",
+    "metadata": {
+      "conversation_id": "1984045937438908679",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984045150234976400",
+    "source": "twitter",
+    "author": "Aizkmusic",
+    "content": "@explosivesox @FactoryAI @BlinkOnChain @aidan_mclau",
+    "url": "https://x.com/Aizkmusic/status/1984045150234976400",
+    "timestamp": "2025-10-30T23:50:00.000Z",
+    "metadata": {
+      "conversation_id": "1984045150234976400",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984042815081665003",
     "source": "twitter",
     "author": "Stygianwind",
@@ -128,7 +188,7 @@
     "timestamp": "2025-10-30T23:06:30.000Z",
     "metadata": {
       "conversation_id": "1984034205752492104",
-      "likes": 9,
+      "likes": 10,
       "retweets": 1,
       "replies": 3,
       "quotes": 2
@@ -158,7 +218,7 @@
     "timestamp": "2025-10-30T21:56:01.000Z",
     "metadata": {
       "conversation_id": "1984016464697810989",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -236,66 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984001366591975637",
-    "source": "twitter",
-    "author": "JuiceSharp",
-    "content": "If you are a power user (really need CC Max $200 limits), the droid can be just a nice addendum and cannot replace CC  (my case last month, I burned 1.8B tokens). In case you don't need the Max Plan (means moderate usage), Factory will be the tool of choice (a bit smarter, allows other models like GPT-5, another affordable plan like https://t.co/xPptktjUmq for GLM 4.6).",
-    "url": "https://x.com/JuiceSharp/status/1984001366591975637",
-    "timestamp": "2025-10-30T20:56:01.000Z",
-    "metadata": {
-      "conversation_id": "1984001366591975637",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984000347325788376",
-    "source": "twitter",
-    "author": "every",
-    "content": "@DannyAziz97 @FactoryAI Ready to try Droid yourself?\n\nJoin @bentossell and the @every team for a live hands-on camp tomorrow: https://t.co/V5bAR6PDTv",
-    "url": "https://x.com/every/status/1984000347325788376",
-    "timestamp": "2025-10-30T20:51:58.000Z",
-    "metadata": {
-      "conversation_id": "1984000347325788376",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984000272365146468",
-    "source": "twitter",
-    "author": "every",
-    "content": "@DannyAziz97 @FactoryAI Ready to try Droid yourself?\n\nJoin @bentossell and the @every team for a live hands-on camp tomorrow: https://t.co/V5bAR6PDTv",
-    "url": "https://x.com/every/status/1984000272365146468",
-    "timestamp": "2025-10-30T20:51:40.000Z",
-    "metadata": {
-      "conversation_id": "1984000272365146468",
-      "likes": 4,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1983998379614187776",
-    "source": "twitter",
-    "author": "ankurkumarz",
-    "content": "@JuiceSharp @FactoryAI Difficult to choose - seems so similar to Claude Code 🤔",
-    "url": "https://x.com/ankurkumarz/status/1983998379614187776",
-    "timestamp": "2025-10-30T20:44:09.000Z",
-    "metadata": {
-      "conversation_id": "1983998379614187776",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
