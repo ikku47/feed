@@ -8,7 +8,7 @@
     "timestamp": "2025-10-31T21:50:34.000Z",
     "metadata": {
       "conversation_id": "1984377482515247582",
-      "likes": 2,
+      "likes": 5,
       "retweets": 1,
       "replies": 0,
       "quotes": 0
@@ -128,7 +128,7 @@
     "timestamp": "2025-10-31T20:38:53.000Z",
     "metadata": {
       "conversation_id": "1984359444176830951",
-      "likes": 15,
+      "likes": 21,
       "retweets": 1,
       "replies": 0,
       "quotes": 1
@@ -173,7 +173,7 @@
     "timestamp": "2025-10-31T20:12:39.000Z",
     "metadata": {
       "conversation_id": "1984352841193148905",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 3,
       "quotes": 0
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
