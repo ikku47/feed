@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984132650072993807",
+    "source": "twitter",
+    "author": "Ripann_",
+    "content": "@DannyAziz97 @FactoryAI @every Besides coding claude max is super for learning and prototyping ideas using artifacts in tge Claude app. Claude Max 5 is sufficient for the mix.\nI start with deep research on topics  and then asking it to visually explain me in artifacts.",
+    "url": "https://x.com/Ripann_/status/1984132650072993807",
+    "timestamp": "2025-10-31T05:37:41.000Z",
+    "metadata": {
+      "conversation_id": "1984132650072993807",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984127625036755249",
     "source": "twitter",
     "author": "LzyIndTky",
@@ -98,7 +113,7 @@
     "timestamp": "2025-10-31T03:48:49.000Z",
     "metadata": {
       "conversation_id": "1984105252812103688",
-      "likes": 7,
+      "likes": 9,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -143,7 +158,7 @@
     "timestamp": "2025-10-31T03:22:08.000Z",
     "metadata": {
       "conversation_id": "1984098538201215484",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984071380405801379",
-    "source": "twitter",
-    "author": "iamcienlim",
-    "content": "my current AI coding tools\n\n1. @cursor_ai (the 2.0 version combo with composer model is 🔥)\n2. @FactoryAI (droid CLI feels so bullish and getting better with updates)\n3. @windsurf (gonna try it with their recent SWE-1.5 model update)\n\ndrop @warpdotdev bcs still no gpt5-codex 😩",
-    "url": "https://x.com/iamcienlim/status/1984071380405801379",
-    "timestamp": "2025-10-31T01:34:14.000Z",
-    "metadata": {
-      "conversation_id": "1984071380405801379",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -739,6 +739,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
     }
   },
   {
