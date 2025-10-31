@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984117654370840956",
+    "source": "twitter",
+    "author": "morganlinton",
+    "content": "@DannyAziz97 @FactoryAI @every 👀",
+    "url": "https://x.com/morganlinton/status/1984117654370840956",
+    "timestamp": "2025-10-31T04:38:06.000Z",
+    "metadata": {
+      "conversation_id": "1984117654370840956",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984116847776768347",
+    "source": "twitter",
+    "author": "yusufg",
+    "content": "Team @FactoryAI @bentossell ,  feature request\n\n/changelog built-in command to display the changelog of Droid CLI",
+    "url": "https://x.com/yusufg/status/1984116847776768347",
+    "timestamp": "2025-10-31T04:34:54.000Z",
+    "metadata": {
+      "conversation_id": "1984116847776768347",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984110865571074346",
     "source": "twitter",
     "author": "alvinsng",
@@ -53,7 +83,7 @@
     "timestamp": "2025-10-31T03:48:49.000Z",
     "metadata": {
       "conversation_id": "1984105252812103688",
-      "likes": 3,
+      "likes": 5,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984065174257725862",
-    "source": "twitter",
-    "author": "NathanLands",
-    "content": "People are starting to catch on that @FactoryAI Droids are insanely good.\n\nThe models from different labs keep being good at different things. I don’t think that trend will stop. \n\nBy combining models in a smart way, Factory will always be better than a tool from a single lab.",
-    "url": "https://x.com/NathanLands/status/1984065174257725862",
-    "timestamp": "2025-10-31T01:09:34.000Z",
-    "metadata": {
-      "conversation_id": "1984065174257725862",
-      "likes": 13,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984055454000148968",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@SvenMeyer @FactoryAI Not totally new just easier implementation.\n\nAlso /mcp command lets you select from UI inside droid session.",
-    "url": "https://x.com/CloudTrader4/status/1984055454000148968",
-    "timestamp": "2025-10-31T00:30:56.000Z",
-    "metadata": {
-      "conversation_id": "1984055454000148968",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_282",
     "source": "github",
     "author": "DkRsrl",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 22,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -713,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 225
-    }
-  },
-  {
-    "id": "reddit_1oc3yt9",
-    "source": "reddit",
-    "author": "Big-Recognition7298",
-    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
-    "timestamp": "2025-10-21T04:52:45.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
     }
   },
   {
