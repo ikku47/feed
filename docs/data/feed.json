@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984311448194203792",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@bentossell @FactoryAI I'm unfortunately far too unemployed to be subscribing to everything 😅",
+    "url": "https://x.com/fire/status/1984311448194203792",
+    "timestamp": "2025-10-31T17:28:10.000Z",
+    "metadata": {
+      "conversation_id": "1984311448194203792",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984310393976598964",
+    "source": "twitter",
+    "author": "DannyAziz97",
+    "content": "@raw_works @danshipper @FactoryAI @every LOL",
+    "url": "https://x.com/DannyAziz97/status/1984310393976598964",
+    "timestamp": "2025-10-31T17:23:59.000Z",
+    "metadata": {
+      "conversation_id": "1984310393976598964",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984309448848867356",
+    "source": "twitter",
+    "author": "martia_es",
+    "content": "Research and plan only is my favorite feature in Droid @FactoryAI https://t.co/VbrTFWWfqC",
+    "url": "https://x.com/martia_es/status/1984309448848867356",
+    "timestamp": "2025-10-31T17:20:13.000Z",
+    "metadata": {
+      "conversation_id": "1984309448848867356",
+      "likes": 6,
+      "retweets": 2,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984306957633585355",
     "source": "twitter",
     "author": "bentossell",
@@ -68,7 +113,7 @@
     "timestamp": "2025-10-31T16:30:58.000Z",
     "metadata": {
       "conversation_id": "1984297054802174151",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -128,7 +173,7 @@
     "timestamp": "2025-10-31T16:13:30.000Z",
     "metadata": {
       "conversation_id": "1984292658894745804",
-      "likes": 2,
+      "likes": 4,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -158,10 +203,10 @@
     "timestamp": "2025-10-31T16:04:15.000Z",
     "metadata": {
       "conversation_id": "1984290327243743303",
-      "likes": 4,
+      "likes": 6,
       "retweets": 1,
-      "replies": 0,
-      "quotes": 0
+      "replies": 1,
+      "quotes": 2
     }
   },
   {
@@ -203,9 +248,9 @@
     "timestamp": "2025-10-31T15:53:53.000Z",
     "metadata": {
       "conversation_id": "1984287719196074356",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -251,64 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1984270298137649537",
-    "source": "twitter",
-    "author": "ngmarley",
-    "content": "@AnthropicAI BTW, in case anyone's looking for an alternative @FactoryAI has a great TUI, very similar to Claude Code, but you can swap out the models.\n\nIt does tend to add scope/feature creep a bit if you don't control it but generally better than Anthropic's prompts.",
-    "url": "https://x.com/ngmarley/status/1984270298137649537",
-    "timestamp": "2025-10-31T14:44:39.000Z",
-    "metadata": {
-      "conversation_id": "1984270298137649537",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984268178068041833",
-    "source": "twitter",
-    "author": "pedroapfilho",
-    "content": "@bentossell @FactoryAI Thanks!",
-    "url": "https://x.com/pedroapfilho/status/1984268178068041833",
-    "timestamp": "2025-10-31T14:36:14.000Z",
-    "metadata": {
-      "conversation_id": "1984268178068041833",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984267327559684112",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@pedroapfilho @FactoryAI oh no! support@factory.ai",
-    "url": "https://x.com/bentossell/status/1984267327559684112",
-    "timestamp": "2025-10-31T14:32:51.000Z",
-    "metadata": {
-      "conversation_id": "1984267327559684112",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -388,19 +375,6 @@
       "type": "issue",
       "labels": [],
       "number": 279
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 8,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -547,19 +521,6 @@
     }
   },
   {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 9,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1ofh9so",
     "source": "reddit",
     "author": "abecc2",
@@ -671,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -697,8 +658,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -716,6 +690,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +713,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
