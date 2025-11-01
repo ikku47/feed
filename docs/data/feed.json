@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984672506494456211",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "Still waiting for the appeal of my unjust banning on @claudeai. @cursor_ai, @AmpCode, and @FactoryAI all working flawlessly.\n\nWe need Composer 1 speed in @AmpCode and @FactoryAI droid CLI.",
+    "url": "https://x.com/erd0xbc/status/1984672506494456211",
+    "timestamp": "2025-11-01T17:22:53.000Z",
+    "metadata": {
+      "conversation_id": "1984672506494456211",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984670934532305280",
+    "source": "twitter",
+    "author": "ain3sh",
+    "content": "Idk how I missed this but @FactoryAI lets you directly run scripts as custom slash commands, not just md instructions (https://t.co/aMT8pfAVWz).\nIntegrating @iannuttall’s plugin manager and the v2 of openskills I’m working on based off of @HanchungLee’s blogpost in the CLI rn 🥹",
+    "url": "https://x.com/ain3sh/status/1984670934532305280",
+    "timestamp": "2025-11-01T17:16:38.000Z",
+    "metadata": {
+      "conversation_id": "1984670934532305280",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984670596702105991",
+    "source": "twitter",
+    "author": "youflavio",
+    "content": "@hexawulf @FactoryAI What I see is that @FactoryAI will deduct the tokens they initially gave you for free from your initial payment. \nTricks. I don't like them.\nGoing back to Claude Code.",
+    "url": "https://x.com/youflavio/status/1984670596702105991",
+    "timestamp": "2025-11-01T17:15:18.000Z",
+    "metadata": {
+      "conversation_id": "1984670596702105991",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984661621374140424",
     "source": "twitter",
     "author": "visy_ani",
@@ -281,51 +326,6 @@
     }
   },
   {
-    "id": "twitter_1984629311446319528",
-    "source": "twitter",
-    "author": "sir4K_zen",
-    "content": "@nkgoutham @claudeai @FactoryAI Sounds like Droid really is a game changer. Nice to hear you’re getting so much done on the free trial! What’s the next big project?",
-    "url": "https://x.com/sir4K_zen/status/1984629311446319528",
-    "timestamp": "2025-11-01T14:31:15.000Z",
-    "metadata": {
-      "conversation_id": "1984629311446319528",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984628700214931763",
-    "source": "twitter",
-    "author": "RayFernando1337",
-    "content": "@hexawulf @FactoryAI Sweet!",
-    "url": "https://x.com/RayFernando1337/status/1984628700214931763",
-    "timestamp": "2025-11-01T14:28:49.000Z",
-    "metadata": {
-      "conversation_id": "1984628700214931763",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984627462051959024",
-    "source": "twitter",
-    "author": "BTConnector_",
-    "content": "@bentossell @immoinulmoin @FactoryAI Could you please direct me to the command to access this mcp registry in the docs?",
-    "url": "https://x.com/BTConnector_/status/1984627462051959024",
-    "timestamp": "2025-11-01T14:23:54.000Z",
-    "metadata": {
-      "conversation_id": "1984627462051959024",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oljgx4",
     "source": "reddit",
     "author": "steve1215",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
