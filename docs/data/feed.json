@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984498575116767380",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@CloudTrader4 @FactoryAI Cloud, this is a neat update, but I wonder if the security aspect is as simple as the implementation, you know?",
+    "url": "https://x.com/codewithimanshu/status/1984498575116767380",
+    "timestamp": "2025-11-01T05:51:45.000Z",
+    "metadata": {
+      "conversation_id": "1984498575116767380",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984493369150914719",
     "source": "twitter",
     "author": "nkgoutham",
@@ -173,7 +188,7 @@
     "timestamp": "2025-11-01T01:40:21.000Z",
     "metadata": {
       "conversation_id": "1984435309896220924",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -278,21 +293,6 @@
     "timestamp": "2025-11-01T00:46:07.000Z",
     "metadata": {
       "conversation_id": "1984421659349328367",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984421322626384207",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@nest_elf @FactoryAI That's fantastic, nest! Automation is truly the future, isn't it? Good job, I say!",
-    "url": "https://x.com/codewithimanshu/status/1984421322626384207",
-    "timestamp": "2025-11-01T00:44:46.000Z",
-    "metadata": {
-      "conversation_id": "1984421322626384207",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 3,
       "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocpe9w",
-    "source": "reddit",
-    "author": "FocusResponsible4499",
-    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
-    "timestamp": "2025-10-21T21:19:05.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
