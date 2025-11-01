@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984526246781600103",
+    "source": "twitter",
+    "author": "hexawulf",
+    "content": "@SvenMeyer @0xDerekLao @FactoryAI Thanks! In Claude Code, I'm using an API key from the Claude Developer Platform console. In droid, just the tokens provided with the sub by factory ai at 1.2X.",
+    "url": "https://x.com/hexawulf/status/1984526246781600103",
+    "timestamp": "2025-11-01T07:41:42.000Z",
+    "metadata": {
+      "conversation_id": "1984526246781600103",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984524653998850231",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -8,9 +23,9 @@
     "timestamp": "2025-11-01T07:35:22.000Z",
     "metadata": {
       "conversation_id": "1984524653998850231",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984492520056009055",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@CryptoSolana_OG @claudeai @FactoryAI Haha yeah - I was doing a speedrun, giving large prompts and multiple steps. \n\nI usually switch between Claude, https://t.co/0yTsrOitX4 and Cursor but this time I’ve been building using only Droid. Including brainstorming, bug fixes, copywriting and coding",
-    "url": "https://x.com/nkgoutham/status/1984492520056009055",
-    "timestamp": "2025-11-01T05:27:41.000Z",
-    "metadata": {
-      "conversation_id": "1984492520056009055",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1okwodb",
     "source": "reddit",
     "author": "Uzeii",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -671,7 +671,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
     "timestamp": "2025-10-22T01:34:31.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
