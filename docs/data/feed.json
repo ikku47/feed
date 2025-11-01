@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984640126727725059",
+    "source": "twitter",
+    "author": "AbdMuizAdeyemo",
+    "content": "@hexawulf @FactoryAI Droid is great",
+    "url": "https://x.com/AbdMuizAdeyemo/status/1984640126727725059",
+    "timestamp": "2025-11-01T15:14:13.000Z",
+    "metadata": {
+      "conversation_id": "1984640126727725059",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984639655648579903",
+    "source": "twitter",
+    "author": "fernandooghh",
+    "content": "@uratmangun2 @FactoryAI @ollama here:\nhttps://t.co/2afI8FSdrl",
+    "url": "https://x.com/fernandooghh/status/1984639655648579903",
+    "timestamp": "2025-11-01T15:12:21.000Z",
+    "metadata": {
+      "conversation_id": "1984639655648579903",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984638963768872961",
+    "source": "twitter",
+    "author": "fernandooghh",
+    "content": "@CodeWithOllie @FactoryAI @ollama GLM-4.6 level",
+    "url": "https://x.com/fernandooghh/status/1984638963768872961",
+    "timestamp": "2025-11-01T15:09:36.000Z",
+    "metadata": {
+      "conversation_id": "1984638963768872961",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984632276844708215",
     "source": "twitter",
     "author": "farizkamini",
@@ -8,7 +53,7 @@
     "timestamp": "2025-11-01T14:43:02.000Z",
     "metadata": {
       "conversation_id": "1984632276844708215",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -158,7 +203,7 @@
     "timestamp": "2025-11-01T13:52:03.000Z",
     "metadata": {
       "conversation_id": "1984619447441842400",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -188,7 +233,7 @@
     "timestamp": "2025-11-01T13:26:20.000Z",
     "metadata": {
       "conversation_id": "1984612976226419007",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -248,51 +293,6 @@
     "timestamp": "2025-11-01T13:08:56.000Z",
     "metadata": {
       "conversation_id": "1984608599071490143",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984607595168960518",
-    "source": "twitter",
-    "author": "alvinjamur",
-    "content": "Before I called it a night early this morning, I generated good specs for a feature on a branch &amp; let Droid loose. This AM I get all unit tests, end to end tests, logs &amp; doo dads!). @FactoryAI’s Droid is unparalleled. \n🙌🏽 \n@EnoReyes @bentossell \n\nhttps://t.co/K9CQ5bBtbn",
-    "url": "https://x.com/alvinjamur/status/1984607595168960518",
-    "timestamp": "2025-11-01T13:04:57.000Z",
-    "metadata": {
-      "conversation_id": "1984607595168960518",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984605202230427734",
-    "source": "twitter",
-    "author": "w2ppx",
-    "content": "@nkgoutham @claudeai @FactoryAI the difference is that on factory you get a limited amount of tokens every month, and you can run out of all tokens in one day and be stuck paying for your usage the rest of the month, while with claude you have to wait 5 hours/week and you are able to code again",
-    "url": "https://x.com/w2ppx/status/1984605202230427734",
-    "timestamp": "2025-11-01T12:55:27.000Z",
-    "metadata": {
-      "conversation_id": "1984605202230427734",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984603420326543395",
-    "source": "twitter",
-    "author": "CodeWithOllie",
-    "content": "@fernandooghh @FactoryAI @ollama How good is good?\n\nSonnet level?",
-    "url": "https://x.com/CodeWithOllie/status/1984603420326543395",
-    "timestamp": "2025-11-01T12:48:22.000Z",
-    "metadata": {
-      "conversation_id": "1984603420326543395",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 4,
+      "score": 3,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
