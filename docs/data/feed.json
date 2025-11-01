@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984768718866690377",
+    "source": "twitter",
+    "author": "JoshuaIPark",
+    "content": "@SaidAitmbarek @FactoryAI I didn't know that thanks!!\nHow is it different with other agents?",
+    "url": "https://x.com/JoshuaIPark/status/1984768718866690377",
+    "timestamp": "2025-11-01T23:45:12.000Z",
+    "metadata": {
+      "conversation_id": "1984768718866690377",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984768666936721802",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@Ryanskickz @FactoryAI tell me you never shipped agent code in prod without telling me",
+    "url": "https://x.com/nest_elf/status/1984768666936721802",
+    "timestamp": "2025-11-01T23:45:00.000Z",
+    "metadata": {
+      "conversation_id": "1984768666936721802",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984764299689017682",
     "source": "twitter",
     "author": "tridentasia",
@@ -173,9 +203,9 @@
     "timestamp": "2025-11-01T21:43:57.000Z",
     "metadata": {
       "conversation_id": "1984738204264644697",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -263,36 +293,6 @@
     "timestamp": "2025-11-01T20:18:12.000Z",
     "metadata": {
       "conversation_id": "1984716623853617658",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984716206381887674",
-    "source": "twitter",
-    "author": "HankYeomans",
-    "content": "@hexawulf @FactoryAI After 317 commits and 35 PRs on one project with Claude Code, the difference is infinitesimal. I’ve seen no reason to keep using a wrapper and just go right into the source. The only difference maker to me has been Amp but that’s because of their feature adds especially lately.",
-    "url": "https://x.com/HankYeomans/status/1984716206381887674",
-    "timestamp": "2025-11-01T20:16:32.000Z",
-    "metadata": {
-      "conversation_id": "1984716206381887674",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984714088719458589",
-    "source": "twitter",
-    "author": "dawid_jordaan",
-    "content": "@codewithimanshu @FactoryAI Speed plays a big role. If it takes too long to complete you lose context of the task - would be fine if the result is perfect every time, but we are not there yet typically requires review, and tweaking.",
-    "url": "https://x.com/dawid_jordaan/status/1984714088719458589",
-    "timestamp": "2025-11-01T20:08:07.000Z",
-    "metadata": {
-      "conversation_id": "1984714088719458589",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -659,7 +659,7 @@
     "timestamp": "2025-10-23T22:10:56.000Z",
     "metadata": {
       "score": 0,
-      "num_comments": 17,
+      "num_comments": 18,
       "subreddit": "FactoryAi"
     }
   },
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 3,
+      "score": 5,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 1,
       "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 15,
       "subreddit": "FactoryAi"
     }
   },
