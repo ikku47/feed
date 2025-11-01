@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984756666944893085",
+    "source": "twitter",
+    "author": "constantin_e21",
+    "content": "@immoinulmoin @FactoryAI these guys keep delivering! @matanSF and team are on 🔥",
+    "url": "https://x.com/constantin_e21/status/1984756666944893085",
+    "timestamp": "2025-11-01T22:57:19.000Z",
+    "metadata": {
+      "conversation_id": "1984756666944893085",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984755984204509391",
+    "source": "twitter",
+    "author": "amir_baron",
+    "content": "@hexawulf @FactoryAI Just you",
+    "url": "https://x.com/amir_baron/status/1984755984204509391",
+    "timestamp": "2025-11-01T22:54:36.000Z",
+    "metadata": {
+      "conversation_id": "1984755984204509391",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984748231633289515",
     "source": "twitter",
     "author": "bem_ade",
@@ -266,36 +296,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984701532877549980",
-    "source": "twitter",
-    "author": "hughesanalytics",
-    "content": "@tridentasia @fire @FactoryAI The business models for these tools are similar. They are largely marketing.",
-    "url": "https://x.com/hughesanalytics/status/1984701532877549980",
-    "timestamp": "2025-11-01T19:18:14.000Z",
-    "metadata": {
-      "conversation_id": "1984701532877549980",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984701164936409193",
-    "source": "twitter",
-    "author": "0xelizaaa",
-    "content": "@hexawulf @FactoryAI Droid 2.2.8 doing cleaner work than my Sunday laundry, respect.",
-    "url": "https://x.com/0xelizaaa/status/1984701164936409193",
-    "timestamp": "2025-11-01T19:16:46.000Z",
-    "metadata": {
-      "conversation_id": "1984701164936409193",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 9,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
