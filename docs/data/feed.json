@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1984921383546348013",
+    "source": "twitter",
+    "author": "kn_neeraj1",
+    "content": "Brewing something cool for my Paper Library app using @FactoryAI Droids! https://t.co/8VxtpliD76",
+    "url": "https://x.com/kn_neeraj1/status/1984921383546348013",
+    "timestamp": "2025-11-02T09:51:50.000Z",
+    "metadata": {
+      "conversation_id": "1984921383546348013",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984919442460176467",
     "source": "twitter",
     "author": "thinkbuildnext",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984860256032473463",
-    "source": "twitter",
-    "author": "JennyChops88",
-    "content": "@farizkamini @FactoryAI Please stop woke shit in software!",
-    "url": "https://x.com/JennyChops88/status/1984860256032473463",
-    "timestamp": "2025-11-02T05:48:56.000Z",
-    "metadata": {
-      "conversation_id": "1984860256032473463",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_300",
     "source": "github",
     "author": "dpalfery",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 0,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
     "timestamp": "2025-10-22T20:20:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
