@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1984997205682307158",
+    "source": "twitter",
+    "author": "fernandooghh",
+    "content": "@FactoryAI you guys have plans to add MinMax-M2?",
+    "url": "https://x.com/fernandooghh/status/1984997205682307158",
+    "timestamp": "2025-11-02T14:53:07.000Z",
+    "metadata": {
+      "conversation_id": "1984997205682307158",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984996945736405091",
+    "source": "twitter",
+    "author": "accesstothepath",
+    "content": "@explorersofai @pixio_ai @myaitutor @midjourney @FactoryAI @the_machine_ai @ComfyUI Oooh, will subscribe. Thank you for letting me know.",
+    "url": "https://x.com/accesstothepath/status/1984996945736405091",
+    "timestamp": "2025-11-02T14:52:05.000Z",
+    "metadata": {
+      "conversation_id": "1984996945736405091",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984996437537505721",
+    "source": "twitter",
+    "author": "shahaayush1999",
+    "content": "@dvcrn @FactoryAI How did you make your droid use your Claude Max plan? Can you help with the steps?",
+    "url": "https://x.com/shahaayush1999/status/1984996437537505721",
+    "timestamp": "2025-11-02T14:50:04.000Z",
+    "metadata": {
+      "conversation_id": "1984996437537505721",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984995170564071886",
     "source": "twitter",
     "author": "harveyfullstack",
@@ -255,51 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984972541946126713",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@noelhatem @FactoryAI yup :)\n10M free tokens! you can switch models too",
-    "url": "https://x.com/nkgoutham/status/1984972541946126713",
-    "timestamp": "2025-11-02T13:15:07.000Z",
-    "metadata": {
-      "conversation_id": "1984972541946126713",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984972387851370655",
-    "source": "twitter",
-    "author": "jonhillymakes",
-    "content": "Functionality. I'd decided to give it a try after seeing one of your posts about it's performance, actually. It made several improvement recommendations initially, so we made a plan and I asked it to implement. Almost 3/4's of my trial limit was used allowing it to \"fix\" what it broke, until I turned it off and went back to my ol' faithful.",
-    "url": "https://x.com/jonhillymakes/status/1984972387851370655",
-    "timestamp": "2025-11-02T13:14:30.000Z",
-    "metadata": {
-      "conversation_id": "1984972387851370655",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984971459244994654",
-    "source": "twitter",
-    "author": "noelhatem",
-    "content": "@nkgoutham @FactoryAI you got 10M free trial tokens? wow I wasn't aware of this generous free plan.",
-    "url": "https://x.com/noelhatem/status/1984971459244994654",
-    "timestamp": "2025-11-02T13:10:49.000Z",
-    "metadata": {
-      "conversation_id": "1984971459244994654",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -638,45 +638,6 @@
     }
   },
   {
-    "id": "reddit_1ofh3rn",
-    "source": "reddit",
-    "author": "zhangjun3371",
-    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
-    "timestamp": "2025-10-25T03:12:45.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1of1zjv",
-    "source": "reddit",
-    "author": "hrdn",
-    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
-    "timestamp": "2025-10-24T16:13:54.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oegs4w",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
-    "timestamp": "2025-10-23T22:10:56.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 18,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -690,15 +651,15 @@
     }
   },
   {
-    "id": "reddit_1odjcfl",
+    "id": "reddit_1ocpe9w",
     "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
     "metadata": {
-      "score": 4,
-      "num_comments": 9,
+      "score": 3,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -716,6 +677,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -726,6 +700,58 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obv6pd",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "How to configure MCP? I tried  and didn't work. Also.. .factory/ dir is not anywhere to be found\n\nJust wondering.. I would like to try to configure a few MCP servers. Context7, and Playwright. Maybe a couple others. \n\nI see from the docs there should be a .factory/ directory and in there mcp.json or something. But.. did I miss a step when I installed the droid cli that initiates a directory or something?\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obv6pd/how_to_configure_mcp_i_tried_and_didnt_work_also/",
+    "timestamp": "2025-10-20T21:59:41.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 12,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob2dsx",
+    "source": "reddit",
+    "author": "Conscious-Fee7844",
+    "content": "I get this  A LOT: Error: undefined is not an object (evaluating 'A.match')\n\nDoes anyone else see this? u/bentossell do you know what this is? What it means? I get this many times a day, trying to do short or long tasks. Just randomly in the middle of a process this returns and no results. What sucks is I see my usage to up.. e.g. whatever task it was doing.. eats away at my tokens/credits.. and then I get no response at all. I have to submit again and/or sometimes exit, restart and add a bunch of context. So I end up wasting a ton of context tokens.\n\nThis is with the de",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob2dsx/i_get_this_a_lot_error_undefined_is_not_an_object/",
+    "timestamp": "2025-10-19T21:56:23.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ob0d6z",
+    "source": "reddit",
+    "author": "Daed0802",
+    "content": "Referral Credit Balance can't be used\n\ni have pay one time for 20$ because i think i need to pay the first time to use my credit balance from referral but now it asking me 100$ for the invoice while i still got 520$ from my referral . I mean why you guy giving referral credit and now i can't used anything ?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ob0d6z/referral_credit_balance_cant_be_used/",
+    "timestamp": "2025-10-19T20:35:03.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
     }
   },
   {
