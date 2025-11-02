@@ -1,5 +1,78 @@
 [
   {
+    "id": "twitter_1985110038239993982",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@AndersEastgrove @SkylerMiao7 @FactoryAI @MiniMax__AI @OpenRouterAI last very recent post from @MiniMax__AI team was that performance is heavily degraded as @OpenRouterAI removes &lt;think&gt; block \"for compatibility reasons\"",
+    "url": "https://x.com/SvenMeyer/status/1985110038239993982",
+    "timestamp": "2025-11-02T22:21:29.000Z",
+    "metadata": {
+      "conversation_id": "1985110038239993982",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_302",
+    "source": "github",
+    "author": "Evan-Kim2028",
+    "content": "[Issue] Task subagent lookup requires underscores but UI/lists show hyphens (inconsistent; not found)\n\nTitle: Task subagent lookup requires underscores but UI/lists show hyphens (inconsistent; “Droid configuration not found”)\n\nEnvironment\n- Factory CLI: v0.22.9 (darwin arm64)\n- macOS: 14.6 (24.6.0)\n- Model: gpt-5-2025-08-07, reasoningEffort: medium\n- settings.json: enableCustomDroids: true; custom droids in ~/.factory/droids with valid frontmatter (model: inherit; tools: LS/Read/Grep/Glob)\n\nBug\n- Calling Task with the droid “name” that uses hyphens fails with “Droid configuration not found”, even",
+    "url": "https://github.com/Factory-AI/factory/issues/302",
+    "timestamp": "2025-11-02T22:10:09Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 302
+    }
+  },
+  {
+    "id": "twitter_1985106082533105939",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@juanmackie @ivanfioravanti can you run a Claude Code as various instances with different models at the same time, does cc only read the config at startup?\nBeside that I prefer to run the different models in @FactoryAI DROID where I can easily add models and switch anytime, even mid way.",
+    "url": "https://x.com/SvenMeyer/status/1985106082533105939",
+    "timestamp": "2025-11-02T22:05:46.000Z",
+    "metadata": {
+      "conversation_id": "1985106082533105939",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985105652491116594",
+    "source": "twitter",
+    "author": "hassandev22",
+    "content": "@RayFernando1337 @Factory They should add kimi , mimimax m2 and qwen max and qwen coder than I'll definitely subscribe @FactoryAI droid",
+    "url": "https://x.com/hassandev22/status/1985105652491116594",
+    "timestamp": "2025-11-02T22:04:03.000Z",
+    "metadata": {
+      "conversation_id": "1985105652491116594",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1985105350765228170",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "In my very unscientific research I've reached these conclusions: best agent for research intensive/deep bugs - @OpenAIDevs  Codex. best agent for super long running tasks : @augmentcode  x Gpt 5 , best UI work @FactoryAI  x Sonnet 4.5",
+    "url": "https://x.com/Alberto8793/status/1985105350765228170",
+    "timestamp": "2025-11-02T22:02:51.000Z",
+    "metadata": {
+      "conversation_id": "1985105350765228170",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985102158014943580",
     "source": "twitter",
     "author": "meTheKarthik",
@@ -23,7 +96,7 @@
     "timestamp": "2025-11-02T21:21:51.000Z",
     "metadata": {
       "conversation_id": "1985095031544549418",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -253,66 +326,6 @@
     }
   },
   {
-    "id": "twitter_1985040513238794435",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "@immoinulmoin @FactoryAI @OfficialLoganK @matanSF Agreed - pro is a solid planner",
-    "url": "https://x.com/JoelDeTeves/status/1985040513238794435",
-    "timestamp": "2025-11-02T17:45:13.000Z",
-    "metadata": {
-      "conversation_id": "1985040513238794435",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985040427574313334",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "@immoinulmoin @FactoryAI @OfficialLoganK @matanSF I’m very excited for the possibilities of 1) using Nano Banana for front end graphics as well as 2) Gemini 3 with a tool like droid when it is released to the public",
-    "url": "https://x.com/JoelDeTeves/status/1985040427574313334",
-    "timestamp": "2025-11-02T17:44:52.000Z",
-    "metadata": {
-      "conversation_id": "1985040427574313334",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985040402358091853",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@JoelDeTeves @FactoryAI @OfficialLoganK @matanSF then gemini 2.5 pro + glm 4.6 would be perfect combo!",
-    "url": "https://x.com/immoinulmoin/status/1985040402358091853",
-    "timestamp": "2025-11-02T17:44:46.000Z",
-    "metadata": {
-      "conversation_id": "1985040402358091853",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985040299564138988",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@JoelDeTeves @FactoryAI @OfficialLoganK @matanSF yessss +1",
-    "url": "https://x.com/immoinulmoin/status/1985040299564138988",
-    "timestamp": "2025-11-02T17:44:22.000Z",
-    "metadata": {
-      "conversation_id": "1985040299564138988",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -320,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 2,
+      "score": 3,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -359,8 +372,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 4,
-      "num_comments": 2,
+      "score": 6,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -625,19 +638,6 @@
     }
   },
   {
-    "id": "github_issue_267",
-    "source": "github",
-    "author": "jakob1379",
-    "content": "[Issue] terminal input not shown e.g. `EXECUTE  (sudo apt-get update, timeout: 240s, impact: medium)`\n\nWhen a user input is required the dialogue is not shown.",
-    "url": "https://github.com/Factory-AI/factory/issues/267",
-    "timestamp": "2025-10-27T11:37:28Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 267
-    }
-  },
-  {
     "id": "reddit_1ofmunx",
     "source": "reddit",
     "author": "Warm_Sandwich3769",
@@ -690,6 +690,19 @@
     }
   },
   {
+    "id": "reddit_1oegs4w",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "ISSUE: GLM 4.6 doesnt support Images\n\nBro we were using it with MCP. Why did you bring this new shitty update. Please fix it bro we are using GLM as custom model allow us to use images in it\n\nDroid version - 0.22.1\n\nhttps://preview.redd.it/p8u9fuciqxwf1.jpg?width=877&amp;format=pjpg&amp;auto=webp&amp;s=6e495e3b4beb975ca90fa26d2c81c83baf0b9309",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oegs4w/issue_glm_46_doesnt_support_images/",
+    "timestamp": "2025-10-23T22:10:56.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 18,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -700,6 +713,19 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
+    }
+  },
+  {
+    "id": "reddit_1odjcfl",
+    "source": "reddit",
+    "author": "Hassan_A2H",
+    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
+    "timestamp": "2025-10-22T20:20:05.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
     }
   },
   {
