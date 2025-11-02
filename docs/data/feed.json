@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1984995170564071886",
+    "source": "twitter",
+    "author": "harveyfullstack",
+    "content": "@curiouslychase @FactoryAI Check for yourself! https://t.co/AmH2dSflx2",
+    "url": "https://x.com/harveyfullstack/status/1984995170564071886",
+    "timestamp": "2025-11-02T14:45:02.000Z",
+    "metadata": {
+      "conversation_id": "1984995170564071886",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984994767315550703",
+    "source": "twitter",
+    "author": "akhi20187",
+    "content": "@hexawulf @FactoryAI I am with you on this. I found https://t.co/npu7PfBrHP is awesome.. falling in love with it .",
+    "url": "https://x.com/akhi20187/status/1984994767315550703",
+    "timestamp": "2025-11-02T14:43:26.000Z",
+    "metadata": {
+      "conversation_id": "1984994767315550703",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984994232319291683",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@the_ido_levi @opencode @FactoryAI That would be sooo nice 👍 thanks so much \n@RayFernando1337 that would be something we could look into also 🙏🤝",
+    "url": "https://x.com/pascallammers_/status/1984994232319291683",
+    "timestamp": "2025-11-02T14:41:19.000Z",
+    "metadata": {
+      "conversation_id": "1984994232319291683",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984994159279669696",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "I don’t buy into AI ide or editors atm (not saying they are worst), i blv the future is the cli tools like Claude, Codex, or even better with @FactoryAI CLI, @AmpCode, or @opencode , of course I am talking about the most of the devs,",
+    "url": "https://x.com/immoinulmoin/status/1984994159279669696",
+    "timestamp": "2025-11-02T14:41:01.000Z",
+    "metadata": {
+      "conversation_id": "1984994159279669696",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984993158007341243",
+    "source": "twitter",
+    "author": "pascallammers_",
+    "content": "@the_ido_levi @opencode Can we use it in @FactoryAI  Droids?",
+    "url": "https://x.com/pascallammers_/status/1984993158007341243",
+    "timestamp": "2025-11-02T14:37:02.000Z",
+    "metadata": {
+      "conversation_id": "1984993158007341243",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984992221935120491",
     "source": "twitter",
     "author": "curiouslychase",
@@ -8,9 +83,9 @@
     "timestamp": "2025-11-02T14:33:19.000Z",
     "metadata": {
       "conversation_id": "1984992221935120491",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -38,7 +113,7 @@
     "timestamp": "2025-11-02T14:30:57.000Z",
     "metadata": {
       "conversation_id": "1984991623520964860",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -225,81 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984968454458261915",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@lyknoada99 @immoinulmoin @FactoryAI i’m biased :)",
-    "url": "https://x.com/bentossell/status/1984968454458261915",
-    "timestamp": "2025-11-02T12:58:53.000Z",
-    "metadata": {
-      "conversation_id": "1984968454458261915",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984966952692117536",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@AIWorkflowsLab @claudeai @FactoryAI LLMs have non-deterministic output, and as non-developers, sometimes, its a bit hard to put a finger on the exact specifics that causes a problem. Droid seemed to understand what the issue was, I was trying to \"Explain\" a routing logic and UI - and droid caught it well.",
-    "url": "https://x.com/nkgoutham/status/1984966952692117536",
-    "timestamp": "2025-11-02T12:52:55.000Z",
-    "metadata": {
-      "conversation_id": "1984966952692117536",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984966601352139091",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@Ludocyte @claudeai @FactoryAI Haha yes - that's because I forced Sonnet 4.5 model in literally every use-case. Normally, I use Sonnet 4.5 only for brainstorming. For code execution, I switch to lower models.",
-    "url": "https://x.com/nkgoutham/status/1984966601352139091",
-    "timestamp": "2025-11-02T12:51:31.000Z",
-    "metadata": {
-      "conversation_id": "1984966601352139091",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984966432749433231",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@AbdMuizAdeyemo @claudeai @FactoryAI True - I do think Droid can speed up building with AI. I'm exploring ways to reduce token burn for now! But I really like how it understands the context well.",
-    "url": "https://x.com/nkgoutham/status/1984966432749433231",
-    "timestamp": "2025-11-02T12:50:51.000Z",
-    "metadata": {
-      "conversation_id": "1984966432749433231",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984966102322151540",
-    "source": "twitter",
-    "author": "nkgoutham",
-    "content": "@jonhillymakes @FactoryAI What kind of bugs are these? UI or functionality?",
-    "url": "https://x.com/nkgoutham/status/1984966102322151540",
-    "timestamp": "2025-11-02T12:49:32.000Z",
-    "metadata": {
-      "conversation_id": "1984966102322151540",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
