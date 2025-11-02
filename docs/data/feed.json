@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1984986444985926035",
+    "source": "twitter",
+    "author": "curiouslychase",
+    "content": "@harveyfullstack @FactoryAI I've been using tmux for a very long time. \n\nWhat's the benefit of switching in your opinion?",
+    "url": "https://x.com/curiouslychase/status/1984986444985926035",
+    "timestamp": "2025-11-02T14:10:22.000Z",
+    "metadata": {
+      "conversation_id": "1984986444985926035",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1984985554740539803",
+    "source": "twitter",
+    "author": "harveyfullstack",
+    "content": "@curiouslychase @FactoryAI Why not Zellij?",
+    "url": "https://x.com/harveyfullstack/status/1984985554740539803",
+    "timestamp": "2025-11-02T14:06:50.000Z",
+    "metadata": {
+      "conversation_id": "1984985554740539803",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1984982413597192590",
     "source": "twitter",
     "author": "enisbeharmenda",
@@ -8,7 +38,7 @@
     "timestamp": "2025-11-02T13:54:21.000Z",
     "metadata": {
       "conversation_id": "1984982413597192590",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -68,7 +98,7 @@
     "timestamp": "2025-11-02T13:15:08.000Z",
     "metadata": {
       "conversation_id": "1984972545083179344",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1984942029940384146",
-    "source": "twitter",
-    "author": "Aymen94Jelassi",
-    "content": "@nkgoutham @FactoryAI How can I get the free trial ?",
-    "url": "https://x.com/Aymen94Jelassi/status/1984942029940384146",
-    "timestamp": "2025-11-02T11:13:53.000Z",
-    "metadata": {
-      "conversation_id": "1984942029940384146",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1984927981018464737",
-    "source": "twitter",
-    "author": "aroussi",
-    "content": "@charliebholtz Please please add support for @FactoryAI 🙏🏻",
-    "url": "https://x.com/aroussi/status/1984927981018464737",
-    "timestamp": "2025-11-02T10:18:03.000Z",
-    "metadata": {
-      "conversation_id": "1984927981018464737",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -334,7 +334,7 @@
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
       "score": 6,
-      "num_comments": 0,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 10,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
