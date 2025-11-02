@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985067346898387369",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@fabiorizzomatos @FactoryAI I haven’t tried with DeepSeek are you running it locally?",
+    "url": "https://x.com/JoelDeTeves/status/1985067346898387369",
+    "timestamp": "2025-11-02T19:31:50.000Z",
+    "metadata": {
+      "conversation_id": "1985067346898387369",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985065538851361137",
     "source": "twitter",
     "author": "fabiorizzomatos",
@@ -8,9 +23,9 @@
     "timestamp": "2025-11-02T19:24:39.000Z",
     "metadata": {
       "conversation_id": "1985065538851361137",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -298,21 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985022521071014102",
-    "source": "twitter",
-    "author": "AndyBeard",
-    "content": "@Similarweb @cursor_ai @lovable_dev @base_44 Well as an example @FactoryAI should be in this group, and not lumped in with more general AI chatbots\n\n@Cognition make @devinai and now own @windsurf = 3 different domains\n\nThere are so many others - \"all other\" could easily be 30%+",
-    "url": "https://x.com/AndyBeard/status/1985022521071014102",
-    "timestamp": "2025-11-02T16:33:43.000Z",
-    "metadata": {
-      "conversation_id": "1985022521071014102",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1omlc3f",
     "source": "reddit",
     "author": "IslandOceanWater",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 3,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
