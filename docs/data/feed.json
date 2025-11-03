@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985354625722241141",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@AntonioJASmith @FactoryAI Right? I felt that too! You're on the free trial? Or sub-ed?",
+    "url": "https://x.com/nkgoutham/status/1985354625722241141",
+    "timestamp": "2025-11-03T14:33:23.000Z",
+    "metadata": {
+      "conversation_id": "1985354625722241141",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985343741498961985",
     "source": "twitter",
     "author": "5aikat",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1985282805824467414",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@launchaddict @FactoryAI fix in progress",
-    "url": "https://x.com/bentossell/status/1985282805824467414",
-    "timestamp": "2025-11-03T09:48:00.000Z",
-    "metadata": {
-      "conversation_id": "1985282805824467414",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_302",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
@@ -373,7 +373,7 @@
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
       "score": 5,
-      "num_comments": 7,
+      "num_comments": 8,
       "subreddit": "FactoryAi"
     }
   },
@@ -528,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
