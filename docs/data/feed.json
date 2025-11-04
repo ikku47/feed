@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1985567951727026341",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "Stumbled into an epic AI showdown today! 🔧 Battled a stubborn bug all day, pitting @OpenAIDevs Codex against @FactoryAI x @claudeai and @augmentcode x @claudeai in parallel workflows.\n\nAfter a full-day grind, the verdict's in: @FactoryAI straight-up slayed it! 🚀 Huge thanks to the whole squad!",
+    "url": "https://x.com/Alberto8793/status/1985567951727026341",
+    "timestamp": "2025-11-04T04:41:04.000Z",
+    "metadata": {
+      "conversation_id": "1985567951727026341",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1985564299562270816",
     "source": "twitter",
     "author": "Aristotleless",
@@ -160,7 +175,7 @@
       "conversation_id": "1985516634933788983",
       "likes": 1,
       "retweets": 0,
-      "replies": 2,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -173,7 +188,7 @@
     "timestamp": "2025-11-04T01:08:46.000Z",
     "metadata": {
       "conversation_id": "1985514526406820111",
-      "likes": 9,
+      "likes": 12,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1985455611891630362",
       "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985452137174757745",
-    "source": "twitter",
-    "author": "TheeRecession",
-    "content": "@edels0n @matanSF @FactoryAI From the business side, who cares what they would rather be doing if it’s not optimal to make money?",
-    "url": "https://x.com/TheeRecession/status/1985452137174757745",
-    "timestamp": "2025-11-03T21:00:52.000Z",
-    "metadata": {
-      "conversation_id": "1985452137174757745",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -658,7 +658,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 12,
+      "score": 11,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
