@@ -1,5 +1,48 @@
 [
   {
+    "id": "twitter_1986105353638228233",
+    "source": "twitter",
+    "author": "nkgoutham",
+    "content": "@FactoryAI there's a setback! I'm not able to subscribe to the paid plan - I'm from India and have a VISA Card/RuPay card. I tried with a friends' Master Card, but then I get this error when I do that. \n\nPlease help here! I've reached out to support as well! Want to get back to shipping now that you gave me a taste of how droid works :)",
+    "url": "https://x.com/nkgoutham/status/1986105353638228233",
+    "timestamp": "2025-11-05T16:16:31.000Z",
+    "metadata": {
+      "conversation_id": "1986105353638228233",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986101737858679012",
+    "source": "twitter",
+    "author": "oi_laz",
+    "content": "@edels0n @matanSF @FactoryAI And here I thought you only spoke about porn with your boss",
+    "url": "https://x.com/oi_laz/status/1986101737858679012",
+    "timestamp": "2025-11-05T16:02:08.000Z",
+    "metadata": {
+      "conversation_id": "1986101737858679012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1986095261484278094",
     "source": "twitter",
     "author": "rezaul_arif",
@@ -23,7 +66,7 @@
     "timestamp": "2025-11-05T14:57:18.000Z",
     "metadata": {
       "conversation_id": "1986085421462536417",
-      "likes": 7,
+      "likes": 9,
       "retweets": 1,
       "replies": 1,
       "quotes": 0
@@ -143,7 +186,7 @@
     "timestamp": "2025-11-05T13:17:25.000Z",
     "metadata": {
       "conversation_id": "1986060281722830853",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1985977331929006382",
-    "source": "twitter",
-    "author": "LyceumCloud",
-    "content": "@5aikat @FactoryAI True, like chasing a cat on a hot tin roof!",
-    "url": "https://x.com/LyceumCloud/status/1985977331929006382",
-    "timestamp": "2025-11-05T07:47:48.000Z",
-    "metadata": {
-      "conversation_id": "1985977331929006382",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1985975653439824219",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "@LyceumCloud @FactoryAI context engineering &gt; prompt engineering\n\nuntill something new/better comes along\n\ninnovation in this space is absurdly fast 😁 hard to keep track/be in sync 😅",
-    "url": "https://x.com/5aikat/status/1985975653439824219",
-    "timestamp": "2025-11-05T07:41:08.000Z",
-    "metadata": {
-      "conversation_id": "1985975653439824219",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oomptx",
     "source": "reddit",
     "author": "samplifyk",
@@ -385,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -398,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -674,19 +687,6 @@
       "type": "issue",
       "labels": [],
       "number": 262
-    }
-  },
-  {
-    "id": "reddit_1ofmunx",
-    "source": "reddit",
-    "author": "Warm_Sandwich3769",
-    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
-    "timestamp": "2025-10-25T09:01:37.000Z",
-    "metadata": {
-      "score": 11,
-      "num_comments": 11,
-      "subreddit": "FactoryAi"
     }
   },
   {
