@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1986250019540988403",
+    "source": "twitter",
+    "author": "1Bexly",
+    "content": "@FactoryAI @snyksec Good move 🔥🔥",
+    "url": "https://x.com/1Bexly/status/1986250019540988403",
+    "timestamp": "2025-11-06T01:51:22.000Z",
+    "metadata": {
+      "conversation_id": "1986250019540988403",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986245550484738211",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "droids are coming @FactoryAI",
+    "url": "https://x.com/_abilshr/status/1986245550484738211",
+    "timestamp": "2025-11-06T01:33:36.000Z",
+    "metadata": {
+      "conversation_id": "1986245550484738211",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986236794975781055",
+    "source": "twitter",
+    "author": "natemcgrady",
+    "content": "@chrisstanchak @FactoryAI tell them to prove it and send me some",
+    "url": "https://x.com/natemcgrady/status/1986236794975781055",
+    "timestamp": "2025-11-06T00:58:49.000Z",
+    "metadata": {
+      "conversation_id": "1986236794975781055",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986235077945401794",
+    "source": "twitter",
+    "author": "kylantomita",
+    "content": ". @FactoryAI  why is it that saying \"hi\" uses up 47k tokens?!? \n\nis this from MCP servers?\n\nim going to go broke at this rate https://t.co/jsXDwf9bdS",
+    "url": "https://x.com/kylantomita/status/1986235077945401794",
+    "timestamp": "2025-11-06T00:51:59.000Z",
+    "metadata": {
+      "conversation_id": "1986235077945401794",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986233776880439360",
+    "source": "twitter",
+    "author": "chrisstanchak",
+    "content": "@natemcgrady It’s a good signal. @FactoryAI has the goods.",
+    "url": "https://x.com/chrisstanchak/status/1986233776880439360",
+    "timestamp": "2025-11-06T00:46:49.000Z",
+    "metadata": {
+      "conversation_id": "1986233776880439360",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986233737915605072",
+    "source": "twitter",
+    "author": "barkleesanders",
+    "content": "@charliebholtz can I use this in combination with droid CLI so i can run multiple droids cli in this open using App more but I still love your product. I just want to be yours and the agent back in to be droid cli @FactoryAI",
+    "url": "https://x.com/barkleesanders/status/1986233737915605072",
+    "timestamp": "2025-11-06T00:46:40.000Z",
+    "metadata": {
+      "conversation_id": "1986233737915605072",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986212822146318670",
     "source": "twitter",
     "author": "anthonyronning_",
@@ -210,96 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986164178093019437",
-    "source": "twitter",
-    "author": "lghtneon",
-    "content": "I have a very strange experience today with @FactoryAI + GLM 4.6 Coding Plan\n\nIt lied to me many times. I asked to create one documentation and it kept saying that it created the doc when actually it was not the case. \n\nI repeated the process again and the outcome was the same.",
-    "url": "https://x.com/lghtneon/status/1986164178093019437",
-    "timestamp": "2025-11-05T20:10:15.000Z",
-    "metadata": {
-      "conversation_id": "1986164178093019437",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986163427920752940",
-    "source": "twitter",
-    "author": "Todd_CISO",
-    "content": "@liran_tal @snyksec @FactoryAI Liran, if it comes with steak, I'll sign anything you want.",
-    "url": "https://x.com/Todd_CISO/status/1986163427920752940",
-    "timestamp": "2025-11-05T20:07:17.000Z",
-    "metadata": {
-      "conversation_id": "1986163427920752940",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986160959891665291",
-    "source": "twitter",
-    "author": "liran_tal",
-    "content": "@Todd_CISO @snyksec @FactoryAI Todd, if you invite us to your next executive steak dinner we'll handle the AI-native explanations for you!\n\nBut seriously, the Snyk integration with Factory AI adds seamless security into droids agentic coding thanks to Snyk Studio (did someone say MCP? 😉)",
-    "url": "https://x.com/liran_tal/status/1986160959891665291",
-    "timestamp": "2025-11-05T19:57:28.000Z",
-    "metadata": {
-      "conversation_id": "1986160959891665291",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986148681213501674",
-    "source": "twitter",
-    "author": "stacksats3",
-    "content": "@anthonyronning_ @FactoryAI @snyksec bumb",
-    "url": "https://x.com/stacksats3/status/1986148681213501674",
-    "timestamp": "2025-11-05T19:08:41.000Z",
-    "metadata": {
-      "conversation_id": "1986148681213501674",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986146408072946141",
-    "source": "twitter",
-    "author": "anthonyronning_",
-    "content": "@FactoryAI @snyksec Where’s the link to the setup documentation? The blog post didn’t include it.",
-    "url": "https://x.com/anthonyronning_/status/1986146408072946141",
-    "timestamp": "2025-11-05T18:59:39.000Z",
-    "metadata": {
-      "conversation_id": "1986146408072946141",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986146230313857130",
-    "source": "twitter",
-    "author": "isaac_cullinane",
-    "content": "initially it reminds me of the @FactoryAI site, probably some inspo from there - but i love that design and i have been wanting to do something like that so well done on that \n\nI think it would be cool if the chat just worked like the preview (which would be the a good demo)\n\ni think mainly make me feel the pain of not having this earlier on the page - rn i have to scroll a lot to even under its for support tickets \n\nthe heading lower down that says “Wake up to zero support tickets, Cossistant keeps your users happy while you sleep.”\n\nwould probably be a better headline for the hero \n\nthere are no faq’s \n\ni might want to know if this works in multiple languages for example \n\nnot trying to be super harsh, i think it has a few quick wins with just minor tweaks",
-    "url": "https://x.com/isaac_cullinane/status/1986146230313857130",
-    "timestamp": "2025-11-05T18:58:56.000Z",
-    "metadata": {
-      "conversation_id": "1986146230313857130",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1op6njm",
     "source": "reddit",
     "author": "Sakrilegi0us",
@@ -307,8 +307,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 1,
-      "num_comments": 0,
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 8,
       "subreddit": "FactoryAi"
     }
@@ -450,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -567,7 +567,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -697,7 +697,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
     "timestamp": "2025-10-25T09:01:37.000Z",
     "metadata": {
-      "score": 11,
+      "score": 12,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
