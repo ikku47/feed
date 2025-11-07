@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1986904156989210983",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@bentossell @OpenAI @GeminiApp @FactoryAI @cursor_ai @claudeai Droid is good- DEFCON 4\nnegativeRatio &gt;= 60% → DEFCON 1 🔥 (Chaos)\nnegativeRatio &gt;= 40% → DEFCON 2 ⚠️ (Major issues)\nnegativeRatio &gt;= 20% → DEFCON 3 🟡 (Minor grumbles)\nnegativeRatio &gt;= 10% → DEFCON 4 🟢 (Mostly positive)\nnegativeRatio &lt; 10% → DEFCON 5 ✅ (All good)",
+    "url": "https://x.com/nathanpareo/status/1986904156989210983",
+    "timestamp": "2025-11-07T21:10:40.000Z",
+    "metadata": {
+      "conversation_id": "1986904156989210983",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986901076390650332",
+    "source": "twitter",
+    "author": "edchucation",
+    "content": "@every @cursor_ai @DannyAziz97 @TrySpiral @FactoryAI @AnthropicAI Subbed",
+    "url": "https://x.com/edchucation/status/1986901076390650332",
+    "timestamp": "2025-11-07T20:58:26.000Z",
+    "metadata": {
+      "conversation_id": "1986901076390650332",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986901061265990097",
+    "source": "twitter",
+    "author": "edchucation",
+    "content": "@every @cursor_ai @DannyAziz97 @TrySpiral @FactoryAI @AnthropicAI Thanks for sharing",
+    "url": "https://x.com/edchucation/status/1986901061265990097",
+    "timestamp": "2025-11-07T20:58:22.000Z",
+    "metadata": {
+      "conversation_id": "1986901061265990097",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986899672217362924",
     "source": "twitter",
     "author": "creatine_cycle",
@@ -68,7 +113,7 @@
       "conversation_id": "1986891389666533476",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -261,55 +306,10 @@
     "timestamp": "2025-11-07T17:39:03.000Z",
     "metadata": {
       "conversation_id": "1986850903484485670",
-      "likes": 43,
-      "retweets": 4,
-      "replies": 2,
-      "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1986848229489537148",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@Alberto8793 @matanSF @FactoryAI sonnet or codex",
-    "url": "https://x.com/bentossell/status/1986848229489537148",
-    "timestamp": "2025-11-07T17:28:26.000Z",
-    "metadata": {
-      "conversation_id": "1986848229489537148",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986838511865954476",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@iamcienlim @gasca @cursor_ai @FactoryAI big 🧠",
-    "url": "https://x.com/bentossell/status/1986838511865954476",
-    "timestamp": "2025-11-07T16:49:49.000Z",
-    "metadata": {
-      "conversation_id": "1986838511865954476",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986838231472554300",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JeremyGrove_MDF @thedanifrim @FactoryAI oh hell yeah, watching this :)",
-    "url": "https://x.com/bentossell/status/1986838231472554300",
-    "timestamp": "2025-11-07T16:48:42.000Z",
-    "metadata": {
-      "conversation_id": "1986838231472554300",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
+      "likes": 44,
+      "retweets": 7,
+      "replies": 4,
+      "quotes": 2
     }
   },
   {
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +700,32 @@
       "type": "issue",
       "labels": [],
       "number": 265
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 12,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofh9so",
+    "source": "reddit",
+    "author": "abecc2",
+    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
+    "timestamp": "2025-10-25T03:21:56.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
