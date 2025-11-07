@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1986626031923662862",
+    "source": "twitter",
+    "author": "0xDerekLao",
+    "content": "@hqmank @FactoryAI Are you using the Moonshot ai endpoint? Its been very slow on my side of testing. (Testing with Droid as well)",
+    "url": "https://x.com/0xDerekLao/status/1986626031923662862",
+    "timestamp": "2025-11-07T02:45:30.000Z",
+    "metadata": {
+      "conversation_id": "1986626031923662862",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986620315469029526",
+    "source": "twitter",
+    "author": "CudaSlayer",
+    "content": "@garymjr @decruz @laup30 Yep, yep!! Happened to me as well on @FactoryAI droid core!",
+    "url": "https://x.com/CudaSlayer/status/1986620315469029526",
+    "timestamp": "2025-11-07T02:22:47.000Z",
+    "metadata": {
+      "conversation_id": "1986620315469029526",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1986619703754973461",
+    "source": "twitter",
+    "author": "CudaSlayer",
+    "content": "@dontlockmyacc0 Interesting? Never had this issue with Droid Core, Droid with @OpenRouterAI GLM4.6 or @FactoryAI droid GLM coding plan!",
+    "url": "https://x.com/CudaSlayer/status/1986619703754973461",
+    "timestamp": "2025-11-07T02:20:21.000Z",
+    "metadata": {
+      "conversation_id": "1986619703754973461",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1986608136250364036",
     "source": "twitter",
     "author": "aerionmm",
@@ -246,7 +291,7 @@
     "timestamp": "2025-11-06T18:57:30.000Z",
     "metadata": {
       "conversation_id": "1986508257155031380",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -264,51 +309,6 @@
       "likes": 1,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986503292801679832",
-    "source": "twitter",
-    "author": "5aikat",
-    "content": "@bentossell @yaghsizian @dogancanbaris @FactoryAI navigate back to the exact session (arrow key up) and then run /bug\n\nThat reminds me @bentossell I have a jug report pending with you - will resend, in case there's an update 🙏🏽",
-    "url": "https://x.com/5aikat/status/1986503292801679832",
-    "timestamp": "2025-11-06T18:37:47.000Z",
-    "metadata": {
-      "conversation_id": "1986503292801679832",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986502042794217974",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@yaghsizian @dogancanbaris @5aikat @FactoryAI you can run /bug in the session",
-    "url": "https://x.com/bentossell/status/1986502042794217974",
-    "timestamp": "2025-11-06T18:32:49.000Z",
-    "metadata": {
-      "conversation_id": "1986502042794217974",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986501280315945447",
-    "source": "twitter",
-    "author": "gtmba_",
-    "content": "awesome time last night, co-hosting a \"selling to developers\" private GTM event with @vibescaling <> @factoryAI with ~100 of the top technical GTM AEs/operators in SF\n\nbeen stellar partnering with the Factory team on their founding GTM build out\n\nwas amazing to see a talent-dense room from the likes of OpenAI, Anthropic, Vercel, Baseten, Fireworks, Grafana, LiveKit, Retool, Lambda, Exa, Dust, Mistral, Modal, ElevenLabs, Persona, Parallel, CodeRabbit, Together, Groq, Fal, and others.\n\nwe chatted about topics including:\n\n1) 𝗵𝗼𝘄 𝘁𝗼 𝗰𝗵𝗼𝗼𝘀𝗲 𝘁𝗵𝗲 𝗿𝗶𝗴𝗵𝘁 𝗱𝗲𝘃𝘁𝗼𝗼𝗹𝘀/𝗶𝗻𝗳𝗿𝗮 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 (what metrics to look for/questions to ask)\n2) 𝘄𝗵𝗮𝘁 𝗼𝘂𝘁𝗯𝗼𝘂𝗻𝗱/𝘀𝗶𝗴𝗻𝗮𝗹𝘀 𝗮𝗿𝗲 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 as it relates to selling to devs\n3) 𝗺𝗼𝘃𝗶𝗻𝗴 𝗳𝗿𝗼𝗺 𝗣𝗟𝗚 𝘁𝗼 𝗲𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲 and taking control of your deals with developers who might be boxing you out in Slack\n\nshoutout to our world-class speakers:\n- Andy Codner, VP of Sales @ Factory\n- June-June Shih, VP of Sales @ LiveKit\n- Bardia Shahali, VP of Sales @ Fireworks AI\n- Justin Dignelli, VP of Sales @ Modal\n\nwe host these private events monthly in SF and NYC, excited for a similar rendition of this with Clay in December in NYC\n\nfor those who are new, VibeScaling is a GTM advisory, recruiting, media, and investing firm helping seed through series C AI-natives\n\nfor startups looking for GTM advisory + help recruiting their founding teams + want to host the next event (in SF or NYC) + want to be on the podcast, or candidates looking to break into the space/their next move - shoot me a DM 🙂",
-    "url": "https://x.com/gtmba_/status/1986501280315945447",
-    "timestamp": "2025-11-06T18:29:47.000Z",
-    "metadata": {
-      "conversation_id": "1986501280315945447",
-      "likes": 3,
-      "retweets": 1,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -411,7 +411,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -463,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
@@ -699,19 +699,6 @@
     "metadata": {
       "score": 12,
       "num_comments": 11,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ofh9so",
-    "source": "reddit",
-    "author": "abecc2",
-    "content": "Has anyone been getting the \"Attempted to assign to readonly property\" error?\n\nHi all! I've been enjoying Droid for many weeks now. But last week I started to notice that the agent randomly stops working and shows \"Error: Attempted to assign to readonly property.\".\n\nHas anyone seen this? Any workarounds?\n\nI use macOS and I can confirm that it's still happening with the latest version v0.22.3",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh9so/has_anyone_been_getting_the_attempted_to_assign/",
-    "timestamp": "2025-10-25T03:21:56.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
