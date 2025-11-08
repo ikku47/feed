@@ -218,7 +218,21 @@ See `AGENTS.md` for detailed security practices.
 
 ## Contributing
 
-This is a personal project, but suggestions welcome via issues.
+We welcome contributions! Whether it's bug fixes, new features, documentation improvements, or new scrapers - all PRs are appreciated.
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for:
+- How to set up your development environment
+- Code style guidelines
+- How to add new scrapers
+- Pull request process
+
+Quick start:
+1. Fork the repo
+2. Create a feature branch
+3. Make your changes
+4. Submit a PR
+
+For questions or discussions, open an [issue](https://github.com/bentossell/ccc-new/issues).
 
 ## License
 
