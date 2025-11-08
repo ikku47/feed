@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1987100736174375287",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@SvenMeyer @doodlestein @FactoryAI ripgrep is in factory, dont need to install yourself.",
+    "url": "https://x.com/bentossell/status/1987100736174375287",
+    "timestamp": "2025-11-08T10:11:48.000Z",
+    "metadata": {
+      "conversation_id": "1987100736174375287",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987100124758352320",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@leoisadev @thedanifrim @FactoryAI you want a bigger plan :)",
+    "url": "https://x.com/bentossell/status/1987100124758352320",
+    "timestamp": "2025-11-08T10:09:22.000Z",
+    "metadata": {
+      "conversation_id": "1987100124758352320",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987099745010262429",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@SvenMeyer @alexgshaw @FactoryAI coming soon",
+    "url": "https://x.com/bentossell/status/1987099745010262429",
+    "timestamp": "2025-11-08T10:07:52.000Z",
+    "metadata": {
+      "conversation_id": "1987099745010262429",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987099312166252609",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@bitdoze @Sarvesh12601156 @karpathy @FactoryAI 🧠",
+    "url": "https://x.com/bentossell/status/1987099312166252609",
+    "timestamp": "2025-11-08T10:06:09.000Z",
+    "metadata": {
+      "conversation_id": "1987099312166252609",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987099138731700544",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@SvenMeyer @EnoReyes @FactoryAI its live :)",
+    "url": "https://x.com/bentossell/status/1987099138731700544",
+    "timestamp": "2025-11-08T10:05:27.000Z",
+    "metadata": {
+      "conversation_id": "1987099138731700544",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987093207994311068",
     "source": "twitter",
     "author": "bentossell",
@@ -68,9 +143,9 @@
     "timestamp": "2025-11-08T08:46:52.000Z",
     "metadata": {
       "conversation_id": "1987079359975317545",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -115,7 +190,7 @@
       "conversation_id": "1987054913734500768",
       "likes": 1,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -128,7 +203,7 @@
     "timestamp": "2025-11-08T06:35:55.000Z",
     "metadata": {
       "conversation_id": "1987046405446508831",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -145,7 +220,7 @@
       "conversation_id": "1987038548995023312",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -219,81 +294,6 @@
     "metadata": {
       "conversation_id": "1987018699014836515",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987016469079642283",
-    "source": "twitter",
-    "author": "leoisadev",
-    "content": "@thedanifrim @FactoryAI I would get a @FactoryAI plan but that's not gonna go well even if it's the $200 plan... https://t.co/jxP2DXKU2q",
-    "url": "https://x.com/leoisadev/status/1987016469079642283",
-    "timestamp": "2025-11-08T04:36:57.000Z",
-    "metadata": {
-      "conversation_id": "1987016469079642283",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987000265137136007",
-    "source": "twitter",
-    "author": "maddiehfaulkner",
-    "content": "@mihail_eric No @FactoryAI in the survey???",
-    "url": "https://x.com/maddiehfaulkner/status/1987000265137136007",
-    "timestamp": "2025-11-08T03:32:34.000Z",
-    "metadata": {
-      "conversation_id": "1987000265137136007",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986981088619868532",
-    "source": "twitter",
-    "author": "SvenMeyer",
-    "content": "@doodlestein I am surprised that this is not built-in to every coding agent out of the box. @FactoryAI do I need to add ast-grep and ripgrep myself ? 🤔",
-    "url": "https://x.com/SvenMeyer/status/1986981088619868532",
-    "timestamp": "2025-11-08T02:16:22.000Z",
-    "metadata": {
-      "conversation_id": "1986981088619868532",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986977741485343031",
-    "source": "twitter",
-    "author": "gilhildebrand",
-    "content": "@matanSF @cursor_ai @FactoryAI Factory seems to be the best coding agent.\n\nBut I’m paying per token and it gets a lot more expensive than using a Claude Code plan.\n\nNot their fault. It’s just that it does constrain my usage.",
-    "url": "https://x.com/gilhildebrand/status/1986977741485343031",
-    "timestamp": "2025-11-08T02:03:04.000Z",
-    "metadata": {
-      "conversation_id": "1986977741485343031",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986966326544638230",
-    "source": "twitter",
-    "author": "creatine_cycle",
-    "content": "@FactoryAI lofi 10 hour chainsmoker droid beep to relax and study to",
-    "url": "https://x.com/creatine_cycle/status/1986966326544638230",
-    "timestamp": "2025-11-08T01:17:42.000Z",
-    "metadata": {
-      "conversation_id": "1986966326544638230",
-      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 8,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
