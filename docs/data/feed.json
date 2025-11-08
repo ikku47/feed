@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1987029900319232351",
+    "source": "twitter",
+    "author": "xnova_pritam",
+    "content": "Using Droid for about half a month, @FactoryAI  is doing an amazing job with optimisation, but a few things should be improved further ...\n🧵",
+    "url": "https://x.com/xnova_pritam/status/1987029900319232351",
+    "timestamp": "2025-11-08T05:30:20.000Z",
+    "metadata": {
+      "conversation_id": "1987029900319232351",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1987028835981050323",
+    "source": "twitter",
+    "author": "SvenMeyer",
+    "content": "@EnoReyes @bentossell I get a 100 newsletters, but a timely, up to date information how my new @FactoryAI DROID CLI version improved, that would be really interesting ! https://t.co/peSJfn2Q1M",
+    "url": "https://x.com/SvenMeyer/status/1987028835981050323",
+    "timestamp": "2025-11-08T05:26:06.000Z",
+    "metadata": {
+      "conversation_id": "1987028835981050323",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987026353921683552",
     "source": "twitter",
     "author": "CatFat1408",
@@ -188,7 +218,7 @@
     "timestamp": "2025-11-08T00:54:56.000Z",
     "metadata": {
       "conversation_id": "1986960593560215603",
-      "likes": 11,
+      "likes": 12,
       "retweets": 0,
       "replies": 1,
       "quotes": 1
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1986934942735982858",
-    "source": "twitter",
-    "author": "jxhnnyheo",
-    "content": "@nathandrake claude code on the web or @FactoryAI",
-    "url": "https://x.com/jxhnnyheo/status/1986934942735982858",
-    "timestamp": "2025-11-07T23:13:00.000Z",
-    "metadata": {
-      "conversation_id": "1986934942735982858",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1986932368427635134",
-    "source": "twitter",
-    "author": "rachelldev",
-    "content": "@thedanifrim @FactoryAI have you tried Codex?",
-    "url": "https://x.com/rachelldev/status/1986932368427635134",
-    "timestamp": "2025-11-07T23:02:46.000Z",
-    "metadata": {
-      "conversation_id": "1986932368427635134",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_325",
     "source": "github",
     "author": "Evan-Kim2028",
@@ -346,7 +346,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -476,7 +476,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 8,
+      "score": 10,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
     "timestamp": "2025-10-29T00:01:57.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 23,
       "subreddit": "FactoryAi"
     }
