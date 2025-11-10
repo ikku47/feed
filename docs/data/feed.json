@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1987672625674404338",
+    "source": "twitter",
+    "author": "Alberto8793",
+    "content": "Current agent stack that’s shipping for me:\n🔧 @OpenAIDevs  Codex CLI × GPT-5 Codex High → logic, gnarly bugs, deep reasoning\n🎨 @FactoryAI  Droid × Sonnet 4.5 → UI polish &amp; UX flow\n\nTwo brains, two pairs of overalls ; that is all.  Drop what's driving your production in the 🧵",
+    "url": "https://x.com/Alberto8793/status/1987672625674404338",
+    "timestamp": "2025-11-10T00:04:17.000Z",
+    "metadata": {
+      "conversation_id": "1987672625674404338",
+      "likes": 3,
+      "retweets": 1,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1987580672576487857",
     "source": "twitter",
     "author": "JoelDeTeves",
@@ -8,7 +23,7 @@
     "timestamp": "2025-11-09T17:58:54.000Z",
     "metadata": {
       "conversation_id": "1987580672576487857",
-      "likes": 3,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -186,7 +201,7 @@
     "timestamp": "2025-11-09T13:45:47.000Z",
     "metadata": {
       "conversation_id": "1987516971920068948",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -333,21 +348,6 @@
       "likes": 3,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987324467433951683",
-    "source": "twitter",
-    "author": "nest_elf",
-    "content": "@adlonymous @creatine_cycle @FactoryAI @TheChainsmokers lmao",
-    "url": "https://x.com/nest_elf/status/1987324467433951683",
-    "timestamp": "2025-11-09T01:00:50.000Z",
-    "metadata": {
-      "conversation_id": "1987324467433951683",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
