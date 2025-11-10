@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_issue_333",
+    "source": "github",
+    "author": "diegodev9",
+    "content": "[Issue] illegal hardware instruction (core dumped)\n\n[1]    7041 illegal hardware instruction (core dumped)  droid\n\nHi guys, this error it's back again. It was fixed in previous version but now it's back",
+    "url": "https://github.com/Factory-AI/factory/issues/333",
+    "timestamp": "2025-11-10T11:28:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 333
+    }
+  },
+  {
     "id": "twitter_1987838190732943786",
     "source": "twitter",
     "author": "kuba_shev",
@@ -515,7 +528,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -687,19 +700,6 @@
       "type": "issue",
       "labels": [],
       "number": 277
-    }
-  },
-  {
-    "id": "github_issue_276",
-    "source": "github",
-    "author": "nilzzzzzz",
-    "content": "[Issue] droid exec cannot use custom droids\n\nReproduction: add a custom droid to `<repo>/.factory/droids/` \nUse `droid` interactive and ask to use the the custom droid -> works\nUse `droid exec \"use the custom droid\" -> does not work, answers that he has no access to the custom droid. \n\n",
-    "url": "https://github.com/Factory-AI/factory/issues/276",
-    "timestamp": "2025-10-28T14:56:26Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 276
     }
   },
   {
