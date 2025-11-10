@@ -77,7 +77,7 @@
     "timestamp": "2025-11-10T06:45:55.000Z",
     "metadata": {
       "conversation_id": "1987773696912630057",
-      "likes": 1,
+      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -195,7 +195,7 @@
     "timestamp": "2025-11-09T14:53:36.000Z",
     "metadata": {
       "conversation_id": "1987534039126012080",
-      "likes": 2,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -700,6 +700,32 @@
       "type": "issue",
       "labels": [],
       "number": 282
+    }
+  },
+  {
+    "id": "reddit_1oipsqf",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
+    "timestamp": "2025-10-29T00:01:57.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 23,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ofmunx",
+    "source": "reddit",
+    "author": "Warm_Sandwich3769",
+    "content": "New updates are forcing me to quit\n\nHey dev team, I am a paid member of Droid. First of all I want to appreciate that you guys were doing really very very well since past month.\n\nWith all due respect your latest updates are fucking up the UI UX unnecessarily \n\nThe screen starts shaking as the code goes up and down continuously \n\nAfter 1-2 prompts - Error Json comes \n\nNow I can't even attach images for my custom GLM4.6 model.\n\nYou guys don't even tell what changes have you made, no changelog at all neither I have a rollback option.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofmunx/new_updates_are_forcing_me_to_quit/",
+    "timestamp": "2025-10-25T09:01:37.000Z",
+    "metadata": {
+      "score": 13,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
     }
   },
   {
