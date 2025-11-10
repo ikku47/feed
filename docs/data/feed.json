@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_334",
+    "source": "github",
+    "author": "etwk",
+    "content": "[Issue] droid exec will change default model for the main process\n\nCurrently droid exec will change default model for the main process, maybe we should change this partly because of convenience, and partly because of process separation, not letting 2 unrelated process interfering in any possible way.",
+    "url": "https://github.com/Factory-AI/factory/issues/334",
+    "timestamp": "2025-11-10T12:42:52Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 334
+    }
+  },
+  {
+    "id": "twitter_1987860130478600217",
+    "source": "twitter",
+    "author": "MirAI_Newz",
+    "content": "Why @FactoryAI @opencode @Tembo etc will win against CC, Codex and others in the end? Because they don't vendor lock you in any Model Ecosystem.\n\nThis seems obvious, but it's not appreciated enough imo.",
+    "url": "https://x.com/MirAI_Newz/status/1987860130478600217",
+    "timestamp": "2025-11-10T12:29:22.000Z",
+    "metadata": {
+      "conversation_id": "1987860130478600217",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "github_issue_333",
     "source": "github",
     "author": "diegodev9",
@@ -81,7 +109,7 @@
     "timestamp": "2025-11-09T17:52:47.000Z",
     "metadata": {
       "conversation_id": "1987579134214562162",
-      "likes": 3,
+      "likes": 4,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -350,21 +378,6 @@
     }
   },
   {
-    "id": "twitter_1987401318953308522",
-    "source": "twitter",
-    "author": "coyotevn",
-    "content": "Thing I tells @FactoryAI #Droid these days. and it works magic. 🪄 https://t.co/iHwZduOlpP",
-    "url": "https://x.com/coyotevn/status/1987401318953308522",
-    "timestamp": "2025-11-09T06:06:13.000Z",
-    "metadata": {
-      "conversation_id": "1987401318953308522",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_328",
     "source": "github",
     "author": "a112121788",
@@ -437,7 +450,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -606,21 +619,8 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -690,19 +690,6 @@
     }
   },
   {
-    "id": "github_issue_277",
-    "source": "github",
-    "author": "britannio",
-    "content": "[Issue] unable to continue a specific session via `droid exec`\n\n`echo \"hello world\" | droid exec --output-format stream-json --skip-permissions-unsafe --session-id 7844a89c-5053-4ea9-9da2-6edea1c30743 2>&1`\n\nThis returns exit code 1 with no additional output.\n\n<img width=\"1866\" height=\"1202\" alt=\"Image\" src=\"https://github.com/user-attachments/assets/bd8e180e-55bf-49e7-b3f1-350369c73c77\" />\nLooking at the web app, there's an extra message that is sent after I interrupted the process.\n\n\n\nFull output history:\n```json\n{\"type\":\"system\",\"subtype\":\"init\",\"cwd\":\"/p",
-    "url": "https://github.com/Factory-AI/factory/issues/277",
-    "timestamp": "2025-10-28T15:25:53Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 277
-    }
-  },
-  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -713,6 +700,19 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
+    }
+  },
+  {
+    "id": "reddit_1ocpe9w",
+    "source": "reddit",
+    "author": "FocusResponsible4499",
+    "content": "User guidelines\n\nHi,\nCould you tell me if there is a possibility to set-up user guidelines (not by AGENTS.MD)?\n\nI ask because I found that this additional system prompt:\nhttps://github.com/julesmons/the-augster\n\nwork very well with Augment Code and I'd give it a try with Droid. I've tried to create the custom agent with this prompt but it doesn't work as it should. In the readme, the author says that it has to be stored in user guidelines or substitute.\nCould you please provide the info about the correct place f",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
+    "timestamp": "2025-10-21T21:19:05.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -729,6 +729,19 @@
     }
   },
   {
+    "id": "reddit_1oc3yt9",
+    "source": "reddit",
+    "author": "Big-Recognition7298",
+    "content": "Can't get bell notification to work\n\nHas anyone had issues with the bell notification? Can't seem to get it to work on macos.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oc3yt9/cant_get_bell_notification_to_work/",
+    "timestamp": "2025-10-21T04:52:45.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_223",
     "source": "github",
     "author": "JohnDotOwl",
@@ -739,6 +752,19 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 223
+    }
+  },
+  {
+    "id": "reddit_1obd1tm",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "ERROR: [Agent] runAgent error\n\nHey everyone,  \nI’m posting this because I ran into an issue for the first time after updating to **Droid v0.21.4**.\n\nWhen I used the `/bug` command to create a bug report, it didn’t show up properly — it seemed like it created a new session instead. So I’m sharing an excerpt from my `droid-log-single.log` instead:\n\n`[2025-10-20T06:36:03.511Z] ERROR: [Agent] runAgent error`\n\n`TypeError: Attempted to assign to readonly property.`\n\n`at &lt;anonymous&gt; (B:/~BUN/root/droid.exe:148:15386)`\n\n`at for",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1obd1tm/error_agent_runagent_error/",
+    "timestamp": "2025-10-20T06:53:47.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
     }
   },
   {
