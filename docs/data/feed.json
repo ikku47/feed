@@ -114,19 +114,6 @@
     }
   },
   {
-    "id": "github_issue_333",
-    "source": "github",
-    "author": "diegodev9",
-    "content": "[Issue] illegal hardware instruction (core dumped)\n\n[1]    7041 illegal hardware instruction (core dumped)  droid\n\nHi guys, this error it's back again. It was fixed in previous version but now it's back\n\nhttps://github.com/Factory-AI/factory/issues/270 ",
-    "url": "https://github.com/Factory-AI/factory/issues/333",
-    "timestamp": "2025-11-10T11:28:22Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 333
-    }
-  },
-  {
     "id": "twitter_1987838190732943786",
     "source": "twitter",
     "author": "kuba_shev",
@@ -476,7 +463,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 14,
       "subreddit": "FactoryAi"
     }
@@ -606,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 10,
+      "score": 9,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -645,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -700,6 +687,19 @@
       "type": "issue",
       "labels": [],
       "number": 290
+    }
+  },
+  {
+    "id": "github_issue_282",
+    "source": "github",
+    "author": "DkRsrl",
+    "content": "[Issue] PhpStorm: Droid CLI doesn’t activate IDE-level integration when launched from integrated terminal\n\n**Description**\nAfter installing Droid CLI and configuring `PATH`, running `droid` inside PhpStorm’s integrated terminal starts the TUI, but IDE-level features don’t engage (selection context, diagnostics sharing, IDE diff viewer, etc.). The Factory docs say JetBrains IDEs require no plugin and that running `droid` in the integrated terminal should enable all features, but that’s not happening in my setup. ([[docs.factory.ai](https://docs.factory.ai/cli/configuration/ide-integrations)][1])\n\n**St",
+    "url": "https://github.com/Factory-AI/factory/issues/282",
+    "timestamp": "2025-10-29T17:01:40Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 282
     }
   },
   {
