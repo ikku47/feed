@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1988283288038027398",
+    "source": "twitter",
+    "author": "divyanshunegi",
+    "content": "@FactoryAI Hi Guys, really like your agentic CLI, sadly my payments are not going through to upgrade for monthly plan, any help is appreicated.",
+    "url": "https://x.com/divyanshunegi/status/1988283288038027398",
+    "timestamp": "2025-11-11T16:30:51.000Z",
+    "metadata": {
+      "conversation_id": "1988283288038027398",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988283048811786311",
+    "source": "twitter",
+    "author": "MickeyShaughnes",
+    "content": "Actually takes about 3 minutes with Droid from @FactoryAI 🕺 https://t.co/kFkZiSlVVq",
+    "url": "https://x.com/MickeyShaughnes/status/1988283048811786311",
+    "timestamp": "2025-11-11T16:29:54.000Z",
+    "metadata": {
+      "conversation_id": "1988283048811786311",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988278811457450175",
     "source": "twitter",
     "author": "vanilagy",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1988193487532290390",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@mikez93 @pvncher @FactoryAI oh i thought you meant droid takes a mile if given an inch haha my bad!",
-    "url": "https://x.com/bentossell/status/1988193487532290390",
-    "timestamp": "2025-11-11T10:34:00.000Z",
-    "metadata": {
-      "conversation_id": "1988193487532290390",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988191623801454972",
-    "source": "twitter",
-    "author": "ArchiSoftTech",
-    "content": "@bentossell @FactoryAI thank you but i still got same error",
-    "url": "https://x.com/ArchiSoftTech/status/1988191623801454972",
-    "timestamp": "2025-11-11T10:26:36.000Z",
-    "metadata": {
-      "conversation_id": "1988191623801454972",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_337",
     "source": "github",
     "author": "etwk",
@@ -541,7 +541,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 3,
       "subreddit": "FactoryAi"
     }
@@ -554,7 +554,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
     "timestamp": "2025-11-02T16:11:56.000Z",
     "metadata": {
-      "score": 8,
+      "score": 9,
       "num_comments": 9,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -619,7 +619,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
@@ -687,19 +687,6 @@
       "type": "issue",
       "labels": [],
       "number": 282
-    }
-  },
-  {
-    "id": "reddit_1oipsqf",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "First impressions\n\nI’m André, a dev with several years of experience. Around two years ago, I started doing vibe coding alongside my regular development work. I’ve used several AI coding tools like Augment, Kilo, Roo, and others.\n\nI’m a heavy user, my projects usually go beyond 50k lines of code. About three weeks ago, I switched from Augment to CC for reasons I won’t mention here, but I think most people in the community already know why. A teammate shared a factory reference code with me, so I decided to test it",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oipsqf/first_impressions/",
-    "timestamp": "2025-10-29T00:01:57.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 23,
-      "subreddit": "FactoryAi"
     }
   },
   {
