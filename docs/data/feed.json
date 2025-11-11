@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_1988193487532290390",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mikez93 @pvncher @FactoryAI oh i thought you meant droid takes a mile if given an inch haha my bad!",
+    "url": "https://x.com/bentossell/status/1988193487532290390",
+    "timestamp": "2025-11-11T10:34:00.000Z",
+    "metadata": {
+      "conversation_id": "1988193487532290390",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988191623801454972",
+    "source": "twitter",
+    "author": "ArchiSoftTech",
+    "content": "@bentossell @FactoryAI thank you but i still got same error",
+    "url": "https://x.com/ArchiSoftTech/status/1988191623801454972",
+    "timestamp": "2025-11-11T10:26:36.000Z",
+    "metadata": {
+      "conversation_id": "1988191623801454972",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988191459388846293",
+    "source": "twitter",
+    "author": "ArchiSoftTech",
+    "content": "@bentossell @FactoryAI curl -fsSL https://t.co/7eC8LyOMzV | sh\nDownloading Factory CLI v0.23.0 for darwin-x64\n...... installed successfully to /Users/pierre/.factory/bin/rg\nChecking PATH configuration...\nPATH already configured\nRun 'droid' to get started!\n droid\nzsh: illegal hardware instruction droid",
+    "url": "https://x.com/ArchiSoftTech/status/1988191459388846293",
+    "timestamp": "2025-11-11T10:25:57.000Z",
+    "metadata": {
+      "conversation_id": "1988191459388846293",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988191144296026266",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@klyndrud1 @thedanifrim @FactoryAI shouldnt be any more 😊 \n\na few bugs here and there like anything but got a ton of people ripping and loving it",
+    "url": "https://x.com/bentossell/status/1988191144296026266",
+    "timestamp": "2025-11-11T10:24:42.000Z",
+    "metadata": {
+      "conversation_id": "1988191144296026266",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988191091016036502",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "@bentossell @pvncher @FactoryAI It’s just an old saying when somebody does something nice and then you ask for more…",
+    "url": "https://x.com/mikez93/status/1988191091016036502",
+    "timestamp": "2025-11-11T10:24:29.000Z",
+    "metadata": {
+      "conversation_id": "1988191091016036502",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988190960409587740",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@AVGVSTVS96 @FactoryAI which model are you using? custom or built-in? will escalate",
+    "url": "https://x.com/bentossell/status/1988190960409587740",
+    "timestamp": "2025-11-11T10:23:58.000Z",
+    "metadata": {
+      "conversation_id": "1988190960409587740",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988190862409400413",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@mikez93 @pvncher @FactoryAI not sure wym about taking a mile...\n\nbut yes, would love droid in repoprompt",
+    "url": "https://x.com/bentossell/status/1988190862409400413",
+    "timestamp": "2025-11-11T10:23:35.000Z",
+    "metadata": {
+      "conversation_id": "1988190862409400413",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988190712433951131",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@BehnamEbrahimi @FactoryAI @RayFernando1337 hey thats awesome - unfortunately we can't just gift 200m tokens to users 🥹",
+    "url": "https://x.com/bentossell/status/1988190712433951131",
+    "timestamp": "2025-11-11T10:22:59.000Z",
+    "metadata": {
+      "conversation_id": "1988190712433951131",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1988190378499936361",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@ArchiSoftTech @FactoryAI it should be fixed, can you reinstall with:\n\ncurl -fsSL https://t.co/48iR9yJpqr | sh",
+    "url": "https://x.com/bentossell/status/1988190378499936361",
+    "timestamp": "2025-11-11T10:21:39.000Z",
+    "metadata": {
+      "conversation_id": "1988190378499936361",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 2,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988184780996046999",
     "source": "twitter",
     "author": "ArchiSoftTech",
@@ -10,7 +145,7 @@
       "conversation_id": "1988184780996046999",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,10 +158,10 @@
     "timestamp": "2025-11-11T09:57:30.000Z",
     "metadata": {
       "conversation_id": "1988184298818855139",
-      "likes": 1,
-      "retweets": 0,
+      "likes": 3,
+      "retweets": 1,
       "replies": 0,
-      "quotes": 0
+      "quotes": 1
     }
   },
   {
@@ -83,7 +218,7 @@
     "timestamp": "2025-11-11T02:19:47.000Z",
     "metadata": {
       "conversation_id": "1988069112426492416",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -98,9 +233,9 @@
     "timestamp": "2025-11-11T02:01:34.000Z",
     "metadata": {
       "conversation_id": "1988064526210891953",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -115,7 +250,7 @@
       "conversation_id": "1988050700484710510",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -173,22 +308,7 @@
       "conversation_id": "1987973660397990320",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987917485866156232",
-    "source": "twitter",
-    "author": "malikatifsaleem",
-    "content": "@fire @FactoryAI @Kimi_Moonshot @nahcrof Man, I like @FactoryAI and @nahcrof because the people behind them seem humble, honest, and attentive. I have a soft spot for @cline and @zeddotdev too because they listen and have the best interests of their users.",
-    "url": "https://x.com/malikatifsaleem/status/1987917485866156232",
-    "timestamp": "2025-11-10T16:17:17.000Z",
-    "metadata": {
-      "conversation_id": "1987917485866156232",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -219,111 +339,6 @@
     }
   },
   {
-    "id": "twitter_1987860130478600217",
-    "source": "twitter",
-    "author": "MirAI_Newz",
-    "content": "Why @FactoryAI @opencode @Tembo etc will win against CC, Codex and others in the end? Because they don't vendor lock you in any Model Ecosystem.\n\nThis seems obvious, but it's not appreciated enough imo.",
-    "url": "https://x.com/MirAI_Newz/status/1987860130478600217",
-    "timestamp": "2025-11-10T12:29:22.000Z",
-    "metadata": {
-      "conversation_id": "1987860130478600217",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987838190732943786",
-    "source": "twitter",
-    "author": "kuba_shev",
-    "content": "That is why Codex is the daddy\n\nEspecially with @FactoryAI https://t.co/s49TubQQnz",
-    "url": "https://x.com/kuba_shev/status/1987838190732943786",
-    "timestamp": "2025-11-10T11:02:11.000Z",
-    "metadata": {
-      "conversation_id": "1987838190732943786",
-      "likes": 3,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987773696912630057",
-    "source": "twitter",
-    "author": "riley_ngg",
-    "content": "@superbnormal @FactoryAI man love seeing this. glad factoryai droid worked flawlessly for you.",
-    "url": "https://x.com/riley_ngg/status/1987773696912630057",
-    "timestamp": "2025-11-10T06:45:55.000Z",
-    "metadata": {
-      "conversation_id": "1987773696912630057",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987672625674404338",
-    "source": "twitter",
-    "author": "Alberto8793",
-    "content": "Current agent stack that’s shipping for me:\n🔧 @OpenAIDevs  Codex CLI × GPT-5 Codex High → logic, gnarly bugs, deep reasoning\n🎨 @FactoryAI  Droid × Sonnet 4.5 → UI polish &amp; UX flow\n\nTwo brains, two pairs of overalls ; that is all.  Drop what's driving your production in the 🧵",
-    "url": "https://x.com/Alberto8793/status/1987672625674404338",
-    "timestamp": "2025-11-10T00:04:17.000Z",
-    "metadata": {
-      "conversation_id": "1987672625674404338",
-      "likes": 10,
-      "retweets": 2,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987580672576487857",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "@bentossell @FactoryAI @xai https://t.co/aAkpT7Si46",
-    "url": "https://x.com/JoelDeTeves/status/1987580672576487857",
-    "timestamp": "2025-11-09T17:58:54.000Z",
-    "metadata": {
-      "conversation_id": "1987580672576487857",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987579134214562162",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@JoelDeTeves @FactoryAI @xai coming very soon",
-    "url": "https://x.com/bentossell/status/1987579134214562162",
-    "timestamp": "2025-11-09T17:52:47.000Z",
-    "metadata": {
-      "conversation_id": "1987579134214562162",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1987560770364981620",
-    "source": "twitter",
-    "author": "coyotevn",
-    "content": "Thanks @FactoryAI #droid for helping me fulfill a long waiting project for me. Superlike the model chooser :D",
-    "url": "https://x.com/coyotevn/status/1987560770364981620",
-    "timestamp": "2025-11-09T16:39:49.000Z",
-    "metadata": {
-      "conversation_id": "1987560770364981620",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_331",
     "source": "github",
     "author": "spionkind",
@@ -334,21 +349,6 @@
       "type": "issue",
       "labels": [],
       "number": 331
-    }
-  },
-  {
-    "id": "twitter_1987546544346898633",
-    "source": "twitter",
-    "author": "JoelDeTeves",
-    "content": "One of my favorite combos right now is @FactoryAI with Sonnet 4.5 planner and grok-code-fast-1 as a BYOK model.\n\nDroid should consider partnering with @xai  - Grok is even better when paired with Droid!",
-    "url": "https://x.com/JoelDeTeves/status/1987546544346898633",
-    "timestamp": "2025-11-09T15:43:17.000Z",
-    "metadata": {
-      "conversation_id": "1987546544346898633",
-      "likes": 12,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -430,6 +430,19 @@
     }
   },
   {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_314",
     "source": "github",
     "author": "lifeisnphard",
@@ -469,6 +482,32 @@
     }
   },
   {
+    "id": "reddit_1oneja7",
+    "source": "reddit",
+    "author": "UrAn8",
+    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
+    "timestamp": "2025-11-03T15:20:27.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -495,19 +534,6 @@
     }
   },
   {
-    "id": "reddit_1om3tvt",
-    "source": "reddit",
-    "author": "StrixGGUY",
-    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
-    "timestamp": "2025-11-02T00:38:45.000Z",
-    "metadata": {
-      "score": 9,
-      "num_comments": 13,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_298",
     "source": "github",
     "author": "tgerighty",
@@ -518,32 +544,6 @@
       "type": "issue",
       "labels": [],
       "number": 298
-    }
-  },
-  {
-    "id": "reddit_1oljgx4",
-    "source": "reddit",
-    "author": "steve1215",
-    "content": "Intrigued to know. How is Factory not Claude Code Skills / Sub Agents?\n\nThe post title probably says it all.  ;-)\n\nLooks like some impressive real-world results from Factory if the Internet is to be believed.   \n\nBut just so I can understand things better - how is a Factory \"droid\" not just a Claude Code \"Skill\" and or a sub-agent?\n\nPerhaps it is, just a really good one and I'd be ok with that - just trying to understand.\n\nThanks",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
-    "timestamp": "2025-11-01T09:23:30.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1okwodb",
-    "source": "reddit",
-    "author": "Uzeii",
-    "content": "How do i disconnect jira from factory integrations?\n\nI had connected jira using the integration tab in factory ai, now all my jira tickets have been populated with the jira link. How do i remove this?\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1okwodb/how_do_i_disconnect_jira_from_factory_integrations/",
-    "timestamp": "2025-10-31T14:51:05.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -625,6 +625,32 @@
     }
   },
   {
+    "id": "reddit_1ofh3rn",
+    "source": "reddit",
+    "author": "zhangjun3371",
+    "content": "verify my phone number error\n\nI registered on factory, and I need to verify my phone number. After I entered the phone number, it showed \"Error with verifying phone number\". I confirm that I entered the correct number, as I used the same phone number for the first verification and received the verification. How should I handle this issue?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ofh3rn/verify_my_phone_number_error/",
+    "timestamp": "2025-10-25T03:12:45.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1of1zjv",
+    "source": "reddit",
+    "author": "hrdn",
+    "content": "How droid cli handle exceed context window?\n\ni never face auto-compact, even on long horizon task, do we need to manual compact or? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1of1zjv/how_droid_cli_handle_exceed_context_window/",
+    "timestamp": "2025-10-24T16:13:54.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_240",
     "source": "github",
     "author": "factory-ben",
@@ -635,19 +661,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 240
-    }
-  },
-  {
-    "id": "reddit_1odjcfl",
-    "source": "reddit",
-    "author": "Hassan_A2H",
-    "content": "Factory consumes way too many tokens\n\nCodex was my daily driver before factory, and its weekly quota was enough to last entire week. Today I connected my codex with factory and boy ooh boy... For the first time I hit the 5hr limit, and that too within 60 minutes of usage.\n\nBesides connecting with codex, even on default factory models I've noticed that even super simple prompts take up to 10k-20k input tokens, which on cheaper models might not hurt as much but when you consider sonnet's or opus'  multiplier this means monthly 20 mil ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1odjcfl/factory_consumes_way_too_many_tokens/",
-    "timestamp": "2025-10-22T20:20:05.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 9,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -664,19 +677,6 @@
     }
   },
   {
-    "id": "reddit_1ocv9jx",
-    "source": "reddit",
-    "author": "heretiqal",
-    "content": "Droid is really trying hard to encourage me to cancel\n\nI was working in Droid in the middle of a very involved refactoring and suddenly Droid triggered a new completely blank session. New Droid sessions have zero knowledge of what you were working on -- requiring you to start completely over re-educating the agent about what you are tryingto accomplish, where you are and recreating a plan you were pursuing.\n\nI asked the agent how to get back to the prior session and it gave instructions to open the sidebar, select history and choose the session. Pro",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ocv9jx/droid_is_really_trying_hard_to_encourage_me_to/",
-    "timestamp": "2025-10-22T01:34:31.000Z",
-    "metadata": {
-      "score": 4,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "reddit_1ocpe9w",
     "source": "reddit",
     "author": "FocusResponsible4499",
@@ -684,7 +684,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ocpe9w/user_guidelines/",
     "timestamp": "2025-10-21T21:19:05.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 1,
       "subreddit": "FactoryAi"
     }
