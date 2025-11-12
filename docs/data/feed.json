@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1988482493368893820",
+    "source": "twitter",
+    "author": "EnoReyes",
+    "content": "@michabbb @melodykoh @FactoryAI Hey Michael sorry we missed the mark for you. Would be happy to jump into DMs to help out if you’re still willing!",
+    "url": "https://x.com/EnoReyes/status/1988482493368893820",
+    "timestamp": "2025-11-12T05:42:25.000Z",
+    "metadata": {
+      "conversation_id": "1988482493368893820",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1988458971351416929",
     "source": "twitter",
     "author": "michabbb",
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-12T03:49:32.000Z",
     "metadata": {
       "conversation_id": "1988454086581383176",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -100,7 +115,7 @@
       "conversation_id": "1988439451669057723",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -218,7 +233,7 @@
     "timestamp": "2025-11-12T02:01:13.000Z",
     "metadata": {
       "conversation_id": "1988426826822414517",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -263,7 +278,7 @@
     "timestamp": "2025-11-12T00:53:24.000Z",
     "metadata": {
       "conversation_id": "1988409761805869214",
-      "likes": 5,
+      "likes": 6,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -278,21 +293,6 @@
     "timestamp": "2025-11-12T00:33:04.000Z",
     "metadata": {
       "conversation_id": "1988404642343166092",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1988400769494905067",
-    "source": "twitter",
-    "author": "NilkhanVaibhav",
-    "content": "@bentossell @FactoryAI @francesca_lab Hi Ben, \nI dm you and share the billing details, kindly check it out.",
-    "url": "https://x.com/NilkhanVaibhav/status/1988400769494905067",
-    "timestamp": "2025-11-12T00:17:40.000Z",
-    "metadata": {
-      "conversation_id": "1988400769494905067",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -606,7 +606,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
     "timestamp": "2025-11-02T00:38:45.000Z",
     "metadata": {
-      "score": 9,
+      "score": 8,
       "num_comments": 13,
       "subreddit": "FactoryAi"
     }
@@ -632,7 +632,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1oljgx4/intrigued_to_know_how_is_factory_not_claude_code/",
     "timestamp": "2025-11-01T09:23:30.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 2,
       "subreddit": "FactoryAi"
     }
