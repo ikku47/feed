@@ -1,5 +1,18 @@
 [
   {
+    "id": "github_discussion_361",
+    "source": "github",
+    "author": "aaronschwartz",
+    "content": "[Discussion] Does using the CLI in BYOK mode send data to Factory.ai?\n\nIf we configure the cli to use our own model through BYOK, does any of our data get sent to Factory.ai servers before being submitted to the model for processing? e.g. is there any codebase indexing or embedding being created by Factory.ai in the cloud before prompting the BYOK third party providers?",
+    "url": "https://github.com/Factory-AI/factory/discussions/361",
+    "timestamp": "2025-11-14T21:17:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 361
+    }
+  },
+  {
     "id": "twitter_1989441487327965490",
     "source": "twitter",
     "author": "bradvangelder",
@@ -934,19 +947,6 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 20
-    }
-  },
-  {
-    "id": "github_discussion_19",
-    "source": "github",
-    "author": "fredrivett",
-    "content": "[Discussion] Hacked a lil hit counter for my site in a day w/ droid\n\nThe man @bentossell gave me access to droid last week, and I had the urge to add a retro hit counter to my site, so it was the perfect opportunity to test it out.\r\n\r\nBy the evening I'd gone back and forth on the tech, built it out and deployed it, with the widget live [on my site](https://www.fredrivett.com/).\r\n\r\nIt's live here: https://www.herenow.fyi/\r\nAnd I've since split out the core code into this open source repo so anyone can set their own up: https://github.com/fredrivett/here-now\r\n\r\nFee",
-    "url": "https://github.com/Factory-AI/factory/discussions/19",
-    "timestamp": "2025-09-15T20:42:07Z",
-    "metadata": {
-      "type": "discussion",
-      "category": "Show + tell",
-      "number": 19
     }
   }
 ]
