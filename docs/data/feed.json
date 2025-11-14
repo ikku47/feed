@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989195828154757462",
+    "source": "twitter",
+    "author": "matanSF",
+    "content": "@laup30 @FactoryAI @OpenAI of  course!",
+    "url": "https://x.com/matanSF/status/1989195828154757462",
+    "timestamp": "2025-11-14T04:56:57.000Z",
+    "metadata": {
+      "conversation_id": "1989195828154757462",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989195134991495584",
     "source": "twitter",
     "author": "laup30",
@@ -10,7 +25,7 @@
       "conversation_id": "1989195134991495584",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1989115707607642359",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989107678774202796",
-    "source": "twitter",
-    "author": "pietrosandonato",
-    "content": ".@FactoryAI helps teams code and document faster with agentic intelligence. As they grew, their multi-database setup slowed them down. Switching to @MongoDB Atlas brought everything together, so they could scale with ease. https://t.co/dQdSunTmIo https://t.co/766bSKEyLr",
-    "url": "https://x.com/pietrosandonato/status/1989107678774202796",
-    "timestamp": "2025-11-13T23:06:41.000Z",
-    "metadata": {
-      "conversation_id": "1989107678774202796",
-      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -658,8 +658,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 4,
+      "score": 6,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 7,
+      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
