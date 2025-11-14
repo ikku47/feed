@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989449304621408672",
+    "source": "twitter",
+    "author": "Danishafzalkhan",
+    "content": "@francesca_lab @RhysSullivan @FactoryAI I did and the freezes mid code made me cancel my sub. I had to ctrl c and continue every other time.",
+    "url": "https://x.com/Danishafzalkhan/status/1989449304621408672",
+    "timestamp": "2025-11-14T21:44:11.000Z",
+    "metadata": {
+      "conversation_id": "1989449304621408672",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1ox98ue",
     "source": "reddit",
     "author": "bentossell",
@@ -337,21 +352,6 @@
     }
   },
   {
-    "id": "twitter_1989387729965388189",
-    "source": "twitter",
-    "author": "melodykoh",
-    "content": "It's a Chinese learning app but with super niche use cases (that's why there's no good option in the market that does exactly what I want / I built it). \n\nBasically it lets me document my son's Chinese character learnings from school (simplified) and test his recognition with Zhuyin (which I taught at home) and corresponding traditional characters. \n\nIf curious check it out! https://t.co/lHoIOqpfiC",
-    "url": "https://x.com/melodykoh/status/1989387729965388189",
-    "timestamp": "2025-11-14T17:39:30.000Z",
-    "metadata": {
-      "conversation_id": "1989387729965388189",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
