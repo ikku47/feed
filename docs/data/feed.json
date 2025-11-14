@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989421388223091038",
+    "source": "twitter",
+    "author": "iamRamavar",
+    "content": "@trungns95vn @ben_vargas @FactoryAI Hi @ben_vargas - amp login after setting proxy is thorwing \"404 page not found\"",
+    "url": "https://x.com/iamRamavar/status/1989421388223091038",
+    "timestamp": "2025-11-14T19:53:15.000Z",
+    "metadata": {
+      "conversation_id": "1989421388223091038",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989420741197222321",
+    "source": "twitter",
+    "author": "MinChonChiSF",
+    "content": "@melodykoh @AnthropicAI @FactoryAI The active QA time is an interesting tradeoff for using AI coding agents.",
+    "url": "https://x.com/MinChonChiSF/status/1989420741197222321",
+    "timestamp": "2025-11-14T19:50:41.000Z",
+    "metadata": {
+      "conversation_id": "1989420741197222321",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989413935561543957",
     "source": "twitter",
     "author": "aeitroc",
@@ -68,7 +98,7 @@
     "timestamp": "2025-11-14T19:11:40.000Z",
     "metadata": {
       "conversation_id": "1989410925430837614",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -266,36 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989373280613273920",
-    "source": "twitter",
-    "author": "shreyas1009",
-    "content": "@melodykoh @AnthropicAI @FactoryAI Great job!",
-    "url": "https://x.com/shreyas1009/status/1989373280613273920",
-    "timestamp": "2025-11-14T16:42:05.000Z",
-    "metadata": {
-      "conversation_id": "1989373280613273920",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989370174668165444",
-    "source": "twitter",
-    "author": "ben_vargas",
-    "content": "I've found it works really well... both droid and amp function much better than I anticipated when I started researching how to get this working.\n\nI only had 20M trial tokens and haven't been given any extra and haven't purchased more - this is working well enough that I BYOK mode with this setup when using droid.\n\nPaying for tokens through Factory is the pure experience, it will be better and more as Factory intends - but this method works very well.",
-    "url": "https://x.com/ben_vargas/status/1989370174668165444",
-    "timestamp": "2025-11-14T16:29:45.000Z",
-    "metadata": {
-      "conversation_id": "1989370174668165444",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
       "quotes": 0
     }
   },
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
