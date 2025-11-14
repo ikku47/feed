@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989358641284256122",
+    "source": "twitter",
+    "author": "davidrsdlife",
+    "content": "@LignoL23 @ben_vargas @FactoryAI ^ Not sure if it's the same with GPT 5.1 but the same happened to me with GPT 5 / Codex on Droid. Rather use the Codex extension and Sonnet 4.5 on Droid (via this same method) as the workflow because of that.",
+    "url": "https://x.com/davidrsdlife/status/1989358641284256122",
+    "timestamp": "2025-11-14T15:43:55.000Z",
+    "metadata": {
+      "conversation_id": "1989358641284256122",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989349830725173637",
     "source": "twitter",
     "author": "shreyas1009",
@@ -23,7 +38,7 @@
     "timestamp": "2025-11-14T15:01:40.000Z",
     "metadata": {
       "conversation_id": "1989348010732757066",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -38,7 +53,7 @@
     "timestamp": "2025-11-14T15:00:13.000Z",
     "metadata": {
       "conversation_id": "1989347642938392817",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989317468532445368",
-    "source": "twitter",
-    "author": "Ricardo_Nth",
-    "content": "I love that the MCP example on @FactoryAI  is to add they're own docs as a server.\n\ni then love that they keep them up to date!\n\nhere im using leann core to index my folders to make searching my files semantic and 'maybe' less context intensive - tests pending.\n\nleann doesn't autoupdate my indexed projects so i added a hook to update the index after a commit.\n\nInstead of reading the very lovely docs which have had a facelift, i simply asked my droid to find out about itself and make itself better.",
-    "url": "https://x.com/Ricardo_Nth/status/1989317468532445368",
-    "timestamp": "2025-11-14T13:00:18.000Z",
-    "metadata": {
-      "conversation_id": "1989317468532445368",
-      "likes": 4,
-      "retweets": 1,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owv5gf",
     "source": "reddit",
     "author": "bentossell",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -593,7 +593,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
