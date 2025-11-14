@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1989272105779970074",
+    "source": "twitter",
+    "author": "roszianski",
+    "content": "@CloudTrader4 @FactoryAI thanks for the update. useful to know.",
+    "url": "https://x.com/roszianski/status/1989272105779970074",
+    "timestamp": "2025-11-14T10:00:03.000Z",
+    "metadata": {
+      "conversation_id": "1989272105779970074",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989272097009643540",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@pascallammers_ @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
+    "url": "https://x.com/CloudTrader4/status/1989272097009643540",
+    "timestamp": "2025-11-14T10:00:01.000Z",
+    "metadata": {
+      "conversation_id": "1989272097009643540",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989272066286367033",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@AnomByte @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
+    "url": "https://x.com/CloudTrader4/status/1989272066286367033",
+    "timestamp": "2025-11-14T09:59:54.000Z",
+    "metadata": {
+      "conversation_id": "1989272066286367033",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989272045855900108",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@contxtkng @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
+    "url": "https://x.com/CloudTrader4/status/1989272045855900108",
+    "timestamp": "2025-11-14T09:59:49.000Z",
+    "metadata": {
+      "conversation_id": "1989272045855900108",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989272011626184721",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@SvenMeyer @OpenAI @FactoryAI interesting will try and compare it definitely",
+    "url": "https://x.com/CloudTrader4/status/1989272011626184721",
+    "timestamp": "2025-11-14T09:59:41.000Z",
+    "metadata": {
+      "conversation_id": "1989272011626184721",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989271892654805453",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@m0nle0z @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
+    "url": "https://x.com/CloudTrader4/status/1989271892654805453",
+    "timestamp": "2025-11-14T09:59:12.000Z",
+    "metadata": {
+      "conversation_id": "1989271892654805453",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989271883175559641",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@roszianski @OpenAI @FactoryAI https://t.co/0q3KIybLl7",
+    "url": "https://x.com/CloudTrader4/status/1989271883175559641",
+    "timestamp": "2025-11-14T09:59:10.000Z",
+    "metadata": {
+      "conversation_id": "1989271883175559641",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989265707587309791",
     "source": "twitter",
     "author": "shreyas1009",
@@ -126,7 +231,7 @@
     "timestamp": "2025-11-14T09:10:31.000Z",
     "metadata": {
       "conversation_id": "1989259640119722295",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 1
@@ -173,7 +278,7 @@
       "conversation_id": "1989254170948542946",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -221,137 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989249277818990620",
-    "source": "twitter",
-    "author": "CyberBoyAyush",
-    "content": "@itsbyrobin @FactoryAI Yes tried it alot, still say cc and opencode are the best cli tools rn",
-    "url": "https://x.com/CyberBoyAyush/status/1989249277818990620",
-    "timestamp": "2025-11-14T08:29:20.000Z",
-    "metadata": {
-      "conversation_id": "1989249277818990620",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989243704075514338",
-    "source": "twitter",
-    "author": "thinkbuildnext",
-    "content": "@lghtneon @xai @FactoryAI Considered it but the overhead + 5% markup isn’t worth it. I’ll just sign up w/ providers",
-    "url": "https://x.com/thinkbuildnext/status/1989243704075514338",
-    "timestamp": "2025-11-14T08:07:12.000Z",
-    "metadata": {
-      "conversation_id": "1989243704075514338",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989242914338402705",
-    "source": "twitter",
-    "author": "itsbyrobin",
-    "content": "I'm definitely not the biggest fan of CLI coders, but I have to admire the speed at which @FactoryAI develops Droid. These guys... they're definitely smoking the good shit.",
-    "url": "https://x.com/itsbyrobin/status/1989242914338402705",
-    "timestamp": "2025-11-14T08:04:03.000Z",
-    "metadata": {
-      "conversation_id": "1989242914338402705",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989231877056786755",
-    "source": "twitter",
-    "author": "m0nle0z",
-    "content": "@CloudTrader4 @OpenAI @FactoryAI Yeah, wanna know how it stacks up.",
-    "url": "https://x.com/m0nle0z/status/1989231877056786755",
-    "timestamp": "2025-11-14T07:20:12.000Z",
-    "metadata": {
-      "conversation_id": "1989231877056786755",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989229318871089319",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@CloudTrader4 @FactoryAI Cloud, that's a brilliant test setup! I'm curious to see how well GPT-5.1-Codex handles the web scraping challenges, you know.",
-    "url": "https://x.com/codewithimanshu/status/1989229318871089319",
-    "timestamp": "2025-11-14T07:10:02.000Z",
-    "metadata": {
-      "conversation_id": "1989229318871089319",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989223364087669232",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@nest_elf @GroqInc @FactoryAI i did",
-    "url": "https://x.com/bentossell/status/1989223364087669232",
-    "timestamp": "2025-11-14T06:46:22.000Z",
-    "metadata": {
-      "conversation_id": "1989223364087669232",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1owpdgs",
-    "source": "reddit",
-    "author": "Informal-Spinach-345",
-    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
-    "timestamp": "2025-11-14T06:41:19.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 5,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "twitter_1989221967166337500",
-    "source": "twitter",
-    "author": "francesca_lab",
-    "content": "@RhysSullivan have you tried @FactoryAI ?",
-    "url": "https://x.com/francesca_lab/status/1989221967166337500",
-    "timestamp": "2025-11-14T06:40:49.000Z",
-    "metadata": {
-      "conversation_id": "1989221967166337500",
-      "likes": 5,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "reddit_1owbvoj",
-    "source": "reddit",
-    "author": "bentossell",
-    "content": "How should we post changelogs here?\n\nhey, i'm ben - dev rel at factory. you may have seen me answering comments.\n\nwe have a changelog now but has like 4/5 updates a week. its automated as a bot in our discord channel. \n\nshould we add anything here? if so, what format is best?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
-    "timestamp": "2025-11-13T20:22:54.000Z",
-    "metadata": {
-      "score": 6,
-      "num_comments": 4,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_352",
     "source": "github",
     "author": "ajdiyassin",
@@ -362,19 +336,6 @@
       "type": "issue",
       "labels": [],
       "number": 352
-    }
-  },
-  {
-    "id": "reddit_1ow4spq",
-    "source": "reddit",
-    "author": "Rough-Aioli-7829",
-    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
-    "timestamp": "2025-11-13T15:58:33.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -619,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -690,6 +651,32 @@
     }
   },
   {
+    "id": "reddit_1omo14j",
+    "source": "reddit",
+    "author": "HanSkin-reynard",
+    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
+    "timestamp": "2025-11-02T17:56:04.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 8,
+      "num_comments": 9,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_301",
     "source": "github",
     "author": "nusquama",
@@ -700,6 +687,19 @@
       "type": "issue",
       "labels": [],
       "number": 301
+    }
+  },
+  {
+    "id": "reddit_1om3tvt",
+    "source": "reddit",
+    "author": "StrixGGUY",
+    "content": "Good work guys, just keep doing it!\n\nhttps://preview.redd.it/9n6ma7a6pqyf1.png?width=1637&amp;format=png&amp;auto=webp&amp;s=6888d3623cebb5cd9517a6e4c4142b6f29713f33\n\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1om3tvt/good_work_guys_just_keep_doing_it/",
+    "timestamp": "2025-11-02T00:38:45.000Z",
+    "metadata": {
+      "score": 10,
+      "num_comments": 13,
+      "subreddit": "FactoryAi"
     }
   },
   {
