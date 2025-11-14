@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989456110781391007",
+    "source": "twitter",
+    "author": "jc50000000",
+    "content": "@zivdotcat All of them and use @FactoryAI",
+    "url": "https://x.com/jc50000000/status/1989456110781391007",
+    "timestamp": "2025-11-14T22:11:13.000Z",
+    "metadata": {
+      "conversation_id": "1989456110781391007",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989449304621408672",
     "source": "twitter",
     "author": "Danishafzalkhan",
@@ -210,7 +225,7 @@
     "timestamp": "2025-11-14T19:11:40.000Z",
     "metadata": {
       "conversation_id": "1989410925430837614",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -334,21 +349,6 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1989387947809148950",
-    "source": "twitter",
-    "author": "laplacian_demon",
-    "content": "this is actually a goated feature by @FactoryAI https://t.co/LTDy8ZlDzE",
-    "url": "https://x.com/laplacian_demon/status/1989387947809148950",
-    "timestamp": "2025-11-14T17:40:22.000Z",
-    "metadata": {
-      "conversation_id": "1989387947809148950",
-      "likes": 3,
-      "retweets": 1,
-      "replies": 1,
-      "quotes": 0
     }
   },
   {
@@ -635,19 +635,6 @@
       "type": "issue",
       "labels": [],
       "number": 319
-    }
-  },
-  {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
     }
   },
   {
