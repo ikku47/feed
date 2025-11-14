@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989298352748703941",
+    "source": "twitter",
+    "author": "full_stack_life",
+    "content": "@ben_vargas @FactoryAI Neat. Can it access the gpt5 pro model via my pro account (web app) or just regular models excluding gpt5-pro?",
+    "url": "https://x.com/full_stack_life/status/1989298352748703941",
+    "timestamp": "2025-11-14T11:44:21.000Z",
+    "metadata": {
+      "conversation_id": "1989298352748703941",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989294329140334802",
     "source": "twitter",
     "author": "grok",
@@ -173,7 +188,7 @@
     "timestamp": "2025-11-14T10:33:33.000Z",
     "metadata": {
       "conversation_id": "1989280537438224649",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989272011626184721",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "@SvenMeyer @OpenAI @FactoryAI interesting will try and compare it definitely",
-    "url": "https://x.com/CloudTrader4/status/1989272011626184721",
-    "timestamp": "2025-11-14T09:59:41.000Z",
-    "metadata": {
-      "conversation_id": "1989272011626184721",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owpdgs",
     "source": "reddit",
     "author": "Informal-Spinach-345",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -580,7 +580,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
@@ -658,8 +658,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
     "timestamp": "2025-11-02T17:56:04.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1omlc3f",
+    "source": "reddit",
+    "author": "IslandOceanWater",
+    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
+    "timestamp": "2025-11-02T16:11:56.000Z",
+    "metadata": {
+      "score": 9,
+      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
