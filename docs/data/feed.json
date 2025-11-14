@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989336030080844226",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@smithstephen @FactoryAI they dont roll over im afraid",
+    "url": "https://x.com/bentossell/status/1989336030080844226",
+    "timestamp": "2025-11-14T14:14:04.000Z",
+    "metadata": {
+      "conversation_id": "1989336030080844226",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989334696602312801",
+    "source": "twitter",
+    "author": "smithstephen",
+    "content": "@FactoryAI - I've got two more days left in my free trial and i've already set up billing for pro mode.  I've got a ton of tokens left in there.  Do they rollover (e.g. - does the $20/pro mode add 20M tokens to what I already have)? Or will they all disappear and I start with 20M fresh (hope not!) Thanks! @bentossell",
+    "url": "https://x.com/smithstephen/status/1989334696602312801",
+    "timestamp": "2025-11-14T14:08:46.000Z",
+    "metadata": {
+      "conversation_id": "1989334696602312801",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989331866202329450",
     "source": "twitter",
     "author": "codewithimanshu",
@@ -283,36 +313,6 @@
     }
   },
   {
-    "id": "twitter_1989280916850856126",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@AntonioJASmith @FactoryAI i haven't tried yet but you could maybe set up a memories folder in .factory/ and use hooks to save memories there\n\nbut yes, noted :)",
-    "url": "https://x.com/bentossell/status/1989280916850856126",
-    "timestamp": "2025-11-14T10:35:04.000Z",
-    "metadata": {
-      "conversation_id": "1989280916850856126",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989280904783749537",
-    "source": "twitter",
-    "author": "martin_ict_algo",
-    "content": "@ben_vargas @FactoryAI Why not just use factory models",
-    "url": "https://x.com/martin_ict_algo/status/1989280904783749537",
-    "timestamp": "2025-11-14T10:35:01.000Z",
-    "metadata": {
-      "conversation_id": "1989280904783749537",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1owpdgs",
     "source": "reddit",
     "author": "Informal-Spinach-345",
@@ -333,7 +333,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -593,8 +593,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 5,
+      "score": 6,
       "num_comments": 15,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oomptx",
+    "source": "reddit",
+    "author": "samplifyk",
+    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
+    "timestamp": "2025-11-04T23:17:50.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 2,
       "subreddit": "FactoryAi"
     }
   },
@@ -635,32 +648,6 @@
       "type": "issue",
       "labels": [],
       "number": 308
-    }
-  },
-  {
-    "id": "reddit_1oneja7",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
-    "timestamp": "2025-11-03T15:20:27.000Z",
-    "metadata": {
-      "score": 2,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omo14j",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
-    "timestamp": "2025-11-02T17:56:04.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
