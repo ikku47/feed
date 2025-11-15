@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989566330685866012",
+    "source": "twitter",
+    "author": "yzx396",
+    "content": "@FactoryAI I want to give Droid a try but the built-in GLM 4.6 doesn’t work at all for free tier user. The error is 403 no content. 😢",
+    "url": "https://x.com/yzx396/status/1989566330685866012",
+    "timestamp": "2025-11-15T05:29:12.000Z",
+    "metadata": {
+      "conversation_id": "1989566330685866012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989562209702162803",
     "source": "twitter",
     "author": "theodorvaryag",
@@ -285,21 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989509702976495822",
-    "source": "twitter",
-    "author": "Alberto8793",
-    "content": "Hope this doesn’t come up during agent reviews…. @bentossell @FactoryAI https://t.co/luQSmfpEGX",
-    "url": "https://x.com/Alberto8793/status/1989509702976495822",
-    "timestamp": "2025-11-15T01:44:11.000Z",
-    "metadata": {
-      "conversation_id": "1989509702976495822",
-      "likes": 8,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1ox98ue",
     "source": "reddit",
     "author": "bentossell",
@@ -307,7 +307,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 5,
+      "score": 4,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -385,7 +385,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -440,19 +440,6 @@
       "type": "issue",
       "labels": [],
       "number": 345
-    }
-  },
-  {
-    "id": "reddit_1ovbn7q",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Anyone having issues with the Bridge?\n\nLast few days bridge has been disconnecting frequently. then it started crashing after opening. Restarting cpu didn't help so I deleted the bridge, downloaded it again, restarted my computer, and now it's no longer crashing, but won't reconnect to any old or new sessions. Anyone else having this issue? ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ovbn7q/anyone_having_issues_with_the_bridge/",
-    "timestamp": "2025-11-12T17:34:16.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
     }
   },
   {
@@ -635,6 +622,19 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 4,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
     }
   },
   {
