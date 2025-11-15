@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1989834954013134896",
+    "source": "twitter",
+    "author": "nathanpareo",
+    "content": "@FactoryAI droid changelog from yesterday. Visit https://t.co/DvpcVE5Njv for changelogs from leading Vibe coding tools. https://t.co/kQJn4rDg5p",
+    "url": "https://x.com/nathanpareo/status/1989834954013134896",
+    "timestamp": "2025-11-15T23:16:37.000Z",
+    "metadata": {
+      "conversation_id": "1989834954013134896",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989833934079770965",
+    "source": "twitter",
+    "author": "C72Al",
+    "content": "That’s very interesting. I spent hours developing parent > children Claude rules for the main projects folder and its sub project folders so Sites > project 1 etc\n\nYet these needed careful control to prevent that child rules being ignored or superseded by Claude updating the local Claude rules. \n\nThen the doc management took up so much context that to build ongoing changelog and project_plan me files meant that I was seeing compacting far more frequently and therefore lost context and more mistakes.\n\nDroid ‘seems’ to handle the compaction far more intelligently and retains more knowledge.\n\nLastly Droid seems to handle complex cases - for example using multiple APIs and different processes based on api response more intelligently- which is the real magic.\n\nHowever you did this my estimate is that my efficiency is up 30% and output quality in both code and correct ‘one time’ output is up 60%+\n\nSo… congrats 🙌",
+    "url": "https://x.com/C72Al/status/1989833934079770965",
+    "timestamp": "2025-11-15T23:12:33.000Z",
+    "metadata": {
+      "conversation_id": "1989833934079770965",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989833037933314057",
+    "source": "twitter",
+    "author": "nest_elf",
+    "content": "@roywmraz @code just use @augmentcode next line predictions in vs code. for agent work use in vs code terminal @FactoryAI",
+    "url": "https://x.com/nest_elf/status/1989833037933314057",
+    "timestamp": "2025-11-15T23:09:00.000Z",
+    "metadata": {
+      "conversation_id": "1989833037933314057",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989829146437185880",
     "source": "twitter",
     "author": "NathanLands",
@@ -275,51 +320,6 @@
     "metadata": {
       "conversation_id": "1989779818582310994",
       "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989779083765387330",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@constantin_e21 @FactoryAI coming soon",
-    "url": "https://x.com/bentossell/status/1989779083765387330",
-    "timestamp": "2025-11-15T19:34:36.000Z",
-    "metadata": {
-      "conversation_id": "1989779083765387330",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989778892639687094",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@brooksjordan @FactoryAI 👀",
-    "url": "https://x.com/bentossell/status/1989778892639687094",
-    "timestamp": "2025-11-15T19:33:50.000Z",
-    "metadata": {
-      "conversation_id": "1989778892639687094",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989778846162264206",
-    "source": "twitter",
-    "author": "bentossell",
-    "content": "@OlivierDDR @FactoryAI sorry yeah hit a few of these today, teams fixing!",
-    "url": "https://x.com/bentossell/status/1989778846162264206",
-    "timestamp": "2025-11-15T19:33:39.000Z",
-    "metadata": {
-      "conversation_id": "1989778846162264206",
-      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
