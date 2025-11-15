@@ -1,5 +1,31 @@
 [
   {
+    "id": "github_issue_372",
+    "source": "github",
+    "author": "presidentoor",
+    "content": "[Issue] Done Shield Disablement\n\nWhen unchecking the Drone Shield button and clicking save, the system responds with an error that it fails to disable the drone shield.",
+    "url": "https://github.com/Factory-AI/factory/issues/372",
+    "timestamp": "2025-11-15T21:48:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 372
+    }
+  },
+  {
+    "id": "github_issue_371",
+    "source": "github",
+    "author": "presidentoor",
+    "content": "[Issue] Support Button Doesn't Work\n\nWhen logged in at app.factory.ai the drop down on the right with the support link, doesn't do anything.",
+    "url": "https://github.com/Factory-AI/factory/issues/371",
+    "timestamp": "2025-11-15T21:47:24Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 371
+    }
+  },
+  {
     "id": "twitter_1989810610742464818",
     "source": "twitter",
     "author": "ChrisVanDerKlau",
@@ -677,19 +703,6 @@
     }
   },
   {
-    "id": "github_issue_314",
-    "source": "github",
-    "author": "lifeisnphard",
-    "content": "[Issue] File selector '@' not working in iTerm2\n\n## Environment\n- **OS**: macOS (darwin 25.0.0)\n- **Terminal**: iTerm2\n- **Factory CLI**: (version needs verification)\n- **Date**: 2025-11-04\n\n## Issue Description\nThe file selector feature triggered by the `@` symbol is not working in iTerm2. This functionality works correctly in Warp terminal but fails to appear in iTerm2.\n\n## Expected Behavior\nWhen typing `@` in the Factory Droid CLI interface, a file selector/picker UI should appear to allow interactive file selection, similar to the behavior",
-    "url": "https://github.com/Factory-AI/factory/issues/314",
-    "timestamp": "2025-11-04T19:12:02Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 314
-    }
-  },
-  {
     "id": "github_discussion_309",
     "source": "github",
     "author": "msneijders",
@@ -700,19 +713,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
-    }
-  },
-  {
-    "id": "github_issue_308",
-    "source": "github",
-    "author": "Evan-Kim2028",
-    "content": "[Issue] MCP servers configured globally aren’t exposed inside custom droid sessions (tools work in main interface, fail inside droid)\n\n## Summary\nMCP servers (dbt-mcp, igloo-mcp, github-mcp) are configured globally and work in the main interface, but their tools are not available when running inside a custom droid session. As a result, dbt/igloo/github MCP tool calls succeed outside the droid but fail inside the droid with messages indicating no MCP interface/tools.\n\n## Environment\n- OS: macOS 14.6 (24.6.0)\n- Shell: droid CLI (interactive)\n- Custom droid: `dbt_quality_droid` (personal droid)\n- MCP: servers registered globally (",
-    "url": "https://github.com/Factory-AI/factory/issues/308",
-    "timestamp": "2025-11-03T20:08:35Z",
-    "metadata": {
-      "type": "issue",
-      "labels": [],
-      "number": 308
     }
   },
   {
