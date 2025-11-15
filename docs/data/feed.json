@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989800547969650837",
+    "source": "twitter",
+    "author": "robert_heimir",
+    "content": "@hatchprop @FactoryAI Right there with ya - for 200 it takes effort to even hit the cap",
+    "url": "https://x.com/robert_heimir/status/1989800547969650837",
+    "timestamp": "2025-11-15T20:59:53.000Z",
+    "metadata": {
+      "conversation_id": "1989800547969650837",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989799575230845050",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@Mohanad423461 @FactoryAI nope, it works surprisingly well... I didn't think Droid would work as well as it does with this approach - I was honestly surprised because I haven't had the same success with opencode + proxy.",
+    "url": "https://x.com/ben_vargas/status/1989799575230845050",
+    "timestamp": "2025-11-15T20:56:02.000Z",
+    "metadata": {
+      "conversation_id": "1989799575230845050",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989797011093430730",
     "source": "twitter",
     "author": "dedxyz",
@@ -25,7 +55,7 @@
       "conversation_id": "1989796273768272206",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -203,9 +233,9 @@
     "timestamp": "2025-11-15T18:53:03.000Z",
     "metadata": {
       "conversation_id": "1989768625369313517",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -266,36 +296,6 @@
       "likes": 0,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989757634350911871",
-    "source": "twitter",
-    "author": "OlivierDDR",
-    "content": "@FactoryAI relogging in browser fixed it (and then relogging in cli)",
-    "url": "https://x.com/OlivierDDR/status/1989757634350911871",
-    "timestamp": "2025-11-15T18:09:22.000Z",
-    "metadata": {
-      "conversation_id": "1989757634350911871",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989755126454882534",
-    "source": "twitter",
-    "author": "OlivierDDR",
-    "content": "@FactoryAI  \n&gt;  Error: 403 {\"detail\":\"User not affiliated with an org.\",\"status\":403,\"title\":\"Forbidden\",\"requestId\":\"fra1::c9fdd-1763229434755-4031bdd0d173\"}\n\n- I reinstalled (cleaned all files too)\n- logged in with a user that has an active plan and is connected to an org",
-    "url": "https://x.com/OlivierDDR/status/1989755126454882534",
-    "timestamp": "2025-11-15T17:59:24.000Z",
-    "metadata": {
-      "conversation_id": "1989755126454882534",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
       "quotes": 0
     }
   },
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
