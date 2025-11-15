@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989555466494673127",
+    "source": "twitter",
+    "author": "contxtkng",
+    "content": "@FactoryAI I am so curious to know how many users this has. @matanSF will you spill the beans for us a few months in or so?",
+    "url": "https://x.com/contxtkng/status/1989555466494673127",
+    "timestamp": "2025-11-15T04:46:02.000Z",
+    "metadata": {
+      "conversation_id": "1989555466494673127",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989540981272711387",
     "source": "twitter",
     "author": "ivanfioravanti",
@@ -68,7 +83,7 @@
     "timestamp": "2025-11-15T03:31:07.000Z",
     "metadata": {
       "conversation_id": "1989536616562704400",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 2,
       "quotes": 0
@@ -279,21 +294,6 @@
     "metadata": {
       "conversation_id": "1989505262391361707",
       "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989502705497264357",
-    "source": "twitter",
-    "author": "Sm0ken42O",
-    "content": "@tsi_org @FactoryAI @explorersofai 👀",
-    "url": "https://x.com/Sm0ken42O/status/1989502705497264357",
-    "timestamp": "2025-11-15T01:16:22.000Z",
-    "metadata": {
-      "conversation_id": "1989502705497264357",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -645,7 +645,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
     "timestamp": "2025-11-05T15:57:27.000Z",
     "metadata": {
-      "score": 4,
+      "score": 5,
       "num_comments": 15,
       "subreddit": "FactoryAi"
     }
