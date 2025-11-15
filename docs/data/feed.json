@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989624883668816061",
+    "source": "twitter",
+    "author": "DavidBennett__",
+    "content": "@NathanLands @OpenAICodexCli @cursor_ai @FactoryAI Ok I’m excited.\n\nAny advice on where to start?\n\nCLI?\nCursor extension?\nWebsite?",
+    "url": "https://x.com/DavidBennett__/status/1989624883668816061",
+    "timestamp": "2025-11-15T09:21:52.000Z",
+    "metadata": {
+      "conversation_id": "1989624883668816061",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989624244037456121",
+    "source": "twitter",
+    "author": "aspelund",
+    "content": "@melodykoh @AnthropicAI @FactoryAI I have the same experience of CC. Ans it gets especially useful when it looks at logs and can read the dev db directly. Sure, the efficiency varies between 10-100x faster, and you throw away 10% just because you realize that you went in the wrong direction. But its crazy!",
+    "url": "https://x.com/aspelund/status/1989624244037456121",
+    "timestamp": "2025-11-15T09:19:19.000Z",
+    "metadata": {
+      "conversation_id": "1989624244037456121",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989620011154248062",
     "source": "twitter",
     "author": "5aikat",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989604017891414300",
-    "source": "twitter",
-    "author": "traskjd",
-    "content": "@curiouslychase @AmpCode @FactoryAI @Cursor I’d agree if this was late 2023, a year in.\n\nBut end of 2025? No way.",
-    "url": "https://x.com/traskjd/status/1989604017891414300",
-    "timestamp": "2025-11-15T07:58:57.000Z",
-    "metadata": {
-      "conversation_id": "1989604017891414300",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989603706149777905",
-    "source": "twitter",
-    "author": "AdhamAlkhaja",
-    "content": "I just told claude code to find the source of the bug and dig deep to know exactly what to fix... it tooks 12 minutes.\n\n@FactoryAI took 3 mins (including spec creation time)... how come?\n\nEither its super efficient or skipping everything else.",
-    "url": "https://x.com/AdhamAlkhaja/status/1989603706149777905",
-    "timestamp": "2025-11-15T07:57:43.000Z",
-    "metadata": {
-      "conversation_id": "1989603706149777905",
-      "likes": 6,
-      "retweets": 2,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -320,7 +320,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 5,
       "num_comments": 5,
       "subreddit": "FactoryAi"
     }
