@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989729465665257564",
+    "source": "twitter",
+    "author": "doesdatmaksense",
+    "content": "@manthanguptaa @FactoryAI you definitely contributed to the tweet, par doh din mei mujhe 4-5 log mile😂",
+    "url": "https://x.com/doesdatmaksense/status/1989729465665257564",
+    "timestamp": "2025-11-15T16:17:26.000Z",
+    "metadata": {
+      "conversation_id": "1989729465665257564",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989729221229646131",
+    "source": "twitter",
+    "author": "manthanguptaa",
+    "content": "@doesdatmaksense @FactoryAI Aisa subtweet after our call",
+    "url": "https://x.com/manthanguptaa/status/1989729221229646131",
+    "timestamp": "2025-11-15T16:16:28.000Z",
+    "metadata": {
+      "conversation_id": "1989729221229646131",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989726265410977878",
     "source": "twitter",
     "author": "melodykoh",
@@ -233,7 +263,7 @@
       "conversation_id": "1989707640532767031",
       "likes": 5,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -296,36 +326,6 @@
     }
   },
   {
-    "id": "twitter_1989695709378220441",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "@QuinnyPig droid from @FactoryAI also deserves a mention",
-    "url": "https://x.com/MickeyShaughnes/status/1989695709378220441",
-    "timestamp": "2025-11-15T14:03:18.000Z",
-    "metadata": {
-      "conversation_id": "1989695709378220441",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989695381702402373",
-    "source": "twitter",
-    "author": "MickeyShaughnes",
-    "content": "@bentossell @IceSolst @FactoryAI ooooooo",
-    "url": "https://x.com/MickeyShaughnes/status/1989695381702402373",
-    "timestamp": "2025-11-15T14:02:00.000Z",
-    "metadata": {
-      "conversation_id": "1989695381702402373",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_issue_366",
     "source": "github",
     "author": "nikolas-sturm",
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 5,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
