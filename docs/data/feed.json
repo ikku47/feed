@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1989599862279528529",
+    "source": "twitter",
+    "author": "NZT2048",
+    "content": "@bentossell @Context7AI @FactoryAI Nice setup. Curious how the hooks are working out with Context7AI so far?",
+    "url": "https://x.com/NZT2048/status/1989599862279528529",
+    "timestamp": "2025-11-15T07:42:26.000Z",
+    "metadata": {
+      "conversation_id": "1989599862279528529",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1989598259589820536",
+    "source": "twitter",
+    "author": "philliphaydon",
+    "content": "@traskjd @curiouslychase @AmpCode @FactoryAI @Cursor We need a CTO… 🙋🏼‍♂️",
+    "url": "https://x.com/philliphaydon/status/1989598259589820536",
+    "timestamp": "2025-11-15T07:36:04.000Z",
+    "metadata": {
+      "conversation_id": "1989598259589820536",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989596939147776297",
     "source": "twitter",
     "author": "ben_vargas",
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1989579699199382010",
-    "source": "twitter",
-    "author": "curiouslychase",
-    "content": "@DanielW_Kiwi @AmpCode @FactoryAI @Cursor Totally. I think codex, copilot and Claude code seem to be more prevalent and easy to get approvals for.",
-    "url": "https://x.com/curiouslychase/status/1989579699199382010",
-    "timestamp": "2025-11-15T06:22:19.000Z",
-    "metadata": {
-      "conversation_id": "1989579699199382010",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1989578218798473437",
-    "source": "twitter",
-    "author": "JoshGwapoJo_",
-    "content": "@FactoryAI Token wars heating up, huh? Curious if the new plans will push real benchmarks or just more hype.",
-    "url": "https://x.com/JoshGwapoJo_/status/1989578218798473437",
-    "timestamp": "2025-11-15T06:16:26.000Z",
-    "metadata": {
-      "conversation_id": "1989578218798473437",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oxk7bb",
     "source": "reddit",
     "author": "EggNo4904",
@@ -398,7 +398,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
