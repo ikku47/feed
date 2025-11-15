@@ -173,7 +173,7 @@
     "timestamp": "2025-11-15T18:53:03.000Z",
     "metadata": {
       "conversation_id": "1989768625369313517",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -188,7 +188,7 @@
     "timestamp": "2025-11-15T18:35:54.000Z",
     "metadata": {
       "conversation_id": "1989764313037647906",
-      "likes": 2,
+      "likes": 3,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -359,7 +359,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 7,
       "subreddit": "FactoryAi"
     }
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
