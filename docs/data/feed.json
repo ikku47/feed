@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1989776189074846037",
+    "source": "twitter",
+    "author": "ChrisVanDerKlau",
+    "content": "@hatchprop @FactoryAI Proof. What model",
+    "url": "https://x.com/ChrisVanDerKlau/status/1989776189074846037",
+    "timestamp": "2025-11-15T19:23:06.000Z",
+    "metadata": {
+      "conversation_id": "1989776189074846037",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1989769667791954354",
     "source": "twitter",
     "author": "DimitriosMitsos",
@@ -25,7 +40,7 @@
       "conversation_id": "1989768625369313517",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -281,21 +296,6 @@
       "likes": 2,
       "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1989722671362220430",
-    "source": "twitter",
-    "author": "alemart87",
-    "content": "@melodykoh @AnthropicAI @FactoryAI I use the VS Code IDE and the terminal to run Claude Code. You can also install the Claude Code plugin in VS Code.",
-    "url": "https://x.com/alemart87/status/1989722671362220430",
-    "timestamp": "2025-11-15T15:50:26.000Z",
-    "metadata": {
-      "conversation_id": "1989722671362220430",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
