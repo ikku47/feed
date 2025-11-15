@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1oxk7bb",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "Anybody else getting the pretty-print? vercel security etc. dk why it wont accept my card.\n\nThumbnail: self\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oxk7bb/anybody_else_getting_the_prettyprint_vercel/",
+    "timestamp": "2025-11-15T06:07:46.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1989568847150813633",
     "source": "twitter",
     "author": "DanielW_Kiwi",
@@ -596,19 +609,6 @@
       "type": "issue",
       "labels": [],
       "number": 325
-    }
-  },
-  {
-    "id": "reddit_1or5cow",
-    "source": "reddit",
-    "author": "Durst123",
-    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
-    "timestamp": "2025-11-07T20:29:10.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 6,
-      "subreddit": "FactoryAi"
     }
   },
   {
