@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990139678201458694",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@immoinulmoin @FactoryAI And my config.yaml - https://t.co/ujYH5CAk76",
+    "url": "https://x.com/ben_vargas/status/1990139678201458694",
+    "timestamp": "2025-11-16T19:27:28.000Z",
+    "metadata": {
+      "conversation_id": "1990139678201458694",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990138993149915473",
+    "source": "twitter",
+    "author": "ben_vargas",
+    "content": "@immoinulmoin @FactoryAI https://t.co/Mg8JO7WxMh",
+    "url": "https://x.com/ben_vargas/status/1990138993149915473",
+    "timestamp": "2025-11-16T19:24:45.000Z",
+    "metadata": {
+      "conversation_id": "1990138993149915473",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990137250299117751",
     "source": "twitter",
     "author": "ben_vargas",
@@ -190,7 +220,7 @@
       "conversation_id": "1990037903922376796",
       "likes": 0,
       "retweets": 0,
-      "replies": 1,
+      "replies": 2,
       "quotes": 0
     }
   },
@@ -264,36 +294,6 @@
     "metadata": {
       "conversation_id": "1990012906013118904",
       "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990006460776894670",
-    "source": "twitter",
-    "author": "CloudTrader4",
-    "content": "GM\n\nTesting skills with @FactoryAI droid.\n\nP.S.: The /skills command is not triggering anything.\nI updated it, reopened the terminal, etc.). However, pointing to the location of the skill document makes the model find and list it as \"Available Skills.\" https://t.co/W6jYwbRtCO",
-    "url": "https://x.com/CloudTrader4/status/1990006460776894670",
-    "timestamp": "2025-11-16T10:38:07.000Z",
-    "metadata": {
-      "conversation_id": "1990006460776894670",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990000997759123593",
-    "source": "twitter",
-    "author": "Mind9Excel",
-    "content": "don't listen to all the shillers.\n\n@cursor_ai 2.0 is great in theory but isn't quite there yet. the ideas for the tooling is GREAT but inconsistent.\n\n@FactoryAI is still the GOAT for now.\n\nEager to try gemini 3.\n\nAlso don't use chatgpt... \n\nsonnet4.5 exclusively.",
-    "url": "https://x.com/Mind9Excel/status/1990000997759123593",
-    "timestamp": "2025-11-16T10:16:24.000Z",
-    "metadata": {
-      "conversation_id": "1990000997759123593",
-      "likes": 0,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -404,15 +404,28 @@
     }
   },
   {
-    "id": "reddit_1owpdgs",
+    "id": "reddit_1ox6p07",
     "source": "reddit",
-    "author": "Informal-Spinach-345",
-    "content": "Todo list with minimax m2\n\nAny one else have issues with Minimax M2 on vllm not being able to properly use the todo list? \n\n  \nThis is what the output looks like, it eventually moves on but I never see a todo list:\n\n   Let me create a comprehensive todo list that captures all the remaining work.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;I need to fix the todo format - the todos parameter should be an array, not an object.\n\n   &lt;/think&gt;\n\n\n\n\n\n\n\n\n\n⛬  &lt;think&gt;Let me check the todo structure more carefully. Looking",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1owpdgs/todo_list_with_minimax_m2/",
-    "timestamp": "2025-11-14T06:41:19.000Z",
+    "author": "ShipSpecialist6727",
+    "content": "Being charge for all limit overage while having credit balance\n\nhttps://preview.redd.it/apq9eqc22a1g1.png?width=713&amp;format=png&amp;auto=webp&amp;s=b55698314d83f7e933e7c750576ab10285a54f3a\n\nhttps://preview.redd.it/c4n0ms032a1g1.png?width=1088&amp;format=png&amp;auto=webp&amp;s=4c124b65440a28c118b9d8a714f0da7618eaf4aa\n\nhttps://preview.redd.it/h2scb4072a1g1.png?width=1226&amp;format=png&amp;auto=webp&amp;s=7fbc4d224122903a737d9f9b4ed0c2092e03ce72\n\n  \nI'm being charge for 40$ limit overage while having my credit balance from my referral .  \nThe support is to",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox6p07/being_charge_for_all_limit_overage_while_having/",
+    "timestamp": "2025-11-14T19:54:09.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 2,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1owv5gf",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "how to set up custom models with Groq in &lt;1 min\n\nhttps://reddit.com/link/1owv5gf/video/vfpxccohu71g1/player\n\nvideo above  \ndocs: [https://docs.factory.ai/cli/byok/groq](https://docs.factory.ai/cli/byok/groq)",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1owv5gf/how_to_set_up_custom_models_with_groq_in_1_min/",
+    "timestamp": "2025-11-14T12:27:05.000Z",
     "metadata": {
       "score": 1,
-      "num_comments": 6,
+      "num_comments": 0,
       "subreddit": "FactoryAi"
     }
   },
@@ -424,8 +437,21 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow4spq",
+    "source": "reddit",
+    "author": "Rough-Aioli-7829",
+    "content": "Why I can't register my email?\n\nImages:\n\thttps://preview.redd.it/rgbm3fcdr11g1.png?auto=webp&amp;s=b0a9871d3d6836057ca15067a94c8a71463ae5ca\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow4spq/why_i_cant_register_my_email/",
+    "timestamp": "2025-11-13T15:58:33.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
       "subreddit": "FactoryAi"
     }
   },
@@ -573,19 +599,6 @@
     }
   },
   {
-    "id": "reddit_1osf7sj",
-    "source": "reddit",
-    "author": "LittleChallenge8717",
-    "content": "Custom Droid | Web search Task failed\n\nWeb search and calling custom droid feature in Droid not working, I use claude code inside droid (with CLIProxyAPI),\n\n(Neither works on openrouter models)\n\n\"\n\nWEB SEARCH  (\"current bitcoin price BTC USD\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\nWEB SEARCH  (\"ethereum ETH price USD current\")\n\nSearch failed: Error: Error performing web search: Fetch failed\n\n\"\n\n\" TASK  (mermaid-expert: \"Create system architecture diagram\")\n\n⚠ Task failed\n\nTASK  (seo-meta-optimizer: \"Optimi",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1osf7sj/custom_droid_web_search_task_failed/",
-    "timestamp": "2025-11-09T09:35:38.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_issue_329",
     "source": "github",
     "author": "TheSingular",
@@ -625,6 +638,19 @@
     }
   },
   {
+    "id": "reddit_1or5cow",
+    "source": "reddit",
+    "author": "Durst123",
+    "content": "What are the weekly limits in droid CLI?\n\nComparing it to Claude max.\n\nI hit the limits.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1or5cow/what_are_the_weekly_limits_in_droid_cli/",
+    "timestamp": "2025-11-07T20:29:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 6,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_issue_321",
     "source": "github",
     "author": "nilzzzzzz",
@@ -648,6 +674,19 @@
       "type": "issue",
       "labels": [],
       "number": 319
+    }
+  },
+  {
+    "id": "reddit_1op6njm",
+    "source": "reddit",
+    "author": "Sakrilegi0us",
+    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
+    "timestamp": "2025-11-05T15:57:27.000Z",
+    "metadata": {
+      "score": 5,
+      "num_comments": 15,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -686,32 +725,6 @@
     "metadata": {
       "score": 3,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omo14j",
-    "source": "reddit",
-    "author": "HanSkin-reynard",
-    "content": "Please add “Edit Prompt in External Editor” (like Ctrl + G in Claude Code) to Droid CLI\n\nHello guys!\n\nCan you add *“Edit Prompt in External Editor”* feature? That feature in Claude Code is super helpful — it lets you open your current prompt in an external editor (like VS Code, Vim, etc.), make edits comfortably, and then jump back to the CLI.\n\nRight now, writing or editing long prompts in Droid CLI can be a bit frustrating. Once the prompt gets long (especially after line breaks), if I try to move the cursor left with the arrow key to fix a word, the text sometimes overlaps or disa",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omo14j/please_add_edit_prompt_in_external_editor_like/",
-    "timestamp": "2025-11-02T17:56:04.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 3,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1omlc3f",
-    "source": "reddit",
-    "author": "IslandOceanWater",
-    "content": "Is there any plans to add checkpoints. I would use Factory AI 100% of the time if it had restore points.\n\nAre checkpoints going to be added anytime soon. This is the only thing keeping me using Claude Code for most things because i don't want to have to always use git for each change.",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1omlc3f/is_there_any_plans_to_add_checkpoints_i_would_use/",
-    "timestamp": "2025-11-02T16:11:56.000Z",
-    "metadata": {
-      "score": 8,
-      "num_comments": 9,
       "subreddit": "FactoryAi"
     }
   },
