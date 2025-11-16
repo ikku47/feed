@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1990152118741967212",
+    "source": "twitter",
+    "author": "a2a_2030",
+    "content": "@AdhamAlkhaja @FactoryAI ampcode",
+    "url": "https://x.com/a2a_2030/status/1990152118741967212",
+    "timestamp": "2025-11-16T20:16:55.000Z",
+    "metadata": {
+      "conversation_id": "1990152118741967212",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990150840133554547",
+    "source": "twitter",
+    "author": "hatchprop",
+    "content": "@TSpencer260 @ChrisVanDerKlau @FactoryAI Ccusage",
+    "url": "https://x.com/hatchprop/status/1990150840133554547",
+    "timestamp": "2025-11-16T20:11:50.000Z",
+    "metadata": {
+      "conversation_id": "1990150840133554547",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990150322271191365",
+    "source": "twitter",
+    "author": "codewithimanshu",
+    "content": "@Mattslayga @OpenAIDevs @FactoryAI Arey, Slayga, you're right, it's a bit of a letdown seeing those OpenAI updates, isn't it? Back to the grind then!",
+    "url": "https://x.com/codewithimanshu/status/1990150322271191365",
+    "timestamp": "2025-11-16T20:09:46.000Z",
+    "metadata": {
+      "conversation_id": "1990150322271191365",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990148463472869699",
     "source": "twitter",
     "author": "TSpencer260",
@@ -10,7 +55,7 @@
       "conversation_id": "1990148463472869699",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -23,7 +68,7 @@
     "timestamp": "2025-11-16T20:02:22.000Z",
     "metadata": {
       "conversation_id": "1990148458821615753",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -268,51 +313,6 @@
     }
   },
   {
-    "id": "twitter_1990055215891198357",
-    "source": "twitter",
-    "author": "tinkerersanky",
-    "content": "Best AI config to get the most you need in a month\n\nGPT-5\n@ChatGPTapp - $20 + $40 credits (codex)\n\nCLAUDE\n@claudeai $20\n\nOther Models (composer 1)\n@cursor_ai $20\n@FactoryAI $20\n\nGemini\n@GeminiApp $20\n\nTotal: $140\n\nEnough for most people working on 1-2 SAAS/apps.",
-    "url": "https://x.com/tinkerersanky/status/1990055215891198357",
-    "timestamp": "2025-11-16T13:51:51.000Z",
-    "metadata": {
-      "conversation_id": "1990055215891198357",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990050271167422531",
-    "source": "twitter",
-    "author": "alpes_aux_andes",
-    "content": "@FactoryAI It's impossible to register on droid, Whatever the number, it will give this error https://t.co/ydPoP58tgZ",
-    "url": "https://x.com/alpes_aux_andes/status/1990050271167422531",
-    "timestamp": "2025-11-16T13:32:12.000Z",
-    "metadata": {
-      "conversation_id": "1990050271167422531",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990037903922376796",
-    "source": "twitter",
-    "author": "immoinulmoin",
-    "content": "@ben_vargas @FactoryAI no matter how i try, now getting this, \n\n❯ curl http://localhost:8317/v1/models\n{\"error\":\"Missing API key\"}%\n\nsteps\n\n1. cloned your fork/main repo\n2. config example to config\n3. build it\n4. ran the --codex-login\n5. ran it\n6. ran the curl, and getting this missing key,",
-    "url": "https://x.com/immoinulmoin/status/1990037903922376796",
-    "timestamp": "2025-11-16T12:43:04.000Z",
-    "metadata": {
-      "conversation_id": "1990037903922376796",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 2,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oydnzt",
     "source": "reddit",
     "author": "EggNo4904",
@@ -489,7 +489,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 8,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
