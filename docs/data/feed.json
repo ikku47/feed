@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990389918376292665",
+    "source": "twitter",
+    "author": "decruz",
+    "content": "@steipete @FactoryAI This app should have a seed round",
+    "url": "https://x.com/decruz/status/1990389918376292665",
+    "timestamp": "2025-11-17T12:01:50.000Z",
+    "metadata": {
+      "conversation_id": "1990389918376292665",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990385905396330974",
     "source": "twitter",
     "author": "nilag_dev",
@@ -250,7 +265,7 @@
       "conversation_id": "1990313057827090874",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
+      "replies": 0,
       "quotes": 0
     }
   },
@@ -278,21 +293,6 @@
     "timestamp": "2025-11-17T06:30:17.000Z",
     "metadata": {
       "conversation_id": "1990306478629208346",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990299732921704628",
-    "source": "twitter",
-    "author": "codewithimanshu",
-    "content": "@CloudTrader4 @FactoryAI Ah, Cloud, sounds like the droid's a bit of a drama queen, no? Maybe the skill command needs a proper restart, you know?",
-    "url": "https://x.com/codewithimanshu/status/1990299732921704628",
-    "timestamp": "2025-11-17T06:03:28.000Z",
-    "metadata": {
-      "conversation_id": "1990299732921704628",
       "likes": 0,
       "retweets": 0,
       "replies": 0,
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
