@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990324689840095734",
+    "source": "twitter",
+    "author": "explosivesox",
+    "content": "Dropped the bot. \n\nJust $BETTER. It's cleaner that way. \n\nBuilt with Droid by @FactoryAI \nNear zero latency thanks to @getdomeapi \nPartnered with @openservai \nPowered + co-located with @Polymarket in SF\nAlpha from @hash_dive  \n\nTrader risk scores.\n\n(copy trading beta soon) https://t.co/xBdN66odTA",
+    "url": "https://x.com/explosivesox/status/1990324689840095734",
+    "timestamp": "2025-11-17T07:42:39.000Z",
+    "metadata": {
+      "conversation_id": "1990324689840095734",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990313057827090874",
     "source": "twitter",
     "author": "michael_chomsky",
@@ -311,21 +326,6 @@
     }
   },
   {
-    "id": "twitter_1990152118741967212",
-    "source": "twitter",
-    "author": "a2a_2030",
-    "content": "@AdhamAlkhaja @FactoryAI ampcode",
-    "url": "https://x.com/a2a_2030/status/1990152118741967212",
-    "timestamp": "2025-11-16T20:16:55.000Z",
-    "metadata": {
-      "conversation_id": "1990152118741967212",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
     "id": "reddit_1oys5f5",
     "source": "reddit",
     "author": "SensitiveUpstairs803",
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
