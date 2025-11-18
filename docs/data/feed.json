@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1990590044042834415",
+    "source": "twitter",
+    "author": "RayFernando1337",
+    "content": "This is from my interview with @luke_alvoeiro from @FactoryAI",
+    "url": "https://x.com/RayFernando1337/status/1990590044042834415",
+    "timestamp": "2025-11-18T01:17:04.000Z",
+    "metadata": {
+      "conversation_id": "1990590044042834415",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990585305800585699",
+    "source": "twitter",
+    "author": "acoolcss03",
+    "content": "@bentossell Can’t live without @FactoryAI on hacks",
+    "url": "https://x.com/acoolcss03/status/1990585305800585699",
+    "timestamp": "2025-11-18T00:58:14.000Z",
+    "metadata": {
+      "conversation_id": "1990585305800585699",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990585140612071715",
+    "source": "twitter",
+    "author": "MullerNavas",
+    "content": "Finished  trial of @FactoryAI 's Droids &amp; I'm genuinely impressed! \n\nI've been showing friends what's possible with it, but now I'm missing access.\n\nWould love to continue exploring what Droids can do. I'm eager to keep building with it.\n@EnoReyes\n \n#AI #Agents #Droids",
+    "url": "https://x.com/MullerNavas/status/1990585140612071715",
+    "timestamp": "2025-11-18T00:57:35.000Z",
+    "metadata": {
+      "conversation_id": "1990585140612071715",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990583460512055336",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "Clients are getting stricter about third-party bots (Firefly/Notion AI/etc now getting blocked… stuck in the waiting room 😤)\n\nSo I finally built the “nothing can stop me” meeting-notes pipeline I always wanted… fully compliant, zero forbidden tools, using @FactoryAI + @warpdotdev\n\nLocal-first path (100% on my machine, no data ever leaves):\n• Drop the recording into a watch folder\n• launchd fires →@NVIDIAAI Parakeet ASR (runs locally …zero impact on machine performance) \n• Transcript ready → Mistral-7B-Instruct extracts every action item + everything I casually committed to when no PM was looking 😂\n\nWhen the client explicitly allows cloud transcription:\n• Same trigger → @MistralAI grabs speaker labels + key topics in seconds\n• Audio + that metadata → @AssemblyAI \n→ diarization and accuracy become really good\n\nAll stitched together with launchd + a few Python lines. I drop the file, go make coffee, come back to perfect todos.\n\nReply/DM if you want the scripts…  just need to polish a few things before I share. I’ll make sure you get notified.",
+    "url": "https://x.com/jcurtis/status/1990583460512055336",
+    "timestamp": "2025-11-18T00:50:54.000Z",
+    "metadata": {
+      "conversation_id": "1990583460512055336",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990580288343413195",
     "source": "twitter",
     "author": "EnoReyes",
@@ -8,7 +68,7 @@
     "timestamp": "2025-11-18T00:38:18.000Z",
     "metadata": {
       "conversation_id": "1990580288343413195",
-      "likes": 0,
+      "likes": 1,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -173,7 +233,7 @@
     "timestamp": "2025-11-17T22:06:15.000Z",
     "metadata": {
       "conversation_id": "1990542024710193409",
-      "likes": 4,
+      "likes": 5,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -188,7 +248,7 @@
     "timestamp": "2025-11-17T21:51:22.000Z",
     "metadata": {
       "conversation_id": "1990538277355729072",
-      "likes": 13,
+      "likes": 15,
       "retweets": 0,
       "replies": 1,
       "quotes": 0
@@ -235,67 +295,7 @@
       "conversation_id": "1990505045037600959",
       "likes": 1,
       "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990496556836139285",
-    "source": "twitter",
-    "author": "ain3sh",
-    "content": "@EnoReyes @CloudTrader4 @FactoryAI Thx!! Yeah that’s what Anthropic does too but I really got sick of telling Claude explicitly to use a skill bc that just goes against my mental model of how an agent should be leveraging skills lol. Did y’all do your progressive disclosure any differently?",
-    "url": "https://x.com/ain3sh/status/1990496556836139285",
-    "timestamp": "2025-11-17T19:05:35.000Z",
-    "metadata": {
-      "conversation_id": "1990496556836139285",
-      "likes": 0,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990495663759753486",
-    "source": "twitter",
-    "author": "EnoReyes",
-    "content": "@ain3sh @CloudTrader4 @FactoryAI Super interesting! it's more of a proactive skill loading situation. Our implementation basically loads the skills available at droid start (as a tool description)",
-    "url": "https://x.com/EnoReyes/status/1990495663759753486",
-    "timestamp": "2025-11-17T19:02:02.000Z",
-    "metadata": {
-      "conversation_id": "1990495663759753486",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990489680358621392",
-    "source": "twitter",
-    "author": "jonnydahorse",
-    "content": "@explosivesox @FactoryAI @getdomeapi @openservai @Polymarket @hash_dive Hope to see more of your work with @openservai  soon?",
-    "url": "https://x.com/jonnydahorse/status/1990489680358621392",
-    "timestamp": "2025-11-17T18:38:15.000Z",
-    "metadata": {
-      "conversation_id": "1990489680358621392",
-      "likes": 1,
-      "retweets": 0,
       "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990489136927814060",
-    "source": "twitter",
-    "author": "explosivesox",
-    "content": "@jonnydahorse @FactoryAI @getdomeapi @openservai @Polymarket @hash_dive Thank you Johny :)\n\nThis is the warm up.",
-    "url": "https://x.com/explosivesox/status/1990489136927814060",
-    "timestamp": "2025-11-17T18:36:06.000Z",
-    "metadata": {
-      "conversation_id": "1990489136927814060",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 1,
       "quotes": 0
     }
   },
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 7,
+      "score": 6,
       "num_comments": 10,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -530,6 +530,19 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1ow0203",
+    "source": "reddit",
+    "author": "vargalas",
+    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
+    "timestamp": "2025-11-13T12:42:42.000Z",
+    "metadata": {
+      "score": 0,
+      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
