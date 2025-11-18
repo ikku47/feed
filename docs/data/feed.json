@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1990904222125080772",
+    "source": "twitter",
+    "author": "imlinosuarez",
+    "content": "Having issues with Droid CLI and Gemini 3.0 Pro. Seems like tools are not being executed correctly and it’s rendering the tool call as text instead. @FactoryAI @EnoReyes",
+    "url": "https://x.com/imlinosuarez/status/1990904222125080772",
+    "timestamp": "2025-11-18T22:05:30.000Z",
+    "metadata": {
+      "conversation_id": "1990904222125080772",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990904111710015820",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "I’ve set up hooks and subagents so far. I have some command-and-control skills, but they’re highly specific to my work.\n\nI did get Claude Speaks working with Droid. It’s not perfect, but it’s incredibly helpful to have my console talk to me while I walk around the office. I need to improve the integration with Droid’s memory and logs so the output is more descriptive but its alive!",
+    "url": "https://x.com/jcurtis/status/1990904111710015820",
+    "timestamp": "2025-11-18T22:05:04.000Z",
+    "metadata": {
+      "conversation_id": "1990904111710015820",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990902680940917032",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@bentossell @FactoryAI I was indeed not ready.",
+    "url": "https://x.com/NickSloggett/status/1990902680940917032",
+    "timestamp": "2025-11-18T21:59:22.000Z",
+    "metadata": {
+      "conversation_id": "1990902680940917032",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990902065149915615",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@jcurtis @GoogleAIStudio @FactoryAI Did you have skills as well",
+    "url": "https://x.com/martin_ict_algo/status/1990902065149915615",
+    "timestamp": "2025-11-18T21:56:56.000Z",
+    "metadata": {
+      "conversation_id": "1990902065149915615",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990901489645039783",
     "source": "twitter",
     "author": "lukacsmedardhq",
