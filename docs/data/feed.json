@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1990901489645039783",
+    "source": "twitter",
+    "author": "lukacsmedardhq",
+    "content": "@FactoryAI I go offline for 3 hours and factory ai is talking in Romanian on Twitter 😂",
+    "url": "https://x.com/lukacsmedardhq/status/1990901489645039783",
+    "timestamp": "2025-11-18T21:54:38.000Z",
+    "metadata": {
+      "conversation_id": "1990901489645039783",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990901189840380316",
+    "source": "twitter",
+    "author": "jcurtis",
+    "content": "@martin_ict_algo @GoogleAIStudio @FactoryAI will report back shortly on this...",
+    "url": "https://x.com/jcurtis/status/1990901189840380316",
+    "timestamp": "2025-11-18T21:53:27.000Z",
+    "metadata": {
+      "conversation_id": "1990901189840380316",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990900590868578794",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "\"Spec - research and plan only\" \n@GeminiApp 🤝 @FactoryAI \n\nCorrectly found the issue, provided a neat and working plan. We might be onto something here. \n\nOutdated code was written with Gemini CLI (pro), somehow @FactoryAI droid Gemini 3.0 Pro found the issue at one shot.\n\nBoth had access to @Context7AI , @FactoryAI did a better job.\n\nWill keep testing and report interesting stuff.",
+    "url": "https://x.com/CloudTrader4/status/1990900590868578794",
+    "timestamp": "2025-11-18T21:51:04.000Z",
+    "metadata": {
+      "conversation_id": "1990900590868578794",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990898525379702922",
     "source": "twitter",
     "author": "buggyDcode",
