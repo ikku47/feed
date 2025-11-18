@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1990684480898527433",
+    "source": "twitter",
+    "author": "tomosman",
+    "content": "@captaink99 @warpdotdev @cursor_ai @FactoryAI both are great",
+    "url": "https://x.com/tomosman/status/1990684480898527433",
+    "timestamp": "2025-11-18T07:32:20.000Z",
+    "metadata": {
+      "conversation_id": "1990684480898527433",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990671815383851458",
     "source": "twitter",
     "author": "captaink99",
@@ -10,7 +25,7 @@
       "conversation_id": "1990671815383851458",
       "likes": 0,
       "retweets": 0,
-      "replies": 0,
+      "replies": 1,
       "quotes": 0
     }
   },
@@ -188,7 +203,7 @@
     "timestamp": "2025-11-18T00:50:54.000Z",
     "metadata": {
       "conversation_id": "1990583460512055336",
-      "likes": 1,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -282,21 +297,6 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 1
-    }
-  },
-  {
-    "id": "twitter_1990564746324828478",
-    "source": "twitter",
-    "author": "Mattslayga",
-    "content": "@bentossell Probably just the @FactoryAI devs tbh",
-    "url": "https://x.com/Mattslayga/status/1990564746324828478",
-    "timestamp": "2025-11-17T23:36:33.000Z",
-    "metadata": {
-      "conversation_id": "1990564746324828478",
-      "likes": 2,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
     }
   },
   {
@@ -437,7 +437,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
     "timestamp": "2025-11-14T21:33:18.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 11,
       "subreddit": "FactoryAi"
     }
@@ -515,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 6,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
