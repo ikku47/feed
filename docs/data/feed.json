@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990618990247621117",
+    "source": "twitter",
+    "author": "minheo93698092",
+    "content": "@FactoryAI @matanSF Urgent implementation is needed for Droid.",
+    "url": "https://x.com/minheo93698092/status/1990618990247621117",
+    "timestamp": "2025-11-18T03:12:05.000Z",
+    "metadata": {
+      "conversation_id": "1990618990247621117",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990617356209451229",
+    "source": "twitter",
+    "author": "tokwonomics",
+    "content": "@scaling01 @FactoryAI grok 4.1 droid when",
+    "url": "https://x.com/tokwonomics/status/1990617356209451229",
+    "timestamp": "2025-11-18T03:05:36.000Z",
+    "metadata": {
+      "conversation_id": "1990617356209451229",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990612539710075291",
     "source": "twitter",
     "author": "greptile",
@@ -8,7 +38,7 @@
     "timestamp": "2025-11-18T02:46:27.000Z",
     "metadata": {
       "conversation_id": "1990612539710075291",
-      "likes": 0,
+      "likes": 2,
       "retweets": 0,
       "replies": 0,
       "quotes": 0
@@ -270,36 +300,6 @@
     }
   },
   {
-    "id": "twitter_1990542505767751924",
-    "source": "twitter",
-    "author": "captaink99",
-    "content": "@maishsk Okay this looks good.  @FactoryAI",
-    "url": "https://x.com/captaink99/status/1990542505767751924",
-    "timestamp": "2025-11-17T22:08:10.000Z",
-    "metadata": {
-      "conversation_id": "1990542505767751924",
-      "likes": 1,
-      "retweets": 0,
-      "replies": 0,
-      "quotes": 0
-    }
-  },
-  {
-    "id": "twitter_1990542024710193409",
-    "source": "twitter",
-    "author": "tomosman",
-    "content": "Confident that tools like @warpdotdev, @cursor_ai Agents and @FactoryAI will spawn a huge new cohort of \"developers\".\n\nPeople who wouldn't consider themselves \"coders\" but know how to speak the lingo and build product can now contribute in big way.\n\nSimple example will be to just talk with Warp, pull the repo, create a new branch and chat through a new feature or tweak to a product and commit it.\n\nOr if you're building something new from scratch, all you need to do is talk and it'll build for you.\n\nDictating directly into it with Agent mode and auto-accept it the most fun!\n\nOne tip for using Warp (as it's model agnostic) is to use gpt-5 or 5.1 for planning out what it is you want to build in tons of detail then switch to glm 4.6 to bring the cost way down.\n\nOh and slash commands are great to (or claude skills) for you claude code enjoyers.",
-    "url": "https://x.com/tomosman/status/1990542024710193409",
-    "timestamp": "2025-11-17T22:06:15.000Z",
-    "metadata": {
-      "conversation_id": "1990542024710193409",
-      "likes": 6,
-      "retweets": 0,
-      "replies": 1,
-      "quotes": 0
-    }
-  },
-  {
     "id": "github_discussion_374",
     "source": "github",
     "author": "vibl",
@@ -310,6 +310,45 @@
       "type": "discussion",
       "category": "General",
       "number": 374
+    }
+  },
+  {
+    "id": "reddit_1oz18qh",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "not sure if i am the only one getting this, interestingly enough it had my card details saved tho.\n\nImages:\n\thttps://preview.redd.it/uu8xf048jp1g1.png?auto=webp&amp;s=9574291f2513a281eca97c75667653da65da086d\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oz18qh/not_sure_if_i_am_the_only_one_getting_this/",
+    "timestamp": "2025-11-16T23:56:02.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 3,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oys5f5",
+    "source": "reddit",
+    "author": "SensitiveUpstairs803",
+    "content": "Fix large file parsing crash issue.\n\nIf we have a large file Droid's file view tool will try to parse it and then crash because the file is to large but to solve the crashing you should add something that detects the size of the file then if its too large it will resort to using a powershell command instead of the built in droid file parser tool to parse a few lines of the file to get the format etc based on whatever the question involving the file is. Simple feature simple fix.",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oys5f5/fix_large_file_parsing_crash_issue/",
+    "timestamp": "2025-11-16T17:50:18.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 1,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "reddit_1oydnzt",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "When i put my real number this is what i get ( i moved it out, also the pretty print some vercel blocks heard a lot of droid would love to be able to try it)\n\nImages:\n\thttps://preview.redd.it/huzzfboe3k1g1.png?auto=webp&amp;s=f342b5e1a1ba7e0c301f58a658fd42ac56fe6535\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oydnzt/when_i_put_my_real_number_this_is_what_i_get_i/",
+    "timestamp": "2025-11-16T05:38:43.000Z",
+    "metadata": {
+      "score": 2,
+      "num_comments": 4,
+      "subreddit": "FactoryAi"
     }
   },
   {
@@ -391,6 +430,19 @@
     }
   },
   {
+    "id": "reddit_1ox98ue",
+    "source": "reddit",
+    "author": "bentossell",
+    "content": "Changelog: v0.26.0\n\n**New features**\n\n• Session Favorites: New /favorite command to pin/unpin sessions, keeping your active projects at the top of the session list\n\n• Enhanced Bug Reporting: The /bug command now zips session context, uploads it to Factory, and returns a shareable report ID automatically\n\n• Cleaner Diff Viewer: Improved UI with horizontal lines instead of borders\n\n\n\n**Bug fixes &amp; smaller items**\n\n• Always prompt to accept or reject generated specs and pass the correct labels to the UI flow\n\n• dr",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1ox98ue/changelog_v0260/",
+    "timestamp": "2025-11-14T21:33:18.000Z",
+    "metadata": {
+      "score": 6,
+      "num_comments": 11,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "github_discussion_361",
     "source": "github",
     "author": "aaronschwartz",
@@ -463,7 +515,7 @@
     "url": "https://www.reddit.com/r/FactoryAi/comments/1owbvoj/how_should_we_post_changelogs_here/",
     "timestamp": "2025-11-13T20:22:54.000Z",
     "metadata": {
-      "score": 8,
+      "score": 7,
       "num_comments": 4,
       "subreddit": "FactoryAi"
     }
@@ -478,19 +530,6 @@
     "metadata": {
       "score": 2,
       "num_comments": 1,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1ow0203",
-    "source": "reddit",
-    "author": "vargalas",
-    "content": "It's the worst onboarding experience ever\n\nThe provided cli instruction doesn't work, curl is complaining about self-signed certificate. The support link (after logging in) doesn't work. I tried to contact the sales on the homepage, but you cannot write them, they will contact. if they want. \n\nSo no Droid for me. I cannot see how they get customers. ",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1ow0203/its_the_worst_onboarding_experience_ever/",
-    "timestamp": "2025-11-13T12:42:42.000Z",
-    "metadata": {
-      "score": 0,
-      "num_comments": 3,
       "subreddit": "FactoryAi"
     }
   },
@@ -677,32 +716,6 @@
     }
   },
   {
-    "id": "reddit_1op6njm",
-    "source": "reddit",
-    "author": "Sakrilegi0us",
-    "content": "Droid is failing to compress every time and I have to start a new chat.\n\nI keep getting \"Error: stream ended without producing a Message with role=assistant\" when reach my context window and It fails to compress every time. Im using vibeProxy to use my claude code max subscription and switching model, or service (to codex or GLM) I get \"Error: Failed to compress conversation for model switch\"",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1op6njm/droid_is_failing_to_compress_every_time_and_i/",
-    "timestamp": "2025-11-05T15:57:27.000Z",
-    "metadata": {
-      "score": 5,
-      "num_comments": 15,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
-    "id": "reddit_1oomptx",
-    "source": "reddit",
-    "author": "samplifyk",
-    "content": "Factory agents running locally or cloud triggered by linear tickets\n\nHas anyone managed to achieve this?",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oomptx/factory_agents_running_locally_or_cloud_triggered/",
-    "timestamp": "2025-11-04T23:17:50.000Z",
-    "metadata": {
-      "score": 1,
-      "num_comments": 2,
-      "subreddit": "FactoryAi"
-    }
-  },
-  {
     "id": "github_discussion_309",
     "source": "github",
     "author": "msneijders",
@@ -713,19 +726,6 @@
       "type": "discussion",
       "category": "Feature requests",
       "number": 309
-    }
-  },
-  {
-    "id": "reddit_1oneja7",
-    "source": "reddit",
-    "author": "UrAn8",
-    "content": "Lost referral credits\n\nI made many referrals to Factory. I earned $400 in credits. Randomly it seemed as if I lost access to my paid account and when I reinstated it my credits (except about $100) were gone. Did I miss something about referral max? Feels unfair to lost the $300 after making all those referrals. I was a Factory evangelist!!",
-    "url": "https://www.reddit.com/r/FactoryAi/comments/1oneja7/lost_referral_credits/",
-    "timestamp": "2025-11-03T15:20:27.000Z",
-    "metadata": {
-      "score": 3,
-      "num_comments": 1,
-      "subreddit": "FactoryAi"
     }
   },
   {
