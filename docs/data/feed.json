@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1990877412410716516",
+    "source": "twitter",
+    "author": "Evinst3in",
+    "content": "@FactoryAI let’s go I can’t wait",
+    "url": "https://x.com/Evinst3in/status/1990877412410716516",
+    "timestamp": "2025-11-18T20:18:58.000Z",
+    "metadata": {
+      "conversation_id": "1990877412410716516",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1990875519471047108",
+    "source": "twitter",
+    "author": "MI_Patriotic",
+    "content": "@nathanpareo @FactoryAI Shows that sonnet has a cost issue, as always. They need to be at most 0.6x or in line with the GPT-5.1/Gemini 3 Pro offerings.",
+    "url": "https://x.com/MI_Patriotic/status/1990875519471047108",
+    "timestamp": "2025-11-18T20:11:27.000Z",
+    "metadata": {
+      "conversation_id": "1990875519471047108",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1990871365336072281",
     "source": "twitter",
     "author": "caleyhui",
