@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1991291814062567576",
+    "source": "twitter",
+    "author": "aeitroc",
+    "content": "@benvargas @FactoryAI Remember the first week of codex was a disaster, but after that everything was stable and its coding performance was the best. Hopefully this is the same for Gemini.",
+    "url": "https://x.com/aeitroc/status/1991291814062567576",
+    "timestamp": "2025-11-19T23:45:39.000Z",
+    "metadata": {
+      "conversation_id": "1991291814062567576",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991290556321001875",
+    "source": "twitter",
+    "author": "convex",
+    "content": "@rvm0n_ @vercel @cursor_ai @v0 @shadcn @tembo @elevenlabsio @FactoryAI @nextjs @mintlify @opencode @helixdb @supermemory ❤️",
+    "url": "https://x.com/convex/status/1991290556321001875",
+    "timestamp": "2025-11-19T23:40:39.000Z",
+    "metadata": {
+      "conversation_id": "1991290556321001875",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991286168026062918",
     "source": "twitter",
     "author": "MihailVarich",
