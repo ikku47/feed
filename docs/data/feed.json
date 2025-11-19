@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1991113293306712222",
+    "source": "twitter",
+    "author": "fire",
+    "content": "@FactoryAI @bentossell lol it seems like when you're downgraded to free, you can't swap existing sessions off of Factory provided models because the context compression step prior to handoff uses the currently selected paid model to compress, which fails in an opaque manner https://t.co/TjGYdw1dsI",
+    "url": "https://x.com/fire/status/1991113293306712222",
+    "timestamp": "2025-11-19T11:56:16.000Z",
+    "metadata": {
+      "conversation_id": "1991113293306712222",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991110634940018867",
     "source": "twitter",
     "author": "MohMaya97",
