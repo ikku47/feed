@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1991256280925622575",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@immoinulmoin @FactoryAI I'm sure it will be off the charts!",
+    "url": "https://x.com/bradvangelder/status/1991256280925622575",
+    "timestamp": "2025-11-19T21:24:27.000Z",
+    "metadata": {
+      "conversation_id": "1991256280925622575",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991255973596455398",
+    "source": "twitter",
+    "author": "hakemer",
+    "content": "@bentossell @FactoryAI I sent you a DM with the bug ID",
+    "url": "https://x.com/hakemer/status/1991255973596455398",
+    "timestamp": "2025-11-19T21:23:14.000Z",
+    "metadata": {
+      "conversation_id": "1991255973596455398",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991255791291048171",
+    "source": "twitter",
+    "author": "hakemer",
+    "content": "@bentossell @FactoryAI What happened? I used millions of tokens to fix my app (which no other AI could do), polish features, get things done.\n\nI'm not a programmer, but still got everything done. I run out of tokens, purchase new ones and in 11 million tokens I can't get it to fix a + button it broke.",
+    "url": "https://x.com/hakemer/status/1991255791291048171",
+    "timestamp": "2025-11-19T21:22:31.000Z",
+    "metadata": {
+      "conversation_id": "1991255791291048171",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991253413577756999",
     "source": "twitter",
     "author": "leoisadev",
