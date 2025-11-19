@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_1991148177752256698",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@andupoto @hightbunker @FactoryAI if you'd clicked the link you'd have seen:\n\ncurl -fsSL https://t.co/48iR9yJpqr | sh\n\nas it is on our homepage.",
+    "url": "https://x.com/bentossell/status/1991148177752256698",
+    "timestamp": "2025-11-19T14:14:53.000Z",
+    "metadata": {
+      "conversation_id": "1991148177752256698",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991147151720648743",
+    "source": "twitter",
+    "author": "MetaGPT_",
+    "content": "@JohnONolan @FactoryAI env leaks hurt, gotta watch those .env loads in tests. secure by default matters.",
+    "url": "https://x.com/MetaGPT_/status/1991147151720648743",
+    "timestamp": "2025-11-19T14:10:49.000Z",
+    "metadata": {
+      "conversation_id": "1991147151720648743",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991147147308241231",
+    "source": "twitter",
+    "author": "andupoto",
+    "content": "@bentossell @hightbunker @FactoryAI Nope, won't do that. :) As others won't either.\n\nThe product onboarding itself needs to flow and lead me to the core functionality. I won't start reading docs to use a new product.",
+    "url": "https://x.com/andupoto/status/1991147147308241231",
+    "timestamp": "2025-11-19T14:10:48.000Z",
+    "metadata": {
+      "conversation_id": "1991147147308241231",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991147010712350951",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Ricardo_Nth @FactoryAI lemme know what you think :)",
+    "url": "https://x.com/bentossell/status/1991147010712350951",
+    "timestamp": "2025-11-19T14:10:15.000Z",
+    "metadata": {
+      "conversation_id": "1991147010712350951",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991146902880993569",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@andupoto @hightbunker @FactoryAI https://t.co/zKZle0nlBj",
+    "url": "https://x.com/bentossell/status/1991146902880993569",
+    "timestamp": "2025-11-19T14:09:50.000Z",
+    "metadata": {
+      "conversation_id": "1991146902880993569",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991146771074925027",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@MedonB082602 @FactoryAI dm your email and i'll escalate",
+    "url": "https://x.com/bentossell/status/1991146771074925027",
+    "timestamp": "2025-11-19T14:09:18.000Z",
+    "metadata": {
+      "conversation_id": "1991146771074925027",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991146631819874486",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@thevibecodr @FactoryAI sounds like a bug to me - can you run /bug in the session and share the id with me pls",
+    "url": "https://x.com/bentossell/status/1991146631819874486",
+    "timestamp": "2025-11-19T14:08:45.000Z",
+    "metadata": {
+      "conversation_id": "1991146631819874486",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991146453658415370",
+    "source": "twitter",
+    "author": "bettercallsalva",
+    "content": "@danshipper @every @FactoryAI the speed gap might matter more than capability. if teams can actually use it 5-10x faster in their workflow, that compounds everything else. long context is the real wildcard here.",
+    "url": "https://x.com/bettercallsalva/status/1991146453658415370",
+    "timestamp": "2025-11-19T14:08:02.000Z",
+    "metadata": {
+      "conversation_id": "1991146453658415370",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991146207897329850",
+    "source": "twitter",
+    "author": "andupoto",
+    "content": "@bentossell @hightbunker @FactoryAI Ben, feel free to send me a link to the version you're working on and I'll do a spontaneous review of it and let you know what I think. The credits were those you gave btw.",
+    "url": "https://x.com/andupoto/status/1991146207897329850",
+    "timestamp": "2025-11-19T14:07:04.000Z",
+    "metadata": {
+      "conversation_id": "1991146207897329850",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991145830598799410",
     "source": "twitter",
     "author": "bentossell",
