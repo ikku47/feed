@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1991167657236906359",
+    "source": "twitter",
+    "author": "MedonB082602",
+    "content": "@bentossell @FactoryAI Sent thank u so much pls!",
+    "url": "https://x.com/MedonB082602/status/1991167657236906359",
+    "timestamp": "2025-11-19T15:32:18.000Z",
+    "metadata": {
+      "conversation_id": "1991167657236906359",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991167622407508370",
+    "source": "twitter",
+    "author": "MedonB082602",
+    "content": "@bentossell @FactoryAI Sent!",
+    "url": "https://x.com/MedonB082602/status/1991167622407508370",
+    "timestamp": "2025-11-19T15:32:09.000Z",
+    "metadata": {
+      "conversation_id": "1991167622407508370",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991166788076179792",
+    "source": "twitter",
+    "author": "gilhildebrand",
+    "content": "@marifaceless I recommend @FactoryAI",
+    "url": "https://x.com/gilhildebrand/status/1991166788076179792",
+    "timestamp": "2025-11-19T15:28:51.000Z",
+    "metadata": {
+      "conversation_id": "1991166788076179792",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991165027521622206",
+    "source": "twitter",
+    "author": "rafiulm_",
+    "content": "@bentossell @FactoryAI u guys cooked 🧑‍🍳",
+    "url": "https://x.com/rafiulm_/status/1991165027521622206",
+    "timestamp": "2025-11-19T15:21:51.000Z",
+    "metadata": {
+      "conversation_id": "1991165027521622206",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991164890430537950",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@decruz @FactoryAI INSANE!\n\nI mainly use it for UI heavy tasks, and use it for planning and then let a model like glm-4.6 implement it.",
+    "url": "https://x.com/bradvangelder/status/1991164890430537950",
+    "timestamp": "2025-11-19T15:21:18.000Z",
+    "metadata": {
+      "conversation_id": "1991164890430537950",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991164078312902753",
     "source": "twitter",
     "author": "decruz",
