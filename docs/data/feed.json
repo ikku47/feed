@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1991260528816140733",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@unethicalapps @FactoryAI Mixed.\nYesterday was rough with crashes (the usual launch day chaos), but today was pretty smooth and fast.\n\nThat said, I'm sticking with Droid. The orchestration/error-fixing loop just feels more robust for complex tasks.\n\nDropping a full comparison thread tomorrow.",
+    "url": "https://x.com/makerfounder/status/1991260528816140733",
+    "timestamp": "2025-11-19T21:41:20.000Z",
+    "metadata": {
+      "conversation_id": "1991260528816140733",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991260418371686515",
+    "source": "twitter",
+    "author": "_abilshr",
+    "content": "One prompt with my design engineering agent in @FactoryAI droid https://t.co/2576lbJDYF",
+    "url": "https://x.com/_abilshr/status/1991260418371686515",
+    "timestamp": "2025-11-19T21:40:54.000Z",
+    "metadata": {
+      "conversation_id": "1991260418371686515",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991260356916765075",
+    "source": "twitter",
+    "author": "hakemer",
+    "content": "@bentossell @FactoryAI Thanks man, I appreciate it 🙏",
+    "url": "https://x.com/hakemer/status/1991260356916765075",
+    "timestamp": "2025-11-19T21:40:39.000Z",
+    "metadata": {
+      "conversation_id": "1991260356916765075",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991259449273528719",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@doesdatmaksense @FactoryAI ❤️",
+    "url": "https://x.com/bentossell/status/1991259449273528719",
+    "timestamp": "2025-11-19T21:37:03.000Z",
+    "metadata": {
+      "conversation_id": "1991259449273528719",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991259401190052075",
+    "source": "twitter",
+    "author": "CloudTrader4",
+    "content": "@blc_16 @matanSF all of the best practices that apply for claude code works pretty well with @FactoryAI droid\n\nFor me the biggest difference is, it really understand your input and doesn't execute any AI slop, just focuses where you lead it to",
+    "url": "https://x.com/CloudTrader4/status/1991259401190052075",
+    "timestamp": "2025-11-19T21:36:51.000Z",
+    "metadata": {
+      "conversation_id": "1991259401190052075",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991259091566580034",
     "source": "twitter",
     "author": "bentossell",
