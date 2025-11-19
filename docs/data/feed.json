@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1991079179954336209",
+    "source": "twitter",
+    "author": "mikez93",
+    "content": "Probably a silly question, but I’m still not clear on it: Do you feel like Gemini 3 performs better within the context of Droid versus sonnet 4.5? I’m still not convinced that Gemini 3.0 is better than sonnet 4.5 for my droid specific use case, albeit I’ve only been evaluating it today but Gemini seems like it produces half assed work versus sonnet 4.5 within the context of Droid. \n\nI hope I’m wrong, but I’m not blown away by any stretch. I’m actually just scratching my head wondering what the fuck, why is this thing only giving me halfway thought out results and leaving massive gaps? It’s not that what it’s outputting is wrong but it’s just leaving a shit load of code/thought process that should be there out of what it’s generating. \n\nLike I said, I hope I’m wrong. What do you guys think? Do you see a meaningful improvement using Gemini 3.0 versus sonnet 4.5 within Droid?",
+    "url": "https://x.com/mikez93/status/1991079179954336209",
+    "timestamp": "2025-11-19T09:40:43.000Z",
+    "metadata": {
+      "conversation_id": "1991079179954336209",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991076716484128946",
     "source": "twitter",
     "author": "ethaniel86",
