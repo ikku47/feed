@@ -1,5 +1,95 @@
 [
   {
+    "id": "twitter_1991580596083327348",
+    "source": "twitter",
+    "author": "JimSlemaker",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI SkyNet is approaching",
+    "url": "https://x.com/JimSlemaker/status/1991580596083327348",
+    "timestamp": "2025-11-20T18:53:10.000Z",
+    "metadata": {
+      "conversation_id": "1991580596083327348",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991579963192144329",
+    "source": "twitter",
+    "author": "OrneryHounds",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI Sadly predictable",
+    "url": "https://x.com/OrneryHounds/status/1991579963192144329",
+    "timestamp": "2025-11-20T18:50:39.000Z",
+    "metadata": {
+      "conversation_id": "1991579963192144329",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991579197245206770",
+    "source": "twitter",
+    "author": "MaccabiBetter",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI https://t.co/oBjrHl8KQF",
+    "url": "https://x.com/MaccabiBetter/status/1991579197245206770",
+    "timestamp": "2025-11-20T18:47:37.000Z",
+    "metadata": {
+      "conversation_id": "1991579197245206770",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991578791064334580",
+    "source": "twitter",
+    "author": "guynamedjoshl",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI running the world’s largest def/acc hackathon this weekend to build defenses. Sites in London, SF and online: \n\nhttps://t.co/siz3T4zSNr \n\nhttps://t.co/b7Rz74V3Qx",
+    "url": "https://x.com/guynamedjoshl/status/1991578791064334580",
+    "timestamp": "2025-11-20T18:46:00.000Z",
+    "metadata": {
+      "conversation_id": "1991578791064334580",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991578609786798439",
+    "source": "twitter",
+    "author": "OurielOhayon",
+    "content": "@shaunmmaguire @FactoryAI @AnthropicAI the next 9/11  / oct 7 will happen via an LLM",
+    "url": "https://x.com/OurielOhayon/status/1991578609786798439",
+    "timestamp": "2025-11-20T18:45:16.000Z",
+    "metadata": {
+      "conversation_id": "1991578609786798439",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991578454853316736",
+    "source": "twitter",
+    "author": "guynamedjoshl",
+    "content": "@FactoryAI running the world’s largest def/acc hackathon this weekend to build defenses. Sites in London, SF and online: \n\nhttps://t.co/DGcAsWscLx\n\nhttps://t.co/KPWjY0toKs",
+    "url": "https://x.com/guynamedjoshl/status/1991578454853316736",
+    "timestamp": "2025-11-20T18:44:40.000Z",
+    "metadata": {
+      "conversation_id": "1991578454853316736",
+      "likes": 3,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991577582484247032",
     "source": "twitter",
     "author": "narrocracy",
