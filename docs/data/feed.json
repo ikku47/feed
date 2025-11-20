@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1991528555562615144",
+    "source": "twitter",
+    "author": "unethicalapps",
+    "content": "@legreenois @makerfounder @FactoryAI tried out cursor today again and it worked good for an hour, had model issues afterwards.\n\nGemini CLI and the other tools worked even worse for me. Ig give it some days, for now I‘ll stick to cursor.",
+    "url": "https://x.com/unethicalapps/status/1991528555562615144",
+    "timestamp": "2025-11-20T15:26:23.000Z",
+    "metadata": {
+      "conversation_id": "1991528555562615144",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991526671674228811",
     "source": "twitter",
     "author": "caluckenbach",
