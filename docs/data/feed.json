@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991313942308585981",
+    "source": "twitter",
+    "author": "masonwilliams",
+    "content": "@rvm0n_ @vercel @cursor_ai @v0 @shadcn @tembo @elevenlabsio @FactoryAI @nextjs @mintlify @convex @opencode @helixdb @supermemory crying in the corner, it’s ok…",
+    "url": "https://x.com/masonwilliams/status/1991313942308585981",
+    "timestamp": "2025-11-20T01:13:35.000Z",
+    "metadata": {
+      "conversation_id": "1991313942308585981",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991311773765628303",
+    "source": "twitter",
+    "author": "nexiumship",
+    "content": "@makerfounder @FactoryAI Wow it’s only .5 credits def trying this",
+    "url": "https://x.com/nexiumship/status/1991311773765628303",
+    "timestamp": "2025-11-20T01:04:58.000Z",
+    "metadata": {
+      "conversation_id": "1991311773765628303",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991311756673605866",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@benvargas @FactoryAI @AmpCode Thx nice way to articulate the difference.",
+    "url": "https://x.com/erd0xbc/status/1991311756673605866",
+    "timestamp": "2025-11-20T01:04:54.000Z",
+    "metadata": {
+      "conversation_id": "1991311756673605866",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991307908718711062",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "Ah, gotcha... more a question about fundamentally how they work, not so much G3 specific.\n\nBoth have their benefits... sometimes I want the separation of concerns/duties that @AmpCode has baked in with smart/oracle[librarian/fast] and sometimes it's hugely valuable to switch real-time in thread to another model like you can in Droid and Cursor.\n\nNot a right or wrong, and you can achieve some of the separation of concerns in Droid too with other tools they provide.\n\nIf I had to pick between Amp and Droid, I'd lean Droid because of the explicit model choice and ability to drive myself... if I want the apple experience of \"it just works\" Amp is a great offering too with their team curating the experience and model choices.\n\nNo right or wrong imo... vanilla or chocolate type choice.",
+    "url": "https://x.com/benvargas/status/1991307908718711062",
+    "timestamp": "2025-11-20T00:49:36.000Z",
+    "metadata": {
+      "conversation_id": "1991307908718711062",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991306485016514986",
     "source": "twitter",
     "author": "erd0xbc",
