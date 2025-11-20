@@ -1,5 +1,76 @@
 [
   {
+    "id": "reddit_1p1oncv",
+    "source": "reddit",
+    "author": "ieagam",
+    "content": "bug in subdroids?\n\nIs there any bug in the recent release on subdroids? I've been using bunch of subdroids now in my workflow, and suddenly it malfunctions consistently.\n\nAFAIK, when using subdroids, the main agent calls subagents; and these subagents also outputs its text output between tool calls before finalizing its response, in its own context window. But after when a subdroid completes the task, it seems that the text it outputted in the middle of the tool calls, rather than the final response, gets fed into",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p1oncv/bug_in_subdroids/",
+    "timestamp": "2025-11-20T00:20:08.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
+    "id": "twitter_1991300352298349054",
+    "source": "twitter",
+    "author": "launchaddict",
+    "content": "Got to say, mightily impressed with AntiGravity. The missing piece along with @FactoryAI",
+    "url": "https://x.com/launchaddict/status/1991300352298349054",
+    "timestamp": "2025-11-20T00:19:35.000Z",
+    "metadata": {
+      "conversation_id": "1991300352298349054",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "github_issue_392",
+    "source": "github",
+    "author": "nbk8",
+    "content": "[Issue] Broken update (0.26.8)\n\nAfter updating, I get the following output for every request. Tried a few different models. It happens for all of them\n```\n>  Error: 403 <!DOCTYPE html><html lang=\"en\" data-astro-cid-nbv56vs3> <head><meta charset=\"utf-8\"><meta \n   name=\"viewport\" content=\"width=device-width, initial-scale=1\"><meta name=\"theme-color\" \n   content=\"#000\"><title>Vercel Security Checkpoint</title><style>.spinner[data-astro-cid-jlpqxutv]{display:flex;fle\n   x-direction:column;justify-content:center;align-items:center}",
+    "url": "https://github.com/Factory-AI/factory/issues/392",
+    "timestamp": "2025-11-20T00:04:22Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 392
+    }
+  },
+  {
+    "id": "twitter_1991296152361488815",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@erd0xbc @FactoryAI What do you mean? How do you view their approach differs?",
+    "url": "https://x.com/benvargas/status/1991296152361488815",
+    "timestamp": "2025-11-20T00:02:53.000Z",
+    "metadata": {
+      "conversation_id": "1991296152361488815",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991294493014782285",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@benvargas @FactoryAI What do you think about the Amp G3 approach vs. Droid G3? I too wish the load settles.",
+    "url": "https://x.com/erd0xbc/status/1991294493014782285",
+    "timestamp": "2025-11-19T23:56:18.000Z",
+    "metadata": {
+      "conversation_id": "1991294493014782285",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991291814062567576",
     "source": "twitter",
     "author": "aeitroc",
