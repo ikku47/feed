@@ -15,6 +15,19 @@
     }
   },
   {
+    "id": "reddit_1p2ce1p",
+    "source": "reddit",
+    "author": "mediumbrownfox",
+    "content": "Error: 413 Request Entity Too Large\n\nI have been getting these issues tonight using Droid with Gemini 3 and GPT-5.1-Codex.  What does it mean and how can I work around this? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p2ce1p/error_413_request_entity_too_large/",
+    "timestamp": "2025-11-20T19:23:20.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1991587446124085671",
     "source": "twitter",
     "author": "hightbunker",
