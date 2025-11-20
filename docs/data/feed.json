@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1991571516006203666",
+    "source": "twitter",
+    "author": "RMladek",
+    "content": "@FactoryAI Really?",
+    "url": "https://x.com/RMladek/status/1991571516006203666",
+    "timestamp": "2025-11-20T18:17:05.000Z",
+    "metadata": {
+      "conversation_id": "1991571516006203666",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991571024836719083",
+    "source": "twitter",
+    "author": "orange_boy",
+    "content": "@hightbunker @bentossell @FactoryAI That was my thought when 3.0 Pro put year 2024 in the footer.",
+    "url": "https://x.com/orange_boy/status/1991571024836719083",
+    "timestamp": "2025-11-20T18:15:08.000Z",
+    "metadata": {
+      "conversation_id": "1991571024836719083",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991570322756427785",
+    "source": "twitter",
+    "author": "maddiehfaulkner",
+    "content": "@sri_mash @databricks @FactoryAI @twelve_labs @NEA here you are: https://t.co/oyUrUn7BHo",
+    "url": "https://x.com/maddiehfaulkner/status/1991570322756427785",
+    "timestamp": "2025-11-20T18:12:21.000Z",
+    "metadata": {
+      "conversation_id": "1991570322756427785",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1991569777723339086",
+    "source": "twitter",
+    "author": "HaasOnSaaS",
+    "content": "@FactoryAI Good on y’all for detecting and blocking this! Glad you’re keeping us safer ♥️",
+    "url": "https://x.com/HaasOnSaaS/status/1991569777723339086",
+    "timestamp": "2025-11-20T18:10:11.000Z",
+    "metadata": {
+      "conversation_id": "1991569777723339086",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991568816942534939",
     "source": "twitter",
     "author": "nathaniyerr",
