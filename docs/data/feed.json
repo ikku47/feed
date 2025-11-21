@@ -1,5 +1,33 @@
 [
   {
+    "id": "github_issue_414",
+    "source": "github",
+    "author": "tmm22",
+    "content": "[Issue] Where are you guys on terminal bench? Not a complaint; happy Max plan user here.\n\nAny plans to regain your crown? I noticed that you guys are definitely not the top provider agent anymore. Not a complaint. Happy user, and will continue to be. ",
+    "url": "https://github.com/Factory-AI/factory/issues/414",
+    "timestamp": "2025-11-21T22:35:54Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 414
+    }
+  },
+  {
+    "id": "twitter_1991997913065738624",
+    "source": "twitter",
+    "author": "Rahll",
+    "content": "@gootecks @FactoryAI Lol, cause that makes sense.",
+    "url": "https://x.com/Rahll/status/1991997913065738624",
+    "timestamp": "2025-11-21T22:31:26.000Z",
+    "metadata": {
+      "conversation_id": "1991997913065738624",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991996915303825727",
     "source": "twitter",
     "author": "gootecks",
