@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1991827717965353107",
+    "source": "twitter",
+    "author": "IronRedSandHive",
+    "content": "@jcurtis @FactoryAI @bentossell Yeah Safari has issues - switching to chrome desktop works for me.",
+    "url": "https://x.com/IronRedSandHive/status/1991827717965353107",
+    "timestamp": "2025-11-21T11:15:08.000Z",
+    "metadata": {
+      "conversation_id": "1991827717965353107",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1991823811298386299",
     "source": "twitter",
     "author": "bentossell",
