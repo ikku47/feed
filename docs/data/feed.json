@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1p2wh3j",
+    "source": "reddit",
+    "author": "branik_10",
+    "content": "anyone switched from claude code to factory droid cli?\n\nhey there, thinking about trying factory droid cli after couple months with claude code (z.ai glm coding plan, native Windows) but after checking the documentation I can't find whether droid cli supports the following cc features in some way:\n1. no project scope settings support? documentation only mentions `~/.factory/settings.json`, how would I allow specific permissions/allowed commands per project? this is a very crucial feature imo\n2. no images pasting support? cc can do that\n3. no `/add-di",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p2wh3j/anyone_switched_from_claude_code_to_factory_droid/",
+    "timestamp": "2025-11-21T11:43:52.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1991827717965353107",
     "source": "twitter",
     "author": "IronRedSandHive",
