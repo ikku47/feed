@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.9,
+      "reason": "General discussion about coding tools without mentioning FactoryAI specifically.",
+      "classifiedAt": "2025-11-22T16:34:36.957Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 1,
+      "reason": "Directly mentions @FactoryAI as 'the actual best one' but doesn't ask question or report issue.",
+      "classifiedAt": "2025-11-22T16:34:36.957Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.85,
+      "reason": "Contains rhetorical question about when FactoryAI will make their own IDE.",
+      "classifiedAt": "2025-11-22T16:34:36.957Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 1,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Includes @FactoryAI in a list of coding tools but no specific action required.",
+      "classifiedAt": "2025-11-22T16:34:36.957Z"
     }
   },
   {
