@@ -10,6 +10,12 @@
       "score": 1,
       "num_comments": 0,
       "subreddit": "FactoryAi"
+    },
+    "classification": {
+      "label": "other",
+      "confidence": 0.9,
+      "reason": "This is a product announcement/release note that does not fit into any of the defined categories (mention, bug, love, question). It's purely informational content about a CLI release.",
+      "classifiedAt": "2025-11-22T09:07:46.557Z"
     }
   },
   {
