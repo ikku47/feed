@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.8,
+      "reason": "User is providing a suggestion/instruction to Factory AI, which falls under asking Factory to implement something specific.",
+      "classifiedAt": "2025-11-22T03:13:39.331Z"
     }
   },
   {
