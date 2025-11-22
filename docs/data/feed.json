@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992337982565835203",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@NickSloggett @FactoryAI @shaunmmaguire Haha battle royale confirmed ✔️ only one will walk out",
+    "url": "https://x.com/makerfounder/status/1992337982565835203",
+    "timestamp": "2025-11-22T21:02:45.000Z",
+    "metadata": {
+      "conversation_id": "1992337982565835203",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992336978344603830",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@Alex_m @makerfounder @antigravity @FactoryAI https://t.co/2M5jpDSp54",
+    "url": "https://x.com/bentossell/status/1992336978344603830",
+    "timestamp": "2025-11-22T20:58:46.000Z",
+    "metadata": {
+      "conversation_id": "1992336978344603830",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992336786585174457",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@garyfung @antigravity @FactoryAI In my tests, Antigravity's browser subagent felt shaky. couldn't complete tasks consistently. \nSolid callout on Gemini 3's visual edge though! Next benchmark will loop in vision/UI flows to test that properly 👍",
+    "url": "https://x.com/makerfounder/status/1992336786585174457",
+    "timestamp": "2025-11-22T20:58:00.000Z",
+    "metadata": {
+      "conversation_id": "1992336786585174457",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992335083752276005",
     "source": "twitter",
     "author": "Alex_m",
