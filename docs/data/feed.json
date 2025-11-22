@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992312136438284797",
+    "source": "twitter",
+    "author": "BuildWithAJ",
+    "content": "@leoisadev @FactoryAI @cursor_ai At this point I run claude code with my own hombrew stack and then use VsCodium for editing by hand when needed.",
+    "url": "https://x.com/BuildWithAJ/status/1992312136438284797",
+    "timestamp": "2025-11-22T19:20:03.000Z",
+    "metadata": {
+      "conversation_id": "1992312136438284797",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992311857001206012",
+    "source": "twitter",
+    "author": "shaunmmaguire",
+    "content": "@makerfounder @antigravity @FactoryAI The droids welcome head to heads against anyone 🤖🦾",
+    "url": "https://x.com/shaunmmaguire/status/1992311857001206012",
+    "timestamp": "2025-11-22T19:18:56.000Z",
+    "metadata": {
+      "conversation_id": "1992311857001206012",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992310179011141978",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@matanSF @FactoryAI bug report from today a3e84152-b7ca-498f-beea-cea4cedc91e1 @bentossell",
+    "url": "https://x.com/benvargas/status/1992310179011141978",
+    "timestamp": "2025-11-22T19:12:16.000Z",
+    "metadata": {
+      "conversation_id": "1992310179011141978",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992308198305677380",
     "source": "twitter",
     "author": "tomosman",
