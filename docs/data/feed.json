@@ -1,5 +1,18 @@
 [
   {
+    "id": "reddit_1p43e48",
+    "source": "reddit",
+    "author": "sibonyves",
+    "content": "Running GPU code\n\nHello. I’m currently using codex and contemplating the switch to factory AI. An issue I have with codex cli is that in the sandbox it doesn’t have access to my GPU. So all my code that runs on cuda can’t be tested automatically, and the agent runs loops and ends up trying to patch « non functioning » code (that actually functions very well) and adding CPU fallbacks. \n\nDoes the factory AI sandbox work with running gpu code? ",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1p43e48/running_gpu_code/",
+    "timestamp": "2025-11-22T20:31:10.000Z",
+    "metadata": {
+      "score": 1,
+      "num_comments": 0,
+      "subreddit": "FactoryAi"
+    }
+  },
+  {
     "id": "twitter_1992327879359910048",
     "source": "twitter",
     "author": "NickSloggett",
@@ -4013,6 +4026,84 @@
       "type": "discussion",
       "category": "Factory Official",
       "number": 108
+    }
+  },
+  {
+    "id": "github_discussion_99",
+    "source": "github",
+    "author": "Evan-Kim2028",
+    "content": "[Discussion] Droid source code\n\nIs droid closed source? I am not able to find any code. I would like to be able to see how the droid tools are implemented if the code is available to see",
+    "url": "https://github.com/Factory-AI/factory/discussions/99",
+    "timestamp": "2025-10-02T17:51:27Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 99
+    }
+  },
+  {
+    "id": "github_discussion_95",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] CLI v0.16.0 Release Notes\n\n- Sonnet 4.5 model is now available\r\n- Clear chat input using double ESC or Ctrl-C\r\n- User-configured allow and deny list of commands to execute\r\n- Option to disable droid commit co-authoring\r\n- Auth using FACTORY_API_KEY\r\n- Fixed UI bugs due to resizing",
+    "url": "https://github.com/Factory-AI/factory/discussions/95",
+    "timestamp": "2025-10-01T20:05:01Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 95
+    }
+  },
+  {
+    "id": "github_discussion_92",
+    "source": "github",
+    "author": "msneijders",
+    "content": "[Discussion] MCP tools filtering\n\nI would like to configure exactly what tools of a MCP server should be made available.\r\n\r\nMotivation: MCP servers with overlapping functionality and too many unneeded tools is confusing the models.",
+    "url": "https://github.com/Factory-AI/factory/discussions/92",
+    "timestamp": "2025-10-01T09:07:33Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 92
+    }
+  },
+  {
+    "id": "github_discussion_82",
+    "source": "github",
+    "author": "mweichert",
+    "content": "[Discussion] Web API?\n\nHi there! Is there a web API to create and manage sessions?",
+    "url": "https://github.com/Factory-AI/factory/discussions/82",
+    "timestamp": "2025-09-29T13:16:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 82
+    }
+  },
+  {
+    "id": "github_discussion_72",
+    "source": "github",
+    "author": "rubendn",
+    "content": "[Discussion] Droid selection in CLI?\n\nIs there a way to use one of the specialized Droids (Product, Tutorial, etc) via the CLI?  I don't see a way to select in the slash commands.\r\n\r\nAlso, is there a way on Windows to select a local workspace path besides ~\\?\r\n\r\nThanks!",
+    "url": "https://github.com/Factory-AI/factory/discussions/72",
+    "timestamp": "2025-09-29T05:17:49Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Questions",
+      "number": 72
+    }
+  },
+  {
+    "id": "github_discussion_66",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] 2 new community builds: use claude/codex max subscriptions with droid\n\n- [Factory CLI with ChatGPT Codex / Claude subscription via CLIProxyAPI](https://gist.github.com/chandika/c4b64c5b8f5e29f6112021d46c159fdd) - Guide to run Factory CLI against Claude Code Max or ChatGPT Codex through CLIProxyAPI by [chandika](https://github.com/chandika)\r\n- [Factory CLI with Claude subscription via CLIProxyAPI](https://gist.github.com/ben-vargas/9f1a14ac5f78d10eba56be437b7c76e5) - Setup instructions for using Factory CLI with Claude Code Max through CLIProxyAPI by [ben-vargas](ht",
+    "url": "https://github.com/Factory-AI/factory/discussions/66",
+    "timestamp": "2025-09-27T19:15:40Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Show + tell",
+      "number": 66
     }
   }
 ]
