@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 1,
+      "reason": "Factory is referenced with @ mention but no action needed",
+      "classifiedAt": "2025-11-22T15:18:34.480Z"
     }
   },
   {
