@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992333166707921052",
+    "source": "twitter",
+    "author": "ayman_alderson",
+    "content": "Anyone using @FactoryAI's Droid?\nHow does it compare to @opencode, Claude Code and Codex?",
+    "url": "https://x.com/ayman_alderson/status/1992333166707921052",
+    "timestamp": "2025-11-22T20:43:37.000Z",
+    "metadata": {
+      "conversation_id": "1992333166707921052",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992331715759726778",
+    "source": "twitter",
+    "author": "TommyFalkowski",
+    "content": "@NielsRogge @claudeai @cursor_ai @OpenAI @windsurf @antigravity @AmpCode @FactoryAI @code Dude, you work in opensource and don't mention @opencode?",
+    "url": "https://x.com/TommyFalkowski/status/1992331715759726778",
+    "timestamp": "2025-11-22T20:37:51.000Z",
+    "metadata": {
+      "conversation_id": "1992331715759726778",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992331582569664942",
+    "source": "twitter",
+    "author": "immoinulmoin",
+    "content": "@Ricardo_Nth @FactoryAI same here also asking for a middle groud plan for us, $60/100 make sense , @bentossell can we get it please?",
+    "url": "https://x.com/immoinulmoin/status/1992331582569664942",
+    "timestamp": "2025-11-22T20:37:19.000Z",
+    "metadata": {
+      "conversation_id": "1992331582569664942",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "reddit_1p43e48",
     "source": "reddit",
     "author": "sibonyves",
@@ -3912,6 +3957,45 @@
     }
   },
   {
+    "id": "github_issue_372",
+    "source": "github",
+    "author": "presidentoor",
+    "content": "[Issue] Done Shield Disablement\n\nWhen unchecking the Drone Shield button and clicking save, the system responds with an error that it fails to disable the drone shield.",
+    "url": "https://github.com/Factory-AI/factory/issues/372",
+    "timestamp": "2025-11-15T21:48:31Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 372
+    }
+  },
+  {
+    "id": "github_issue_371",
+    "source": "github",
+    "author": "presidentoor",
+    "content": "[Issue] Support Button Doesn't Work\n\nWhen logged in at app.factory.ai the drop down on the right with the support link, doesn't do anything.",
+    "url": "https://github.com/Factory-AI/factory/issues/371",
+    "timestamp": "2025-11-15T21:47:24Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 371
+    }
+  },
+  {
+    "id": "github_issue_370",
+    "source": "github",
+    "author": "aranej",
+    "content": "[Issue] UserPromptSubmit hook stdout not injected into LLM context\n\n## Problem\n\nUserPromptSubmit hooks execute successfully but their stdout is not injected into the LLM context, despite [documentation](https://github.com/Factory-AI/factory/blob/main/docs/reference/hooks-reference.mdx#userpromptsubmit-decision-control) stating it should be.\n\n**Expected:** Hook stdout added to context before prompt processing  \n**Actual:** Hook runs, outputs to stdout, but LLM never receives it\n\n## Evidence\n\nDebug logging proves hook execution:\n\n```\n[2025-11-15 16:16:05.140072] U",
+    "url": "https://github.com/Factory-AI/factory/issues/370",
+    "timestamp": "2025-11-15T15:36:30Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 370
+    }
+  },
+  {
     "id": "github_discussion_361",
     "source": "github",
     "author": "aaronschwartz",
@@ -4104,6 +4188,32 @@
       "type": "discussion",
       "category": "Show + tell",
       "number": 66
+    }
+  },
+  {
+    "id": "github_discussion_65",
+    "source": "github",
+    "author": "jimkyndemeyer",
+    "content": "[Discussion] BYOK with Anthropic models on Amazon Bedrock\n\nWould be great to have the option of using Amazon Bedrock for Anthropic models with BYOK.\r\n\r\nAnthropic has official SDKs for Bedrock, but the model env config is a bit different:\r\n- AWS region\r\n- Access key id\r\n- Secret access key",
+    "url": "https://github.com/Factory-AI/factory/discussions/65",
+    "timestamp": "2025-09-27T09:46:55Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Feature requests",
+      "number": 65
+    }
+  },
+  {
+    "id": "github_discussion_59",
+    "source": "github",
+    "author": "factory-ben",
+    "content": "[Discussion] #1 on Terminal Bench\n\n<img width=\"1582\" height=\"972\" alt=\"Screenshot 2025-09-25 at 17 15 56\" src=\"https://github.com/user-attachments/assets/9e9c80b6-825c-41cc-b8c7-236b21e3f61c\" />\r\n\r\nRead how we did it: https://factory.ai/news/terminal-bench",
+    "url": "https://github.com/Factory-AI/factory/discussions/59",
+    "timestamp": "2025-09-25T19:22:25Z",
+    "metadata": {
+      "type": "discussion",
+      "category": "Factory Official",
+      "number": 59
     }
   }
 ]
