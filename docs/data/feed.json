@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "Factory AI is merely referenced in a casual conversation, no action needed or sentiment expressed",
+      "classifiedAt": "2025-11-22T04:38:14.111Z"
     }
   },
   {
@@ -27,6 +33,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.7,
+      "reason": "User appears to be responding with agreement that makes sense in context of Factory AI, suggesting question/clarification",
+      "classifiedAt": "2025-11-22T04:38:14.111Z"
     }
   },
   {
@@ -42,6 +54,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.8,
+      "reason": "Factory AI is referenced in a comparative comment, no specific action or sentiment",
+      "classifiedAt": "2025-11-22T04:38:14.111Z"
     }
   },
   {
@@ -57,6 +75,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.9,
+      "reason": "User indicates they will check out Factory AI, neutral reference",
+      "classifiedAt": "2025-11-22T04:38:14.111Z"
     }
   },
   {
@@ -72,6 +96,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "question",
+      "confidence": 0.95,
+      "reason": "Explicit question asking for clarification about what user means by 'agentic stuff' in relation to Factory AI",
+      "classifiedAt": "2025-11-22T04:38:14.111Z"
     }
   },
   {
