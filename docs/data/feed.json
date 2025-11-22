@@ -12,6 +12,12 @@
       "retweets": 0,
       "replies": 0,
       "quotes": 0
+    },
+    "classification": {
+      "label": "mention",
+      "confidence": 0.95,
+      "reason": "Factory is referenced with @FactoryAI but no specific action, question, bug report, or positive sentiment is expressed",
+      "classifiedAt": "2025-11-22T15:06:01.072Z"
     }
   },
   {
