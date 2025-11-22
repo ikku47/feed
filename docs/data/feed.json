@@ -1,5 +1,140 @@
 [
   {
+    "id": "twitter_1992273234683924528",
+    "source": "twitter",
+    "author": "bierlingm",
+    "content": "@zaidmukaddam Droid by @FactoryAI is pretty great",
+    "url": "https://x.com/bierlingm/status/1992273234683924528",
+    "timestamp": "2025-11-22T16:45:28.000Z",
+    "metadata": {
+      "conversation_id": "1992273234683924528",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992272199206776975",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@SeeLos @antigravity @FactoryAI These take forever to set up 😅 Might do a bigger one later, but not promising anything soon!",
+    "url": "https://x.com/makerfounder/status/1992272199206776975",
+    "timestamp": "2025-11-22T16:41:21.000Z",
+    "metadata": {
+      "conversation_id": "1992272199206776975",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992271946961351041",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@SirTimithedev @FactoryAI @cursor_ai You should try them!",
+    "url": "https://x.com/leoisadev/status/1992271946961351041",
+    "timestamp": "2025-11-22T16:40:21.000Z",
+    "metadata": {
+      "conversation_id": "1992271946961351041",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992271779176534117",
+    "source": "twitter",
+    "author": "emicovi",
+    "content": "@zaidmukaddam @FactoryAI  the best.",
+    "url": "https://x.com/emicovi/status/1992271779176534117",
+    "timestamp": "2025-11-22T16:39:41.000Z",
+    "metadata": {
+      "conversation_id": "1992271779176534117",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992271276791259570",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@zaidmukaddam @FactoryAI 14 day free trial\n10m free tokens if you put a card down (1m otherwise)",
+    "url": "https://x.com/bentossell/status/1992271276791259570",
+    "timestamp": "2025-11-22T16:37:41.000Z",
+    "metadata": {
+      "conversation_id": "1992271276791259570",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992271212106625101",
+    "source": "twitter",
+    "author": "neoneue",
+    "content": "@FactoryAI https://t.co/2bQZHKN5wB",
+    "url": "https://x.com/neoneue/status/1992271212106625101",
+    "timestamp": "2025-11-22T16:37:26.000Z",
+    "metadata": {
+      "conversation_id": "1992271212106625101",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992270857943789705",
+    "source": "twitter",
+    "author": "SirTimithedev",
+    "content": "@leoisadev @FactoryAI @cursor_ai Oh that's interesting though\n\nOnly thing is I haven't used any of the two yet so",
+    "url": "https://x.com/SirTimithedev/status/1992270857943789705",
+    "timestamp": "2025-11-22T16:36:01.000Z",
+    "metadata": {
+      "conversation_id": "1992270857943789705",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992270671922201055",
+    "source": "twitter",
+    "author": "zaidmukaddam",
+    "content": "@bentossell @FactoryAI hearing a lot about Factory AI, is it free to try out?",
+    "url": "https://x.com/zaidmukaddam/status/1992270671922201055",
+    "timestamp": "2025-11-22T16:35:17.000Z",
+    "metadata": {
+      "conversation_id": "1992270671922201055",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992270550379741351",
+    "source": "twitter",
+    "author": "neoneue",
+    "content": "The little beep notification @FactoryAI DROID makes when completing a task is so satisfying.\n\nInstallation and migration went well. I've already worked through a few stories with zero errors 👏 \nOff to a great start!",
+    "url": "https://x.com/neoneue/status/1992270550379741351",
+    "timestamp": "2025-11-22T16:34:48.000Z",
+    "metadata": {
+      "conversation_id": "1992270550379741351",
+      "likes": 2,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992270005564485857",
     "source": "twitter",
     "author": "Elandotbuilders",
