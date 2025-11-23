@@ -1,5 +1,50 @@
 [
   {
+    "id": "twitter_1992389336449568882",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@benvargas @dannyveigatx @FactoryAI Interesting. Why did you set up your dev environment this way?",
+    "url": "https://x.com/TSpencer260/status/1992389336449568882",
+    "timestamp": "2025-11-23T00:26:49.000Z",
+    "metadata": {
+      "conversation_id": "1992389336449568882",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992383582246203859",
+    "source": "twitter",
+    "author": "paulbettner",
+    "content": "@FeifanZ @FactoryAI Because it really is that good.",
+    "url": "https://x.com/paulbettner/status/1992383582246203859",
+    "timestamp": "2025-11-23T00:03:57.000Z",
+    "metadata": {
+      "conversation_id": "1992383582246203859",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992382356225962139",
+    "source": "twitter",
+    "author": "Cata1lonia",
+    "content": "@bentossell @zaidmukaddam @FactoryAI Does it have Gemini 3 as well ?",
+    "url": "https://x.com/Cata1lonia/status/1992382356225962139",
+    "timestamp": "2025-11-22T23:59:05.000Z",
+    "metadata": {
+      "conversation_id": "1992382356225962139",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992381152930464068",
     "source": "twitter",
     "author": "joelhooks",
