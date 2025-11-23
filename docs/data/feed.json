@@ -1,5 +1,80 @@
 [
   {
+    "id": "twitter_1992462732336177256",
+    "source": "twitter",
+    "author": "makerfounder",
+    "content": "@BananaSauce_ @antigravity @FactoryAI It is not as straightforward as other GUI based agents, but I use Git commits for that.",
+    "url": "https://x.com/makerfounder/status/1992462732336177256",
+    "timestamp": "2025-11-23T05:18:28.000Z",
+    "metadata": {
+      "conversation_id": "1992462732336177256",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992462044185211001",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@immoinulmoin @FactoryAI They cooking",
+    "url": "https://x.com/martin_ict_algo/status/1992462044185211001",
+    "timestamp": "2025-11-23T05:15:44.000Z",
+    "metadata": {
+      "conversation_id": "1992462044185211001",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992461806934384650",
+    "source": "twitter",
+    "author": "martin_ict_algo",
+    "content": "@ayman_alderson @FactoryAI @opencode Legend love it planning mode is the bomb, byok models as well",
+    "url": "https://x.com/martin_ict_algo/status/1992461806934384650",
+    "timestamp": "2025-11-23T05:14:47.000Z",
+    "metadata": {
+      "conversation_id": "1992461806934384650",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992461697781788974",
+    "source": "twitter",
+    "author": "AIFlow_ML",
+    "content": "@benvargas @FactoryAI On Mac and Linux this work well",
+    "url": "https://x.com/AIFlow_ML/status/1992461697781788974",
+    "timestamp": "2025-11-23T05:14:21.000Z",
+    "metadata": {
+      "conversation_id": "1992461697781788974",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992460908254380091",
+    "source": "twitter",
+    "author": "erd0xbc",
+    "content": "@ayman_alderson @FactoryAI @opencode solid",
+    "url": "https://x.com/erd0xbc/status/1992460908254380091",
+    "timestamp": "2025-11-23T05:11:13.000Z",
+    "metadata": {
+      "conversation_id": "1992460908254380091",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992459708951941318",
     "source": "twitter",
     "author": "AIFlow_ML",
