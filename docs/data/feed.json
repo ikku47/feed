@@ -1,5 +1,20 @@
 [
   {
+    "id": "twitter_1992555058920403095",
+    "source": "twitter",
+    "author": "0xmatti",
+    "content": "@ayman_alderson @FactoryAI @opencode used during free trial, but cannot afford to use it now while already paying for cc",
+    "url": "https://x.com/0xmatti/status/1992555058920403095",
+    "timestamp": "2025-11-23T11:25:20.000Z",
+    "metadata": {
+      "conversation_id": "1992555058920403095",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992552500180787282",
     "source": "twitter",
     "author": "_BrianKimball",
@@ -6204,6 +6219,19 @@
       "confidence": 0.9,
       "reason": "FactoryAI is referenced in a quote but no specific action or sentiment is directed at Factory",
       "classifiedAt": "2025-11-21T21:47:31.286Z"
+    }
+  },
+  {
+    "id": "github_issue_381",
+    "source": "github",
+    "author": "masakielastic",
+    "content": "[Issue] Auto-update hang: Droid CLI stuck ~7 minutes on “Checking for updates…” on Linux/Crostini\n\n### Summary\n\nDroid CLI on Linux (ChromeOS Crostini) hangs for **6–7 minutes** at startup with\n**“Checking for updates…”**, then eventually loads the TUI.\nDuring the delay, the logs show repeated attempts to create `/.factory` and `/home/.factory`, causing `EACCES` errors.\n\nThis appears related to Issue #378 (macOS), but occurs on Linux with similar symptoms.\n\n---\n\n### Environment\n\n* **OS**: ChromeOS + Crostini (Debian 12 bookworm)\n* **CLI Version**: 0.26.4 (latest)\n* **Architecture**: linux-x64\n",
+    "url": "https://github.com/Factory-AI/factory/issues/381",
+    "timestamp": "2025-11-18T18:29:49Z",
+    "metadata": {
+      "type": "issue",
+      "labels": [],
+      "number": 381
     }
   },
   {
