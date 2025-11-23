@@ -931,9 +931,16 @@
       display: none;
     }
     
+    .multi-select-toggle-nav {
+      display: none;
+    }
+    
     @media (max-width: 768px) {
       .multi-select-toggle {
         display: flex;
+      }
+      .multi-select-toggle-nav {
+        display: flex !important;
       }
     }
 
@@ -1044,6 +1051,22 @@
         padding: 6px 8px;
       }
       
+      .display-btn span {
+        display: none;
+      }
+      
+      .app-controls .multi-select-toggle {
+        display: none;
+      }
+      
+      .secondary-nav {
+        gap: 8px;
+      }
+      
+      .secondary-nav-left {
+        gap: 8px;
+      }
+      
       .sidebar {
         position: fixed;
         left: 0;
@@ -1109,12 +1132,12 @@
       
       .card { 
         padding: 12px 16px; 
-        padding-left: 44px;
+        padding-left: 36px;
         flex-wrap: wrap;
       }
       .card-checkbox { top: 12px; left: 12px; }
       .card-source {
-        align-self: flex-start;
+        display: none;
       }
       .card-content {
         -webkit-line-clamp: 2;
@@ -1127,6 +1150,22 @@
         margin-left: 0;
         margin-top: 8px;
         font-size: 12px;
+      }
+      .card-meta .source-badge {
+        width: 16px;
+        height: 16px;
+        margin-right: 4px;
+      }
+      .card-meta .source-badge svg {
+        width: 12px;
+        height: 12px;
+      }
+      .feed-container {
+        padding: 12px;
+        overscroll-behavior: none;
+      }
+      .main-container {
+        overscroll-behavior: contain;
       }
     }
   </style>
@@ -1268,6 +1307,10 @@
       </div>
     </div>
     
+    <button class="icon-btn multi-select-toggle-nav" id="multiSelectToggleNav" title="Multi-select" style="display: none;">
+      <i data-lucide="check-square"></i>
+    </button>
+    
     <div class="display-selector">
       <button class="display-btn" id="displayBtn">
         <i data-lucide="layout-grid"></i>
@@ -1330,6 +1373,10 @@
           <div class="sidebar-command">
             <kbd>Enter</kbd>
             <span>Open</span>
+          </div>
+          <div class="sidebar-command">
+            <kbd>⌘ Enter</kbd>
+            <span>Open in new tab</span>
           </div>
           <div class="sidebar-command">
             <kbd>R</kbd>
@@ -1650,6 +1697,9 @@
           <div class="card-meta">
             ${engagementHTML}
             <div class="card-meta-item">
+              <span class="source-badge source-${item.source}" title="${item.source}">
+                <i data-lucide="${sourceIcon}"></i>
+              </span>
               <span class="card-username">${item.author}</span>
             </div>
             <div class="card-meta-item">
@@ -1988,6 +2038,17 @@
         document.getElementById('multiSelectToggle').addEventListener('click', () => {
             state.multiSelectMode = !state.multiSelectMode;
             document.getElementById('multiSelectToggle').classList.toggle('active', state.multiSelectMode);
+            document.getElementById('multiSelectToggleNav').classList.toggle('active', state.multiSelectMode);
+            if (!state.multiSelectMode) {
+                clearSelection();
+            }
+        });
+        
+        // Multi-select toggle (nav version)
+        document.getElementById('multiSelectToggleNav').addEventListener('click', () => {
+            state.multiSelectMode = !state.multiSelectMode;
+            document.getElementById('multiSelectToggle').classList.toggle('active', state.multiSelectMode);
+            document.getElementById('multiSelectToggleNav').classList.toggle('active', state.multiSelectMode);
             if (!state.multiSelectMode) {
                 clearSelection();
             }

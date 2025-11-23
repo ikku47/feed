@@ -577,6 +577,26 @@
     .weekly-table tr:hover {
       background: var(--hover);
     }
+    
+    .pagination-btn {
+      background: transparent;
+      border: 1px solid var(--border);
+      color: var(--text);
+      border-radius: 6px;
+      padding: 6px 12px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-size: 13px;
+      font-weight: 500;
+    }
+    
+    .pagination-btn:hover {
+      background: var(--hover);
+      border-color: var(--text-secondary);
+    }
 
     .loading {
       display: flex;
@@ -911,13 +931,20 @@
               <span class="stat-card-title">By Category</span>
               <i data-lucide="tag" class="stat-card-icon"></i>
             </div>
-            <div>
-              ${Object.entries(byCategory).sort((a, b) => b[1] - a[1]).map(([cat, count]) => `
-                <div class="list-item">
-                  <span class="list-item-name">${cat.charAt(0).toUpperCase() + cat.slice(1)}</span>
-                  <span class="list-item-value">${count} items</span>
-                </div>
-              `).join('')}
+            <div class="chart-container">
+              ${Object.entries(byCategory).sort((a, b) => b[1] - a[1]).map(([cat, count]) => {
+                const maxCount = Math.max(...Object.values(byCategory));
+                const percentage = maxCount > 0 ? (count / maxCount) * 100 : 0;
+                return `
+                  <div class="chart-bar-row">
+                    <span class="chart-bar-label">${cat.charAt(0).toUpperCase() + cat.slice(1)}</span>
+                    <div class="chart-bar-wrapper">
+                      <div class="chart-bar" style="width: ${percentage}%"></div>
+                    </div>
+                    <span class="chart-bar-value">${count}</span>
+                  </div>
+                `;
+              }).join('')}
             </div>
           </div>
 
@@ -926,7 +953,17 @@
           <div class="stat-card" style="grid-column: 1 / -1;">
             <div class="stat-card-header">
               <span class="stat-card-title">Weekly Breakdown (Since Oct 13, 2024)</span>
-              <i data-lucide="calendar" class="stat-card-icon"></i>
+              <div style="display: flex; gap: 8px; align-items: center;">
+                <button class="pagination-btn" id="prevWeeks" style="display: none;">
+                  <i data-lucide="chevron-left" style="width: 14px; height: 14px;"></i>
+                  Previous
+                </button>
+                <button class="pagination-btn" id="nextWeeks" style="display: none;">
+                  Next
+                  <i data-lucide="chevron-right" style="width: 14px; height: 14px;"></i>
+                </button>
+                <i data-lucide="calendar" class="stat-card-icon"></i>
+              </div>
             </div>
             <table class="weekly-table">
               <thead>
@@ -940,8 +977,7 @@
                   <th>Love</th>
                 </tr>
               </thead>
-              <tbody>
-                ${generateWeeklyBreakdown()}
+              <tbody id="weeklyTableBody">
               </tbody>
             </table>
           </div>
@@ -950,7 +986,12 @@
       
       lucide.createIcons();
       setupFilters();
+      setupWeeklyPagination();
     }
+    
+    let weeklyPage = 0;
+    const weeksPerPage = 12;
+    let allWeeklyStats = [];
     
     function generateWeeklyBreakdown() {
       // Start from Oct 13, 2024
@@ -976,7 +1017,7 @@
       }
       
       // Calculate stats for each week
-      const weeklyStats = weeks.map(week => {
+      allWeeklyStats = weeks.map(week => {
         const weekData = filteredData.filter(item => {
           const itemDate = new Date(item.timestamp);
           return itemDate >= week.start && itemDate <= week.end;
@@ -996,7 +1037,19 @@
       });
       
       // Reverse to show most recent first
-      return weeklyStats.reverse().map(stats => `
+      allWeeklyStats.reverse();
+      
+      // Update table with current page
+      updateWeeklyTable();
+    }
+    
+    function updateWeeklyTable() {
+      const startIdx = weeklyPage * weeksPerPage;
+      const endIdx = startIdx + weeksPerPage;
+      const pageStats = allWeeklyStats.slice(startIdx, endIdx);
+      
+      const tbody = document.getElementById('weeklyTableBody');
+      tbody.innerHTML = pageStats.map(stats => `
         <tr>
           <td>${stats.date}</td>
           <td><strong>${stats.total}</strong></td>
@@ -1007,6 +1060,40 @@
           <td>${stats.love}</td>
         </tr>
       `).join('');
+      
+      // Update pagination buttons
+      const prevBtn = document.getElementById('prevWeeks');
+      const nextBtn = document.getElementById('nextWeeks');
+      
+      if (prevBtn && nextBtn) {
+        prevBtn.style.display = weeklyPage > 0 ? 'flex' : 'none';
+        nextBtn.style.display = endIdx < allWeeklyStats.length ? 'flex' : 'none';
+      }
+      
+      lucide.createIcons();
+    }
+    
+    function setupWeeklyPagination() {
+      const prevBtn = document.getElementById('prevWeeks');
+      const nextBtn = document.getElementById('nextWeeks');
+      
+      if (prevBtn) {
+        prevBtn.addEventListener('click', () => {
+          if (weeklyPage > 0) {
+            weeklyPage--;
+            updateWeeklyTable();
+          }
+        });
+      }
+      
+      if (nextBtn) {
+        nextBtn.addEventListener('click', () => {
+          if ((weeklyPage + 1) * weeksPerPage < allWeeklyStats.length) {
+            weeklyPage++;
+            updateWeeklyTable();
+          }
+        });
+      }
     }
 
     function setupFilters() {
@@ -1095,6 +1182,7 @@
         return true;
       });
       
+      weeklyPage = 0; // Reset pagination when filters change
       renderStats();
     }
 
