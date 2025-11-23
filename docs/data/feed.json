@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992549731436810394",
+    "source": "twitter",
+    "author": "behrendtio",
+    "content": "Quite impressed so far. Doesn't really compare to Opencode/Codex/Claude Code as it's a much broader product.\n\nIt's not just a terminal agent but also connects to your Slack, Linear etc. and holds memory across all sessions.  It's also much better at running multiple agents in parallel.\n\nSo it's more like a \"real human\" coworker than the other three. Also, Claude Code and Codex can only run one LLM, obviously. At least Opencode gives you access to everything.",
+    "url": "https://x.com/behrendtio/status/1992549731436810394",
+    "timestamp": "2025-11-23T11:04:10.000Z",
+    "metadata": {
+      "conversation_id": "1992549731436810394",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992549730413400326",
+    "source": "twitter",
+    "author": "bradvangelder",
+    "content": "@_BrianKimball @FactoryAI Gemini is just perfect for design but Iwouldn't trust it with complex Logic because of the hallucination rate",
+    "url": "https://x.com/bradvangelder/status/1992549730413400326",
+    "timestamp": "2025-11-23T11:04:10.000Z",
+    "metadata": {
+      "conversation_id": "1992549730413400326",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992546496701472909",
     "source": "twitter",
     "author": "Sean_Turing",
