@@ -1,5 +1,35 @@
 [
   {
+    "id": "twitter_1992561585601265871",
+    "source": "twitter",
+    "author": "FHulayyil",
+    "content": "@vikhyatk psssst .. check @FactoryAI",
+    "url": "https://x.com/FHulayyil/status/1992561585601265871",
+    "timestamp": "2025-11-23T11:51:16.000Z",
+    "metadata": {
+      "conversation_id": "1992561585601265871",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992561232474526182",
+    "source": "twitter",
+    "author": "_BrianKimball",
+    "content": "@smarative @FactoryAI Maybe $10 ? I've been letting it autonomously run tasks a decent portion of the day",
+    "url": "https://x.com/_BrianKimball/status/1992561232474526182",
+    "timestamp": "2025-11-23T11:49:52.000Z",
+    "metadata": {
+      "conversation_id": "1992561232474526182",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992559529259827458",
     "source": "twitter",
     "author": "SvenMeyer",
@@ -6385,6 +6415,19 @@
       "type": "discussion",
       "category": "General",
       "number": 374
+    }
+  },
+  {
+    "id": "reddit_1oz18qh",
+    "source": "reddit",
+    "author": "EggNo4904",
+    "content": "not sure if i am the only one getting this, interestingly enough it had my card details saved tho.\n\nImages:\n\thttps://preview.redd.it/uu8xf048jp1g1.png?auto=webp&amp;s=9574291f2513a281eca97c75667653da65da086d\n",
+    "url": "https://www.reddit.com/r/FactoryAi/comments/1oz18qh/not_sure_if_i_am_the_only_one_getting_this/",
+    "timestamp": "2025-11-16T23:56:02.000Z",
+    "metadata": {
+      "score": 3,
+      "num_comments": 5,
+      "subreddit": "FactoryAi"
     }
   },
   {
