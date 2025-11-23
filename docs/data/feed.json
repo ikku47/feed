@@ -1,5 +1,110 @@
 [
   {
+    "id": "twitter_1992404870507462769",
+    "source": "twitter",
+    "author": "JoelDeTeves",
+    "content": "@yacineMTB Have you tried Droid by @FactoryAI - once you try it you wont go back",
+    "url": "https://x.com/JoelDeTeves/status/1992404870507462769",
+    "timestamp": "2025-11-23T01:28:32.000Z",
+    "metadata": {
+      "conversation_id": "1992404870507462769",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992403751718867003",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@makerfounder @FactoryAI @shaunmmaguire Death or token maxed 😂🥲",
+    "url": "https://x.com/NickSloggett/status/1992403751718867003",
+    "timestamp": "2025-11-23T01:24:06.000Z",
+    "metadata": {
+      "conversation_id": "1992403751718867003",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992402957825167770",
+    "source": "twitter",
+    "author": "NickSloggett",
+    "content": "@EnoReyes @leoisadev @FactoryAI @cursor_ai Gonna need a lil beta",
+    "url": "https://x.com/NickSloggett/status/1992402957825167770",
+    "timestamp": "2025-11-23T01:20:56.000Z",
+    "metadata": {
+      "conversation_id": "1992402957825167770",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992399832401723492",
+    "source": "twitter",
+    "author": "leoisadev",
+    "content": "@JeffKazzee @FactoryAI @cursor_ai Yea probably one of the best cli's to work with",
+    "url": "https://x.com/leoisadev/status/1992399832401723492",
+    "timestamp": "2025-11-23T01:08:31.000Z",
+    "metadata": {
+      "conversation_id": "1992399832401723492",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992399242867216833",
+    "source": "twitter",
+    "author": "JeffKazzee",
+    "content": "@leoisadev @FactoryAI @cursor_ai Oh yeah? I like that a lot. I didn't realize they had such a feature. Nice.",
+    "url": "https://x.com/JeffKazzee/status/1992399242867216833",
+    "timestamp": "2025-11-23T01:06:11.000Z",
+    "metadata": {
+      "conversation_id": "1992399242867216833",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992396616737935709",
+    "source": "twitter",
+    "author": "TSpencer260",
+    "content": "@benvargas @dannyveigatx @FactoryAI Many thanks! This is great guidance.",
+    "url": "https://x.com/TSpencer260/status/1992396616737935709",
+    "timestamp": "2025-11-23T00:55:45.000Z",
+    "metadata": {
+      "conversation_id": "1992396616737935709",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992395959171703285",
+    "source": "twitter",
+    "author": "benvargas",
+    "content": "@TSpencer260 @dannyveigatx @FactoryAI This is the issue regarding Gemini 3 retries, it notes the commit before they made changes to my work :) - https://t.co/UgSlfbzimr\n\nOr, I have this fork which I'm running at the moment with it re-fixed: https://t.co/V74mGckJVg",
+    "url": "https://x.com/benvargas/status/1992395959171703285",
+    "timestamp": "2025-11-23T00:53:08.000Z",
+    "metadata": {
+      "conversation_id": "1992395959171703285",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992394921253433748",
     "source": "twitter",
     "author": "benvargas",
