@@ -1,10 +1,14 @@
 # Classification Summary
 
-**Date:** 2025-11-23 21:55 UTC
+**Date:** 2025-11-23 22:19 UTC  
+**Total Items Classified:** 0 (all items already categorized)
 
-## Results
-- **Total items classified:** 3 (new items only)
+## Current Category Breakdown (471 total items)
 
-## Category Breakdown
-- **mention:** 2 (66.7%)
-- **bug:** 1 (33.3%)
+| Category | Count | Percentage |
+|----------|-------|------------|
+| mention  | 306 | 65.0% |
+| bug      | 39 | 8.3% |
+| love     | 41 | 8.7% |
+| question | 75 | 15.9% |
+| other    | 10 | 2.1% |
