@@ -189,7 +189,10 @@
       letter-spacing: -0.02em;
       display: flex;
       align-items: center;
-      gap: 8px;
+    }
+    
+    .app-logo-text {
+      display: none;
     }
 
     /* Category Filter Pills */
@@ -340,6 +343,7 @@
     .card.focused {
       background: var(--hover);
       z-index: 10;
+      box-shadow: inset 2px 0 0 var(--text);
     }
     
     .card.selected {
@@ -355,8 +359,7 @@
     .card-checkbox {
       position: absolute;
       left: 16px;
-      top: 50%;
-      transform: translateY(-50%);
+      top: 16px;
       width: 20px;
       height: 20px;
       border: 2px solid var(--border);
@@ -391,6 +394,7 @@
       flex: 1;
       min-width: 0;
       overflow: hidden;
+      margin-right: 75px;
     }
 
     .card-meta {
@@ -401,6 +405,19 @@
       font-size: 13px;
       color: var(--text-secondary);
       margin-left: auto;
+    }
+    
+    .card-username {
+      display: flex;
+      align-items: center;
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 12px;
+      font-weight: 500;
+      border: 1px solid var(--border);
+      background: var(--card-bg);
+      color: var(--text);
+      white-space: nowrap;
     }
     
     .card-meta-item {
@@ -446,7 +463,7 @@
       overflow: hidden;
       text-overflow: ellipsis;
       display: -webkit-box;
-      -webkit-line-clamp: 2;
+      -webkit-line-clamp: 1;
       -webkit-box-orient: vertical;
       white-space: normal;
     }
@@ -461,8 +478,23 @@
         display: none !important;
     }
     
-    .card-footer {
-      display: none;
+    .card-engagement {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      font-size: 12px;
+      color: var(--text-tertiary);
+    }
+    
+    .engagement-metric {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+    }
+    
+    .engagement-metric svg {
+      width: 13px;
+      height: 13px;
     }
 
     .card-actions {
@@ -494,19 +526,21 @@
       border-color: var(--text);
     }
 
-    /* Category Icons */
-    .category-icon {
+    /* Category Tags */
+    .category-tag {
       display: flex;
       align-items: center;
-      justify-content: center;
-      width: 20px;
-      height: 20px;
+      gap: 4px;
+      padding: 3px 8px;
       border-radius: 4px;
+      font-size: 12px;
+      font-weight: 500;
+      white-space: nowrap;
     }
     
-    .category-icon svg {
-      width: 14px;
-      height: 14px;
+    .category-tag svg {
+      width: 12px;
+      height: 12px;
     }
 
     .category-mention { background: #e0e7ff; color: #4338ca; }
@@ -526,14 +560,14 @@
       bottom: 24px;
       left: 50%;
       transform: translateX(-50%) translateY(100px);
-      background: var(--text);
-      color: var(--bg);
-      padding: 8px 16px;
-      border-radius: 99px;
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      padding: 8px;
+      border-radius: 8px;
       display: flex;
       align-items: center;
-      gap: 12px;
-      box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+      gap: 8px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
       z-index: 50;
       transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
     }
@@ -542,16 +576,45 @@
       transform: translateX(-50%) translateY(0);
     }
     
+    .bulk-selection-info {
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 12px;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+    }
+    
     .bulk-count {
       font-weight: 600;
       font-size: 13px;
-      background: rgba(255,255,255,0.2);
-      padding: 2px 8px;
-      border-radius: 12px;
+      color: var(--text);
+    }
+    
+    .bulk-close {
+      background: transparent;
+      border: none;
+      color: var(--text-secondary);
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+      padding: 2px;
+      border-radius: 4px;
+    }
+    
+    .bulk-close:hover {
+      background: var(--hover);
+      color: var(--text);
+    }
+    
+    .bulk-close svg {
+      width: 14px;
+      height: 14px;
     }
     
     .bulk-btn {
-      background: transparent;
+      background: var(--text);
       border: none;
       color: var(--bg);
       font-weight: 500;
@@ -560,18 +623,28 @@
       display: flex;
       align-items: center;
       gap: 6px;
-      padding: 4px 8px;
+      padding: 6px 12px;
       border-radius: 6px;
+      transition: opacity 0.15s;
     }
     
     .bulk-btn:hover {
-      background: rgba(255,255,255,0.1);
+      opacity: 0.9;
     }
     
-    .bulk-divider {
-        width: 1px;
-        height: 16px;
-        background: rgba(255,255,255,0.2);
+    .bulk-btn svg {
+      width: 14px;
+      height: 14px;
+    }
+    
+    .multi-select-toggle {
+      display: none;
+    }
+    
+    @media (max-width: 768px) {
+      .multi-select-toggle {
+        display: flex;
+      }
     }
 
     /* Modals & Overlays */
@@ -633,21 +706,22 @@
     .status-toast {
       position: fixed;
       bottom: 24px;
-      right: 24px;
-      background: var(--text);
-      color: var(--bg);
+      left: 50%;
+      transform: translateX(-50%) translateY(100px);
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      color: var(--text);
       padding: 8px 16px;
-      border-radius: 6px;
+      border-radius: 8px;
       font-size: 13px;
       font-weight: 500;
-      box-shadow: 0 10px 20px rgba(0,0,0,0.1);
-      transform: translateY(100px);
+      box-shadow: 0 10px 30px rgba(0,0,0,0.15);
       transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
       z-index: 200;
     }
 
     .status-toast.visible {
-      transform: translateY(0);
+      transform: translateX(-50%) translateY(0);
     }
     
     .shortcuts-help {
@@ -726,7 +800,13 @@
         padding-left: 44px;
         flex-wrap: wrap;
       }
-      .card-checkbox { top: 50%; left: 12px; transform: translateY(-50%); }
+      .card-checkbox { top: 12px; left: 12px; }
+      .card-content {
+        -webkit-line-clamp: 2;
+      }
+      .card-content-wrapper {
+        margin-right: 0;
+      }
       .card-meta {
         width: 100%;
         margin-left: 0;
@@ -755,7 +835,7 @@
       <div class="header-left">
         <div class="app-logo">
           <i data-lucide="zap" style="width: 18px; height: 18px;"></i>
-          Factory Feed
+          <span class="app-logo-text">Factory Feed</span>
         </div>
         
         <div class="header-filters">
@@ -827,6 +907,9 @@
       </div>
       
       <div class="app-controls">
+        <button class="icon-btn multi-select-toggle" id="multiSelectToggle" title="Multi-select">
+          <i data-lucide="check-square"></i>
+        </button>
         <button class="icon-btn" id="refreshBtn" title="Refresh (R)">
           <i data-lucide="refresh-cw"></i>
         </button>
@@ -854,16 +937,15 @@
   </div>
   
   <div class="bulk-actions-bar" id="bulkBar">
-      <button class="bulk-btn" id="clearSelectionBtn" title="Clear Selection (Esc)">
+      <div class="bulk-selection-info">
+        <span class="bulk-count" id="bulkCount">0 selected</span>
+        <button class="bulk-close" id="clearSelectionBtn" title="Clear Selection (Esc)">
           <i data-lucide="x"></i>
-      </button>
-      <div class="bulk-divider"></div>
-      <div class="bulk-count" id="bulkCount">0</div>
+        </button>
+      </div>
       <button class="bulk-btn" id="archiveSelectedBtn" title="Archive Selected (E)">
-          <i data-lucide="archive"></i> Archive
-      </button>
-      <button class="bulk-btn" id="selectAllBtn" title="Select All (Shift+A)">
-          <i data-lucide="check-square"></i>
+        <i data-lucide="archive"></i>
+        Archive
       </button>
   </div>
   
@@ -905,7 +987,8 @@
       activeCategory: 'all', // all, mention, bug, love, question, other
       showArchived: false,
       focusedId: null,
-      config: {}
+      config: {},
+      multiSelectMode: false
     };
 
     // DOM Elements
@@ -1063,16 +1146,20 @@
         document.querySelectorAll('.card').forEach(card => {
           card.addEventListener('click', (e) => {
              // Avoid double actions if clicking interactive elements
-             if (e.target.closest('.action-pill')) return;
              if (e.target.closest('.card-checkbox')) return;
              if (e.target.tagName === 'A') return;
              
              const id = card.dataset.id;
              focusCard(id);
              
-             // Click body now opens the URL
-             const url = card.dataset.url;
-             if (url) window.open(url, '_blank');
+             // In multi-select mode, clicking anywhere selects the post
+             if (state.multiSelectMode) {
+               toggleSelection(id);
+             } else {
+               // Otherwise, open the URL
+               const url = card.dataset.url;
+               if (url) window.open(url, '_blank');
+             }
           });
       });
       
@@ -1081,22 +1168,6 @@
               e.stopPropagation();
               const id = box.dataset.id;
               toggleSelection(id);
-          });
-      });
-      
-      document.querySelectorAll('.action-archive').forEach(btn => {
-          btn.addEventListener('click', (e) => {
-              e.stopPropagation();
-              const id = btn.dataset.id;
-              toggleArchive(id);
-          });
-      });
-
-      document.querySelectorAll('.action-open').forEach(btn => {
-          btn.addEventListener('click', (e) => {
-              e.stopPropagation();
-              const url = btn.dataset.url;
-              if (url) window.open(url, '_blank');
           });
       });
     }
@@ -1112,6 +1183,28 @@
       if (item.source === 'twitter') sourceIcon = 'twitter';
       if (item.source === 'reddit') sourceIcon = 'message-square';
       if (item.source === 'github') sourceIcon = 'github';
+      
+      const categoryLabels = {
+        mention: 'Mention',
+        bug: 'Bug',
+        love: 'Love',
+        question: 'Question',
+        other: 'Other'
+      };
+
+      // Build engagement metrics HTML
+      let engagementHTML = '';
+      if (item.metadata?.likes || item.metadata?.retweets || item.metadata?.replies || item.metadata?.stars) {
+        const metrics = [];
+        if (item.metadata?.likes) metrics.push(`<span class="engagement-metric"><i data-lucide="heart"></i>${formatNumber(item.metadata.likes)}</span>`);
+        if (item.metadata?.retweets) metrics.push(`<span class="engagement-metric"><i data-lucide="repeat"></i>${formatNumber(item.metadata.retweets)}</span>`);
+        if (item.metadata?.replies) metrics.push(`<span class="engagement-metric"><i data-lucide="message-circle"></i>${formatNumber(item.metadata.replies)}</span>`);
+        if (item.metadata?.stars) metrics.push(`<span class="engagement-metric"><i data-lucide="star"></i>${formatNumber(item.metadata.stars)}</span>`);
+        
+        if (metrics.length > 0) {
+          engagementHTML = `<div class="card-engagement">${metrics.join('')}</div>`;
+        }
+      }
 
       return `
         <div class="card ${isArchived ? 'archived' : ''} ${isSelected ? 'selected' : ''}" 
@@ -1134,15 +1227,14 @@
           </div>
           
           <div class="card-meta">
+            ${engagementHTML}
             <div class="card-meta-item">
-              <span class="source-badge source-${item.source}" style="width: 16px; height: 16px;">
-                <i data-lucide="${sourceIcon}" style="width: 12px; height: 12px;"></i>
-              </span>
-              <span class="card-author">${item.author}</span>
+              <span class="card-username">${item.author}</span>
             </div>
             <div class="card-meta-item">
-              <span class="category-icon category-${category}" style="width: 16px; height: 16px;" title="${category}">
-                <i data-lucide="${getCategoryIcon(category)}" style="width: 12px; height: 12px;"></i>
+              <span class="category-tag category-${category}">
+                <i data-lucide="${getCategoryIcon(category)}"></i>
+                ${categoryLabels[category]}
               </span>
             </div>
             <div class="card-meta-item">
@@ -1172,7 +1264,7 @@
         const count = state.selectedIds.size;
         if (count > 0) {
             elements.bulkBar.classList.add('visible');
-            elements.bulkCount.textContent = `${count}`;
+            elements.bulkCount.textContent = `${count} selected`;
         } else {
             elements.bulkBar.classList.remove('visible');
         }
@@ -1254,6 +1346,14 @@
         if (state.filteredItems.length === 0) return;
         
         let currentIndex = state.filteredItems.findIndex(i => i.id === state.focusedId);
+        
+        // If no focused item, start from the last selected item
+        if (currentIndex === -1 && state.selectedIds.size > 0) {
+            const selectedIds = Array.from(state.selectedIds);
+            const lastSelectedId = selectedIds[selectedIds.length - 1];
+            currentIndex = state.filteredItems.findIndex(i => i.id === lastSelectedId);
+        }
+        
         if (currentIndex === -1) {
             currentIndex = 0;
         } else {
@@ -1353,8 +1453,16 @@
         
         // Bulk Actions
         document.getElementById('archiveSelectedBtn').addEventListener('click', archiveSelected);
-        document.getElementById('selectAllBtn').addEventListener('click', selectAllVisible);
         document.getElementById('clearSelectionBtn').addEventListener('click', clearSelection);
+        
+        // Multi-select toggle
+        document.getElementById('multiSelectToggle').addEventListener('click', () => {
+            state.multiSelectMode = !state.multiSelectMode;
+            document.getElementById('multiSelectToggle').classList.toggle('active', state.multiSelectMode);
+            if (!state.multiSelectMode) {
+                clearSelection();
+            }
+        });
 
         // Controls
         document.getElementById('refreshBtn').addEventListener('click', fetchFeed);
@@ -1401,19 +1509,30 @@
                     }
                     break;
                 case 'x':
-                    if (state.focusedId) toggleSelection(state.focusedId);
-                    break;
-                case 'a':
                     if (e.shiftKey) {
+                        // Shift+X toggles multi-select mode
                         e.preventDefault();
-                        selectAllVisible();
+                        state.multiSelectMode = !state.multiSelectMode;
+                        document.getElementById('multiSelectToggle')?.classList.toggle('active', state.multiSelectMode);
+                        if (!state.multiSelectMode) {
+                            clearSelection();
+                        }
+                        showToast(state.multiSelectMode ? 'Multi-select mode enabled' : 'Multi-select mode disabled');
+                    } else if (state.focusedId) {
+                        toggleSelection(state.focusedId);
                     }
                     break;
                 case 'escape':
+                    if (state.multiSelectMode) {
+                        state.multiSelectMode = false;
+                        document.getElementById('multiSelectToggle')?.classList.toggle('active', false);
+                    }
                     clearSelection();
                     break;
                 case 'enter':
-                    openFocused();
+                    if (!state.multiSelectMode) {
+                        openFocused();
+                    }
                     break;
                 case 'r':
                     fetchFeed();
