@@ -319,6 +319,18 @@
       max-height: 0;
     }
     
+    .sidebar-commands-hint {
+      font-size: 10px;
+      color: var(--text-tertiary);
+      padding: 0 12px 8px 12px;
+      opacity: 0.7;
+      display: none;
+    }
+    
+    .sidebar-commands-section.collapsed .sidebar-commands-hint {
+      display: block;
+    }
+    
     .sidebar-section-title {
       font-size: 11px;
       font-weight: 600;
@@ -1447,6 +1459,7 @@
             Commands
             <i data-lucide="chevron-down"></i>
           </div>
+          <div class="sidebar-commands-hint">(⌘K to open)</div>
           <div class="sidebar-commands-list">
             <div class="sidebar-command">
               <kbd>← / →</kbd>
