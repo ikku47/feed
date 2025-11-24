@@ -1,5 +1,65 @@
 [
   {
+    "id": "twitter_1992969959543054475",
+    "source": "twitter",
+    "author": "realkieranlewis",
+    "content": "@matanSF @FactoryAI I've been giving Droid CLI a light test (heavy claude code/codex CLI user) and it's sucked so far. I always see you comment things like \"try Factory\" so maybe something is wrong here, idk, but this thing constantly hangs on me with \"thinking\" forever and I have to kill the session. I generated a bug report when it's happened again now but the \"support\" link in the webapp just takes me to a blank page and the only other option on the site is \"contact sales\" 💀 so I have no way to submit it. In general even without the constant hanging bug though the exp is worse than CC/Codex. Gemini 3 seems to have issues too in there, where it hallucinates what's in an image I'm showing it (but Claude works fine for reading images).",
+    "url": "https://x.com/realkieranlewis/status/1992969959543054475",
+    "timestamp": "2025-11-24T14:54:00.000Z",
+    "metadata": {
+      "conversation_id": "1992969959543054475",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992965919857943025",
+    "source": "twitter",
+    "author": "deliprao",
+    "content": "@bentossell @makerfounder @FactoryAI This is super cool. Thanks!",
+    "url": "https://x.com/deliprao/status/1992965919857943025",
+    "timestamp": "2025-11-24T14:37:57.000Z",
+    "metadata": {
+      "conversation_id": "1992965919857943025",
+      "likes": 1,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992959115111608391",
+    "source": "twitter",
+    "author": "bentossell",
+    "content": "@klyndrud1 @thedanifrim @FactoryAI ah damn! ok team will be up v soon (in sf) so i'll try get you something helpful asap",
+    "url": "https://x.com/bentossell/status/1992959115111608391",
+    "timestamp": "2025-11-24T14:10:55.000Z",
+    "metadata": {
+      "conversation_id": "1992959115111608391",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+    "id": "twitter_1992958658381275481",
+    "source": "twitter",
+    "author": "klyndrud1",
+    "content": "@bentossell @thedanifrim @FactoryAI unfortunately it didn't help",
+    "url": "https://x.com/klyndrud1/status/1992958658381275481",
+    "timestamp": "2025-11-24T14:09:06.000Z",
+    "metadata": {
+      "conversation_id": "1992958658381275481",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 1,
+      "quotes": 0
+    }
+  },
+  {
     "id": "twitter_1992956433776939264",
     "source": "twitter",
     "author": "StijnSmits",
