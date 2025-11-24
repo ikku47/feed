@@ -1,5 +1,23 @@
 [
   {
+<<<<<<< Updated upstream
+=======
+    "id": "twitter_1992970369976721865",
+    "source": "twitter",
+    "author": "meTheKarthik",
+    "content": "1h 16m and still counting 🤣\n\nalso, i can't see the thinking tokens for gemini 3.0 pro in @FactoryAI - is that by design? https://t.co/ZZq4YVSqHF",
+    "url": "https://x.com/meTheKarthik/status/1992970369976721865",
+    "timestamp": "2025-11-24T14:55:38.000Z",
+    "metadata": {
+      "conversation_id": "1992970369976721865",
+      "likes": 0,
+      "retweets": 0,
+      "replies": 0,
+      "quotes": 0
+    }
+  },
+  {
+>>>>>>> Stashed changes
     "id": "twitter_1992969959543054475",
     "source": "twitter",
     "author": "realkieranlewis",
